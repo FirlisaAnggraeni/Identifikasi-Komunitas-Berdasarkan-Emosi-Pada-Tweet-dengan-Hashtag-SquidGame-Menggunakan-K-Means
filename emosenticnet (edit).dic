@@ -1,0 +1,13175 @@
+unfriendliness	1
+offence	1
+tumult	1
+turmoil	1
+quietude	1	4
+stir	1
+stewing	1
+impatience	1
+conniption	1
+fidget	1
+fidgetiness	1
+restlessness	1
+fearlessness	1
+egotism	1
+self-importance	1
+inquietude	1
+disquietude	1
+dislike	1
+discomposure	1
+disconcertion	1
+disconcertment	1
+disapproval	1
+cynicism	1
+confusion	1
+boot	1
+disquiet	1
+antipathy	1
+aversion	1
+disaffection	1
+agitation	1
+impatient	1
+agitated	1
+miffed	1
+pissed off	1
+steamed	1
+unquiet	1
+chagrined	1
+disordered	1
+cynical	1
+foiled	1
+thwarted	1
+desperate	1
+disapproving	1
+disturbing	1
+perturbing	1
+disquieted	1
+disturbed	1
+audacious	1
+brave	1
+dauntless	1
+fearless	1
+hardy	1
+intrepid	1
+unfearing	1
+unafraid	1
+hectic	1
+antsy	1
+fidgety	1
+itchy	1
+proud	1
+inimical	1
+agitate	1
+foment	1
+stir up	1
+flurry	1	4
+disapprove	1
+reject	1
+discompose	1
+chivy	1
+chivvy	1
+chevy	1
+chevvy	1
+beset	1
+plague	1
+molest	1
+provoke	1
+instigate	1
+inflame	1
+ignite	1
+fire up	1
+impatiently	1
+noise	1
+loud	1
+noisy	1
+good bad	1
+make sound	1
+consequence	1
+action	1
+fight	1
+argue	1
+rod	1
+damn	1
+seizure	1
+bite	1
+rude	1
+scream	1
+loud shout	1
+steam	1
+violent	1
+destructive	1
+violence	1
+punch face	1
+make person angry	1
+person angry	1
+offend other person	1
+cross	1
+destroy	1
+red	1
+protest	1
+mob	1
+riot	1
+demonstration	1
+spiky	1
+spike	1
+hot	1
+pointy	1
+conflict	1
+take life	1
+duel	1
+shoot	1
+combat	1
+gun	1
+battle	1
+dispute	1
+push	1
+lock up	1
+slur word	1
+kill brain cell	1
+push limit	1
+hit	1
+war	1
+anger person	1
+dangerous activity	1
+intense	1
+threaten	1
+spy	1
+hit brother	1
+kill man	1
+fierce	1
+rip	1
+poke	1
+prick	1
+argument	1
+hit head	1
+difficult	1
+flammable	1
+get revenge	1
+weigh consequence	1
+brat	1
+hard hit	1
+bludgeon	1
+explode	1
+punch	1
+make angry	1
+demolition	1
+shoot gun	1
+pull trigger	1
+crime	1
+fire weapon	1
+negative feel	1
+thrash	1
+slap	1
+start fight	1
+kill enemy	1
+feel angry	1
+red eye	1
+felony	1
+clash	1
+dominate	1
+annoy person	1
+blow off steam	1
+angry emotion	1
+confrontation	1
+hit face	1
+make mad	1
+violent person	1
+angry person	1
+road rage	1
+bang head	1
+hit yourself head	1
+illegal alien	1
+answer back	1
+hear noise	1
+attack enemy	1
+negative reaction	1	2	4
+undesirable	1	2
+freak	1	2
+traffic congestion	1	2	4
+destroy city	1	2	6
+slay	1	2	6
+distract	1	2
+person commit crime	1	2	4	5	6
+high tax	1	2	5	6
+injustice	1	2	4
+revenge	1	2	6
+punish crime	1	6
+influence public decision	1	2
+corrupt	1	2	5	6
+government person	1	2
+parliament	1	2
+government official	1	2
+offender	1	2	3
+political party	1	2
+make mistake	1	2
+extinguish	1	4
+big small	1
+nine	1
+high cholesterol	1	4
+con man	1
+blow smoke	1	2
+slip fall	1	2
+out chair	1
+move upward	1
+steep	1
+crash car	1
+silly	1
+email program	1	2
+forward email	1	2
+read email	1	2
+dont like	1
+human trait	1
+check listing	1	2
+complain	1
+lose sleep	1	6
+slang	1	2
+tell why	1
+money transfer	1
+cash pay	1	6
+give cash	1	6
+third world country	1
+traitor	1	2	4	6
+treachery	1	2	4	6
+power outage	1	2
+pin needle	1	3
+alarm clock ring	1	4
+go bed early	1	3	6
+work garden	1	3
+will	1	3	4
+see sunrise	1	4
+get coffee	1	3	4	5	6
+sleep early	1	3	6
+make rule	1
+form government	1	2	6
+two line	1	4
+business organization	1	3
+become angry	1	3
+sleep day	1	3	5	6
+verb noun	1
+vocation	1	5
+like girl	1	2	5	6
+beautiful girl	1	4	6
+broken window	1	3
+twister	1	6
+talk interest person	1	3	5	6
+good conversation	1	3
+justin	1	2
+dynasty	1	3	5
+piece metal	1	3	5	6
+stay dry	1	4
+good night	1	4
+high quality	1
+brooklyn	1	5
+block light	1	3
+scratch itch	1
+pew	1
+biased	1	5
+listen speaker	1
+thump	1	3
+fail test	1	2	4	6
+raise voice	1	3
+corporate	1	3
+mislead	1	2
+tease	1	2
+involve	1	3
+land owner	1
+vengence	1
+shut up	1	2
+take shit	1	2
+want badly	1	3
+misunderstanding	1	4
+bad grade	1	4
+old technology	1
+poodle	1	3
+unbearable	1	2
+rotten fruit	1	2	4
+uncertain	1	3
+restrict freedom	1	4
+voltage	1	2	6
+power source	1	2	6
+electron	1	2	6
+hurt else	1	2	6
+bus person	1	2	6
+stressful job	1	2	6
+become extinct	1	2	6
+secret organization	1	2	6
+math action	1	6
+mos	1	2
+call sick	1	2	6
+might fall asleep	1	2	6
+read good book	1	2	6
+shut eye	1	2	6
+relieve tension	1	6
+invigorate	1	2	6
+ouch	1	2	6
+hit fist	1	2	6
+floppy disk	1	2	6
+store datum	1	2	6
+household	1	2	6
+malfunction	1	6
+rubble	1	6
+car wreck	1	2	6
+make copy	1	2	6
+weave cloth	1	2	6
+human invention	1	2	6
+scrub floor	1	2	6
+play tape	1	6
+bottle soda	1	6
+screw screw	1	2	6
+wink	1	2	6
+eye close	1	6
+soar	1	6
+body hurt	1	2	6
+bandage	1	2	6
+dry wet hair	1	2	6
+move object	1	2	6
+serious injury	1	2	6
+puss	1	2
+liquid beverage	1	2	6
+cocktail party	1	6
+store bottle	1	6
+blend	1	2	6
+team play	1	2	6
+get injure	1	2	6
+strike out	1	2	6
+shin	1
+old coin	1	2	6
+ace	1	2	6
+concern health	1	6
+fry chicken	1	2	6
+red indian	1	2	6
+knit sweater	1	2	6
+knot	1	2	6
+needlework	1	2	6
+mimic	1	2	6
+imitate	1
+mock	1	2	6
+political division	1	2	6
+create help other person	1	6
+clean water	1	2	6
+old man	1	2	6
+stop look	1	2	6
+use ear	1	6
+smartness	1	2	6
+gather flower	1	2	6
+unit language	1	2	6
+abc	1	2	6
+touch heart	1	2	6
+become obsolete	1	2	6
+tell love	1	2	6
+write friend	1	2	6
+episode	1	2	6
+edition	1
+tv series	1	2	6
+bomber	1	2	6
+terrorism	1	6
+start war	1	2	6
+decide order	1	2	6
+catastrophe	1	2	6
+equity	1	2	6
+equality	1	6
+average	1	2
+poorly	1	2	6
+miss out	1	2	6
+worse	1	2	6
+read book subject	1	2	6
+study library	1	6
+get better	1	2	6
+scold	1	2	6
+pervert	1	2	6
+keep well	1	2	6
+rot	1	2	6
+buck	1	2	6
+adventurer	1	6
+deadly sin	1	6
+hear funny joke	1	2	6
+fine art	1	2	6
+fleet	1	6
+vulnerable	1	2	6
+body movement	1	2	6
+physic term	1	2	6
+upward	1	2	6
+pull up	1	2	6
+add two number	1	2	6
+make cry	1	6
+promise good	1	6
+sun themselves	1	2	6
+learn love another	1	2	6
+roll ball	1	2	6
+visit grandparent	1	2	6
+watch cartoon	1	2	6
+goofy	1	2	6
+purple color	1	2	6
+eat potato	1	2	6
+become adult	1	2	6
+bounce ball	1	2	6
+human offspring	1	2	6
+born mother	1	2
+bug person	1	2	6
+dress herself	1	6
+buy christmas present	1	6
+love pet	1	2	6
+like play game	1	2	6
+lose key	1	6
+sandal	1	2	6
+watch clock	1	2	6
+play computer game	1	2	6
+play paint	1	2	6
+run around	1	2	6
+use word	1	2	6
+question teacher	1	6
+act up	1	6
+succeed school	1	2	6
+meet friend lunch	1	2	6
+make sex	1	2	6
+rob bank	1	2	6
+achievable	1	2	6
+leave work	1	2	6
+kill chicken	1	2	6
+hound	1	2	6
+much energy	1	2	6
+meeting	1	2	6
+fell	1	6
+viewpoint	1	6
+wind up	1	2	6
+good emotion	1	2	6
+gnat	1	2	6
+annoy bug	1	2	6
+prove point	1	6
+trivia	1	6
+appear	1	2	6
+type government	1	2	6
+korea	1	2	6
+representative	1	2	6
+game piece	1	2	6
+work together	1	2	6
+brainstorm	1	2	6
+form public transportation	1	2	6
+dugout	1	2	6
+win lose game	1	2	6
+hot summer	1	2	6
+raise right hand	1	6
+make promise	1	6
+make commitment	1	2	6
+give word	1	2	6
+right now	1	2	6
+electrical	1	6
+relevance	1	2	6
+water flow	1	2	6
+the us	1	2	6
+cultural change	1	2	6
+suntan lotion	1	2	6
+alter state consciousness	1	2	6
+bee product	1	2	6
+fall tree	1	2	6
+believer	1	2	6
+ticket office	1	2	6
+memento	1
+fall spring	1	2	6
+common name	1	2	6
+even out	1	6
+new relationship	1	2	6
+joke around	1	2	6
+use credit card	1	2	6
+store goods	1	6
+make factory	1	2	6
+see dog	1	2	6
+ballot	1	2	6
+work day	1	2	6
+bachelor degree	1	2	6
+senior	1	2	6
+feel exhaust	1	2	6
+reach goal	1	2
+investment return	1	2	6
+work car	1	6
+eyeglass case	1	6
+hold glass	1	2	6
+mince	1	2	6
+chop onion	1	6
+colposcope	1	2	6
+sport game	1	2	6
+robe	1	2	6
+air tank	1	2	6
+overwhelm	1	2	6
+agony	1	2	6
+sanitation	1	2	6
+get rid dirt	1	2
+buy many	1	2	6
+regular	1	2	6
+bounce check	1	6
+keep hand warm	1	2	6
+stick mud	1	2	6
+air breathe	1	2	6
+human action	1	2	6
+inhale	1	2	6
+cause change	1	2	6
+healthy person	1	2	6
+oceanside	1	2	6
+show love	1	2	6
+remove heat	1	2	6
+salivation	1
+burn food	1	2	6
+become bore	1	2	6
+read program	1	6
+hold soup	1	2	6
+telephone pole	1	2	6
+produce goods	1	2	6
+thespian	1	6
+portray	1	2	6
+role play	1	2	6
+blurry	1	2	6
+work restaurant	1	2	6
+good attitude	1	2	6
+two arm	1	2	6
+nod head	1	2	6
+concord	1	2
+avoid conflict	1	2	6
+acknowledgement	1	6
+admit	1	6
+let know	1	2	6
+while	1	2	6
+otoscope	1	6
+light instrument	1	2	6
+annex	1	2	6
+steal store	1	2	4	5	6
+get ticket	1	6
+cold air	1	2	6
+diagnose illness	1	2	6
+capsule	1	2	6
+care giver	1	2	6
+sender	1	2	6
+raze	1	2	6
+demolish	1	2	6
+grow beard	1	2	6
+diversity	1
+improve look	1	2	6
+will die	1	2	6
+protect country	1	6
+invade	1	2	6
+nanotechnology	1	2	6
+general name	1	2	6
+lab coat	1	6
+know world	1	2	6
+invitation response	1	2	6
+pint	1	2	6
+quart	1	2	6
+study biology	1	2	6
+not plant	1	2	6
+mexican	1	2	6
+sit up	1	2
+feel stress	1	2	6
+see justice done	1	6
+member jury	1	2	6
+juror	1	2	6
+suggestion	1	2	6
+tape dispenser	1	2
+psychologist	1	2	6
+loafer	1	2	6
+shoe type	1	6
+bummer	1	2	6
+odd	1	2	6
+enumeration	1	2	6
+numerical	1	2	6
+numb	1	2	6
+kick ass	1	2	6
+hit hard	1	2	6
+feel strong	1	2	6
+stab knife	1	2	6
+break bone	1	2	6
+feel anger	1
+teach lesson	1	2	6
+diffusion	1	2	6
+recreational	1	2	6
+finish work	1	2	6
+make feel happy	1	2	6
+we do	1	2	6
+skin knee	1
+fun child	1	2	6
+fun pastime	1	2	6
+mouth open	1	6
+blueprint	1	2	6
+reinforcement	1	2	6
+positive reinforcement	1	2	6
+bounty	1	6
+brownie point	1	2	6
+overhead	1	2	6
+front page	1	2	6
+gunfire	1	2	6
+session	1	2	6
+piece wood	1
+slow dance	1	2	6
+make dress	1	2	6
+needle thread	1	6
+use needle	1	2	6
+sell beer	1	2	6
+basic human need	1	2	6
+tool shed	1	2	6
+cut lumber	1	6
+use musical instrument	1	2
+water source	1	2	6
+nope	1	2	6
+say no	1	2	6
+go debt	1	2	6
+get kill	1	6
+forget trouble	1	2	6
+construction work	1	2	6
+person sex	1	2	6
+filth	1	2	6
+really hot	1	2	6
+red orange	1	2	6
+chemical process	1	6
+cinder	1	6
+inferno	1	2	6
+camp site	1	2	6
+yellow orange	1	6
+radiation	1	2	6
+often red	1	2	6
+moth	1	2	6
+wing insect	1	2	6
+hunt duck	1	2	6
+black eye	1	2	6
+fact straight	1	6
+make life better	1	6
+legislation	1	2	6
+go stadium	1	2	6
+wasp	1	2	6
+short verb	1	2	6
+hand cramp	1	2	6
+run out ink	1	2	6
+find paper	1	2	6
+tendonitis	1	2	6
+vicar	1	2	6
+religious leader	1	2	6
+rabbi	1	2	6
+cleric	1	2
+no end	1	2	6
+geometrical	1	6
+arrange	1	6
+call out	1	2	6
+see how long line	1	2	6
+enter place	1	6
+move slowly	1	2	6
+know line	1	2	6
+put music	1	2	6
+person applaud	1	2	6
+attract mate	1	2	6
+write computer program	1	2	6
+protect home	1	6
+know well	1	6
+careful plan	1	2	6
+plant field	1	2	6
+adam eve	1	2	6
+tend	1	2	6
+atrium	1	2	6
+adam	1	2	6
+cold foot	1	2	6
+travel across world	1	2	6
+eat worm	1	2	6
+binoculars	1	2	6
+walk part	1	6
+wal	1	6
+pillar	1	2	6
+pair scissor	1	2	6
+inner peace	1	2	6
+sleepwalk	1	6
+court system	1	6
+become blind	1	2	6
+distribute	1	2	6
+sexual intercourse	1	2	6
+hair dryer	1	2	6
+eat bad food	1	2	6
+confetti	1	2	6
+red-bellied black snake	1	2	6
+confine	1	2	6
+worm intestine	1	2	6
+heartbeat	1	2	6
+no human	1	2	6
+speak human language	1	6
+feel pleasure	1	6
+rape	1	2	6
+pure	1	2	6
+travel moon	1	2	6
+on your	1	6
+jot	1	2	6
+hold change	1	2	6
+sexual pleasure	1	2	4	6
+feel faint	1	2	6
+know first	1	2	6
+show affection	1	2	6
+leave line	1	2	6
+look up word dictionary	1	2	6
+walk slowly	1	2	6
+walk around	1	2	6
+meander	1
+mentally challenge	1	2	6
+time pass	1	2	6
+exercise mind	1	6
+feudalism	1	2	6
+receive service	1	2	6
+drink coffe	1	2	6
+access internet	1	6
+desire learn	1	2	6
+change life	1	2	6
+build bridge	1	2	6
+coal	1	2	6
+misbehavior	1	2	6
+misbehave	1	2	6
+petro dish	1	2	6
+septic tank	1	2
+use binoculars	1	4	5
+search item	1	2	3	4	6
+criticize	1	4
+cause accident	1	4	5	6
+hit wall	1	2
+twilight	1	3	6
+identify yourself	1	3
+fume	1	2
+pollute air	1	2
+hazardous health	1	2
+bad habit	1	2	4
+addict	1	2	4
+car repair	1	2
+council	1	2
+govern city	1	2
+political leader	1	2
+govern	1	2
+tithe	1	2	4
+park ticket	1
+spoil food	1
+make fist	1
+beat up	1	6
+quarrel	1
+dowry	1	2	4
+smash	1
+fight against	1	6
+stressful situation	1
+break down	1	2
+run out gas	1	2
+form punishment	1
+penalty	1
+serve cold	1	3
+lose war	1	4	6
+fight man	1	6
+rudeness	1	4
+get fight	1
+nasty	1
+notoriety	1
+pulverize	1
+desperation	1	2
+blister foot	1	4
+superstition	1	2
+lack sleep	1	4
+bad mood	1	4
+become stress	1
+prepare fight	1	6
+restrict	1
+cut off	1
+restraint	1
+punch bag	1
+prove yourself	1	3
+sneaky	1
+villain	1
+alcoholism	1	2	4
+weapon war	1	2	4
+make war	1
+mistreat	1	4
+feel bore	1
+lose temper	1
+kill another person	1
+violent crime	1
+break arm	1
+clamor	1	2
+wrong another person	1	2
+neglect chore	1
+phone line busy	1	4
+orthodox	1	2
+arrogance	1	2
+chuck	1
+kill specific group	1	2
+racist	1	2
+storm out room	1
+birch	1
+rock out	1
+break apart	1	4
+misplace	1	4
+opposition	1
+plastic bag	1	2
+mind control	1
+cause suffer	1	4
+scare dog	1	2
+report news	1	3	4
+lose mind	1
+disarray	1	2
+done person	1
+drug addict	1	2
+master control	1
+follow rule	1	2
+create pollution	1	2
+time out	1	4	6
+cowardly	1
+sour milk	1	3
+kill other person	1
+selfish	1	2
+annoy other person	1
+hypocrite	1
+bad boy	1	6
+silliness	1
+person dislike	1
+osama bin laden	1	6
+greedy person	1	2
+caste	1
+divide property	1	3
+inefficiency	1	2
+lax	1	2
+come off	1	4	5
+smoke wee	1	2	5	6
+capitalist	1	2
+rogue	1	2	6
+destroyer	1	2	4	6
+paper punch	1	2	6
+unconcern	2
+self-disgust	2
+self-depreciation	2
+pessimism	2
+ingratitude	2
+ungratefulness	2
+indifference	2
+phlegm	2
+discomfiture	2
+demoralisation	2
+contempt	2
+despite	2
+chagrin	2
+distaste	2
+disgraced	2
+dishonored	2
+repelling	2
+skanky	2
+dislikable	2
+sticky	2
+scandalmongering	2
+yellow	2
+disgraceful	2
+scandalous	2
+shameful	2
+ignominious	2
+inglorious	2
+opprobrious	2
+gross out	2
+turn one's stomach	2
+abjectly	2
+stink	2
+garbage	2
+store trash	2
+lick	2
+hangover	2
+drunk drive	2
+become drunk	2
+pick up woman	2
+dirty clothe	2
+clothe dirty	2
+fart	2
+dirty laundry	2
+slave owner	2
+butt	2
+lazy	2
+sit around	2
+urinate	2
+pull down pant	2
+dick	2
+pee	2
+empty bladder	2
+wet pant	2
+drink much beer	2
+unzip pant	2
+suck	2
+belch	2
+fuck	2
+human noise	2
+make loud noise	2
+sleepy	2
+not work	2
+maggot	2
+ant	2
+spank	2
+maim	2
+hurt person	2
+bloody	2
+tear apart	2
+smell	2
+chew tobacco	2
+open mouth	2
+gross	2
+drool	2
+pull apart	2
+hurt others	2
+clique	2
+spread germ	2
+stop smell rose	2
+noise pollution	2
+disgrace	2
+dishonor	2
+kinky sex	2
+bribe teacher	2
+throw up	2
+get arrest	2
+get dizzy	2
+hit car	2
+intoxication	2
+stagger	2
+pass out	2
+vomit	2
+nit	2
+dirt soil	2
+dirt	2
+underfoot	2
+dirty	2
+under foot	2
+trash	2
+bad breath	2
+stand queue	2
+guffaw	2
+exaggerate	2
+abuse	2
+drink much alcohol	2
+worm	2
+avoid work	2
+dirty dish	2
+burp	2
+spill food clothe	2
+overeat	2
+hot weather	2
+persistance	2
+rob	2
+pollution	2
+cheat	2
+long line	2
+poop	2
+cow skin	2
+decay	2
+laziness	2
+drug	2
+live underground	2
+drink booze	2
+scratchy	2
+eat raw fish	2
+transmit disease	2
+itch	2
+overpopulation	2
+venereal disease	2
+std	2
+naked	2
+cut flower	2
+again again	2
+infect	2
+infection	2
+noise maker	2
+ring loudly	2
+commit crime	2
+oral sex	2
+shit	2
+pick nose	2
+swear	2
+sweaty	2
+strip	2
+infidelity	2
+skin irritation	2
+impregnate female	2
+spread disease	2
+contagious	2
+defecate	2
+make lot noise	2
+fussy	2
+much work	2
+eat animal	2
+kill time	2
+noisy place	2
+spider	2
+roadblock	2
+dunk	2
+sticky substance	2
+drink lot beer	2
+dig dirt	2
+wait bus	2
+bad haircut	2
+deny	2
+religious fundamentalist	2
+piss	2
+stupidity	2
+waste money	2
+take off clothe	2
+pest	2
+drunkeness	2
+fake	2
+repeat	2
+repetition	2
+porno	2
+overrate	2
+waste	2
+taste bitter	2
+diuretic	2
+persistence	2
+chop tree	2
+hooch	2
+hunter	2
+garbage can	2
+hold trash	2
+dustbin	2
+rubbish	2
+buy love	2
+bad food	2
+make throw up	2
+wipe nose	2
+late work	2
+tear paper	2
+peek	2
+boo	2
+peep	2
+buy happiness	2
+clutter	2
+hunt animal	2
+hunt game	2
+kill animal	2
+messy room	2
+not go work	2
+political action	2
+drunkard	2
+george bush	2
+bell noise	2
+display wealth	2
+animal sound	2
+shave head	2
+politician	2
+mucus	2
+bodily fluid	2
+body fluid	2
+cause problem	2
+decomposition	2
+bullshit	2
+falsehood	2
+deception	2
+bathroom floor	2
+scandal	2
+dishonesty	2
+phony	2
+deceit	2
+dishonest	2
+lazyness	2
+take drug	2
+sneeze	2
+defecation	2
+junkie	2
+druggy	2
+become addict	2
+cannibalism	2
+weird	2
+eat dog	2
+pee pant	2
+howl	2
+shout loudly	2
+nonsense	2
+politics	2
+avoid responsibility	2
+asshole	2
+dog bark	2
+pass gas	2
+loudness	2
+bribe	2
+payoff	2
+pay off	2
+bad smell	2
+drink blood	2
+hiccup	2
+big mouth	2
+person sweat	2
+body odor	2
+bad odor	2
+stench	2
+crude	2
+anus	2
+loud noise	2
+bad manner	2
+vengeance	2
+racoon	2
+stinky	2
+cutworm	2
+caterpillar	2
+nicotine	2
+cigarette	2
+blow nose	2
+public toilet	2
+suspicion	2
+time waster	2
+couch potato	2
+political	2
+crap	2
+tooth decay	2
+narcolepsy	2
+sleep disorder	2
+morgue	2
+rote	2
+slang woman	2
+brag	2
+make drunk	2
+tyrant	2
+soot	2
+disloyal	2
+use drug	2
+bad taste	2
+eat establishment	2
+hit tree	2
+get stick traffic	2
+feel heat	2
+rotten food	2
+bad person	2
+cat hair	2
+go jail	2
+piss off	2
+hide evidence	2
+take crap	2
+idiot	2
+make pollution	2
+honk horn	2
+puke	2
+brainwash	2
+enslave person	2
+four letter word	2
+careless	2
+commit genocide	2
+drunk person	2
+many insect	2
+stigma	2
+discrimination	2
+disrespect	2
+prejudice	2
+spam	2
+mouth noise	2
+beep	2
+loud music	2
+mole cricket	2
+cut meat	2
+pry open	2
+kill cat	2
+squeeze	2	3
+clamp	2
+brush off	2
+repeat action	2
+leftover	2	4
+malaria	2	4
+mosquito	2
+sterile	2	4	6
+main traffic artery	2
+inaction	2
+air pollution	2	4
+ritual	2
+repetitive action	2
+despot	2	6
+battle cancer	2	4	6
+old food	2
+beast	2	6
+lose track time	2	4	6
+read out loud	2
+become distract	2	4
+change opinion	2
+stop traffic light	2	4
+bury dead person	2	4	5	6
+find guilty	2	4	5
+feel smug	2	4
+legal process	2	6
+talk lawyer	2	6
+judicial system	2
+carry around	2	4
+no stop	2	5
+blunt	2
+state obvious	2
+whorehouse	2	5
+divide nation	2	3	4
+cut tree	2	6
+make error	2	4	6
+count change	2
+accountant	2
+banker	2
+eat shit	2
+brain damage	2	4	6
+turn calculator	2
+know result	2
+go doctor office	2
+collect ticket	2
+stripper	2
+beer mug	2
+incline	2
+get sweaty	2
+kid activity	2
+randy	2
+stain glass	2
+carry umbrella	2
+stock food	2
+unit measurement	2
+get naked	2
+play role	2
+whoop	2
+smell like fish	2
+monthly pay	2
+money given	2
+malady	2	6
+antibiotic	2	6
+germ	2	6
+out work	2
+sell out	2
+sting insect	2	4	5	6
+sting	2	4	5	6
+set timer	2	3
+legal	2
+think again	2	4	6
+eye beholder	2	5
+icy	2
+down drain	2
+armpit	2	5
+start conversation	2	5	6
+delight	2
+police rank	2
+descriptive	2
+pay fine	2	5	6
+vermin	2	6
+ask lot question	2
+student teacher	2
+big build	2
+pain person	2	5	6
+turn away	2
+concealment	2
+sneak	2
+formal event	2	3
+custom	2	3
+greasy	2
+rector	2
+church leader	2
+church person	2
+minister	2
+tv program	2	4
+warm weather	2
+unemployment	2	5
+democratic process	2
+affulenza	2
+biological machine	2
+hire help	2	4
+visual	2	3	6
+representation	2
+death wish	2
+make fun	2	3
+mental health	2	4
+sticky floor	2
+political statement	2	3
+hurt animal	2	4
+sell grocery store	2	3
+naughty	2	3
+eat insect	2
+not want	2
+word frequently misspell	2	5
+can be	2
+maybe	2
+solid liquid	2	3
+wear silly hat	2
+hatchet	2
+describer	2
+stand behind	2
+chew gum	2
+narcotic	2	4	6
+person fight	2	6
+highlighter	2
+do this	2
+convent	2	3
+monotony	2	4
+gray hair	2	3
+show know	2	3
+breathe out	2	4
+dirty magazine	2
+explain everything	2	3
+temporary	2
+broth	2	3
+management	2	3
+stare sun	2
+live meat	2	4
+blow horn	2	5
+human communication	2	3
+clothe wet	2
+salt food	2	3
+bloody nose	2	4
+scrap	2
+fall mud	2	4
+spoilage	2	4
+bad eyesight	2	4	6
+bad vision	2	4	6
+yellow tooth	2
+wench	2	4
+tiny insect	2
+small fly	2
+check tire	2
+stop red light	2
+fasten seat belt	2
+turn steer wheel	2
+shrinkage	2
+remove stain	2
+clothe shrink	2
+hang up	2
+family history	2
+placard	2	5
+meat cut	2
+disinfectant	2
+painkiller	2
+sedative	2
+go supermarket	2
+inch	2
+become intoxicate	2
+rum	2
+vodka	2
+sunburned	2
+kneel down	2
+bottle without cap	2
+strip joint	2
+beckon	2	3	5	6
+interruption	2
+breath heavily	2	4
+urine	2
+thick hair	2
+keep track appointment	2	3
+red light	2
+read textbook	2
+text book	2
+brittle	2
+leave out	2
+snub	2
+tardiness	2
+work up sweat	2
+strenuous	2
+wear boot	2
+stress auxilliration	2
+accuser	2
+tooth hurt	2	4
+ice cream melt	2	4
+bed bug	2
+parasite	2
+bedbug	2
+impose	2
+store dress	2
+organize clothe	2
+wastebasket	2
+sewer	2
+smelly foot	2
+fake tooth	2
+write email	2	3
+sweaty person	2
+landfill	2
+obvious	2
+act foolish	2	4
+use military	2	4
+press brake	2	6
+scald	2	4	6
+excessive heat	2	6
+dirty kitchen	2
+cut yourself	2	4
+stupid person	2
+a lot sex	2	3
+brine	2
+act bore	2
+toilet paper	2
+painting	2
+great anger	2
+trash bin	2
+inhibition	2
+toilet brush	2
+pay toll	2
+police work	2
+while drive	2
+eat properly	2
+become cold	2	4
+skin rash	2	4
+blood vessel	2
+doctor patient	2	4
+pay lot money	2	4
+bad kid	2	4
+store container	2
+blood type	2
+play doll	2
+miss ball	2
+cover face	2
+false tooth	2	6
+let off steam	2
+kneel	2	3
+bouquet	2	4
+smell odor	2
+cctv	2
+dead stay dead	2
+service station	2
+deal drug	2
+arm bomb	2	6
+lie court	2	6
+prime minister	2
+thwart	2
+large phone bill	2
+find porn	2
+carry disease	2	6
+gastroscope	2
+urethroscope	2
+endoscope	2
+sigmoidoscope	2
+eat outdoors	2
+follow direction	2
+wage-slavery	2
+eat candy	2
+ha ha	2
+veil	2	4
+force other person don t want	2
+not nice	2	4
+varicose vein	2
+drug addiction	2	4
+much food	2
+rebuttal	2
+senator	2
+homophobia	2
+loss freedom	2	4
+possessive pronoun	2
+nightly ritual	2
+fickle	2
+behead	2	6
+censorship	2
+men club	2	3
+nuisance insect	2
+small insect	2
+food type	2
+swell	2	3
+entropy	2
+steamy	2
+cause person die	2	4
+slug	2
+provocateur	2
+dig ground	2	4
+become fat	2	6
+prohibitionist society	2
+use recipe	2
+borrow car	2
+this that	2
+six leg	2
+mindless entertainment	2
+odour	2
+throw away garbage	2
+record history	2	3
+cool food	2
+ice tea	2
+keep drink cold	2
+step dog shit	2
+divorce money	2	4
+get rid	2
+work home	2
+cadaver	2	6
+intention	2	6
+abandonment	2	4
+travel long distance	2
+warfare	2	4
+wet towel	2
+write report	2
+prepare test	2
+accountant office	2
+procrastination	2
+projection	2
+piss pant	2
+garbage waste	2
+garbage dump	2
+citrus	2
+sour taste	2
+cover wound	2
+long distance	2
+symposium	2
+smoke joint	2
+floorboard	2
+trash bag	2
+compress	2
+tennis match	2
+corrode	2
+crank	2
+storage facility	2
+storage area	2
+junk yard	2
+neighbour	2
+yelp	2
+keep food cold	2
+become fatigue	2
+tangerine	2
+judaism	2
+bewilderment	2	5
+shallow	2	4
+mini bar	2
+crucifix	2	4
+find library	2
+music storage	2	4
+gypsy moth	2
+keep list	2
+gland	2
+fece	2
+list appointment	2
+appointment book	2
+cult	2
+sect	2
+screw up	2	4
+orchestra play	2
+naive person	2
+nirvana	2
+motel room	2
+shower gel	2
+boner	2
+government building	2
+summer vacation	2	3
+keep food spoil	2
+political entity	2
+dork	2
+really want	2
+male relative	2
+abandon	2	4
+find plant	2
+express sadness	2	4
+dirty sock	2
+day dream	2
+step dog poop	2
+folly	2	4
+make go	2
+clang	2
+mow grass	2
+all that	2
+inactivity	2
+frustrate person	2
+intolerance	2
+talkative	2
+egg shell	2
+stiffness	2	4
+dispose waste	2
+pork butcher	2	6
+flash light	2	5
+ultraviolet	2	6
+general ledger	2	4
+bottle vodka	2	5
+compression	2	4	6
+lecture theatre	2
+cucumber beetle	2	5	6
+squire	2	4
+wage slavery	2	4
+saab	2	5
+vexatious litigant	2	4
+hydrogen bomb	2	6
+ocd	2	4	5	6
+exam table	2	4
+cry child	2	4
+circular route	2
+weltschmerz	3
+tranquillity	3
+tranquility	3
+thing	3
+tenderheartedness	3
+sensation	3
+self-esteem	3
+self-pride	3
+self-consciousness	3
+security	3
+sanguinity	3
+sanguineness	3
+reverence	3
+veneration	3
+pridefulness	3
+placidity	3
+placidness	3
+peace	3
+peacefulness	3
+peace of mind	3
+serenity	3
+heartsease	3
+ataraxis	3
+optimism	3
+mercifulness	3
+mercy	3
+levity	3
+languor	3
+lassitude	3
+listlessness	3
+dreaminess	3
+kind-heartedness	3
+jolliness	3
+designation	3
+humility	3
+humbleness	3
+hopefulness	3
+hope	3
+gratitude	3
+gratefulness	3
+thankfulness	3
+appreciativeness	3
+playfulness	3
+forgiveness	3
+bravery	3
+expectation	3
+euphory	3
+encouragement	3
+lightness	3
+easiness	3
+earnestness	3
+sincerity	3
+coolness	3
+imperturbability	3
+imperturbableness	3
+conscience	3
+confidence	3
+care	3
+compassion	3
+compassionateness	3
+commiseration	3
+calmness	3
+amour propre	3
+conceit	3
+self-love	3
+vanity	3
+warmness	3
+philia	3
+raring	3
+affirmative	3
+plausive	3
+sanctioned	3
+ruthful	3
+good-hearted	3
+openhearted	3
+large-hearted	3
+assuasive	3
+soothing	3
+calm	3
+unagitated	3
+serene	3
+tranquil	3
+compassionate	3
+self-complacent	3
+convinced	3
+positive	3
+confident	3
+cool	3
+dear	3
+devout	3
+earnest	3
+heartfelt	3
+easy	3
+restive	3
+unenviable	3
+encouraging	3
+bucked up	3
+encouraged	3
+anticipant	3
+anticipative	3
+expectant	3
+excusable	3
+forgivable	3
+venial	3
+well-disposed	3
+grateful	3
+thankful	3
+hopeful	3
+kind-hearted	3
+dreamy	3
+merciful	3
+optimistic	3
+peaceable	3
+peace-loving	3
+meditative	3
+musing	3
+smooth	3
+unruffled	3
+reverent	3
+sanguine	3
+reassuring	3
+reassured	3
+sensationalistic	3
+sensational	3
+grand	3
+marvellous	3
+calm down	3
+tranquilize	3
+tranquillize	3
+tranquillise	3
+quieten	3
+root on	3
+cool down	3
+overcome	3
+allay	3
+relieve	3
+ease	3
+encourage	3
+tickle pink	3
+beatify	3
+expect	3
+exuberate	3
+forgive	3
+trust	3
+desire	3
+josh	3
+plume	3
+reconcile	3
+idolize	3
+idolise	3
+hero-worship	3
+revere	3
+venerate	3
+reassure	3
+assure	3
+touch	3
+stimulate	3
+excite	3
+incite	3
+set off	3
+wake	3
+stick	3
+pose	3	5
+calmly	3
+earnestly	3
+in earnest	3
+easily	3
+encouragingly	3
+expectantly	3
+fearlessly	3
+dauntlessly	3
+intrepidly	3
+appreciatively	3
+gratefully	3
+hopefully	3
+mercifully	3
+optimistically	3
+peaceably	3
+pacifically	3
+placidly	3
+reverentially	3
+reverently	3
+reassuringly	3
+tenderly	3
+tranquilly	3
+baby deer	3
+back sofa	3
+park	3
+party	3
+bus stop	3
+kitchen	3
+large	3
+round	3
+barbie doll	3
+mathematical	3
+crotch	3
+safe sex	3
+animate	3
+live	3
+alive	3
+summer weather	3
+nice	3
+serious student	3
+complete assignment	3
+artistic expression	3
+communism	3
+communist	3
+east	3
+lot person	3
+tibet	3
+name	3
+climb mountain	3
+golden	3
+look	3
+last name	3
+sailboat	3
+ship part	3
+card case	3
+hold card	3
+identify person	3
+replicate	3
+please person	3
+sonnet	3
+melodic noise	3
+lyrics	3
+show	3
+dance	3
+contemporary	3
+form expression	3
+enjoyable	3
+lyric	3
+sung	3
+staff	3
+spread happiness	3
+form communication	3
+record album	3
+like poetry	3
+many form	3
+rhythm	3
+hobby	3
+enlightenment	3
+harmony	3
+relieve stress	3
+song	3
+stop	3
+leisure	3
+play violin	3
+quiet baby	3
+play piano	3
+recreation	3
+delight sense	3
+gift	3
+artist	3
+always	3
+record record	3
+hip hop	3
+popular	3
+radio	3
+compact disc	3
+beethoven	3
+art	3
+classical	3
+bach	3
+street	3
+man make	3
+disco	3
+aphrodisiac	3
+lift spirit	3
+entertainment	3
+god	3
+sound beautiful	3
+audience	3
+dance samba	3
+written	3
+wake up morning	3
+good soul	3
+beautiful	3
+arts	3
+pleasant	3
+entertain	3
+sing	3
+form art	3
+art form	3
+make happy	3
+language	3
+play music	3
+play orchestra	3
+important person	3
+record sound	3
+simple life	3
+tone	3
+profession	3
+lullaby	3
+pop	3
+dancer	3
+church	3
+song lyric	3
+often	3
+use	3
+seduction	3
+common language	3
+opus	3
+cassette	3
+important man	3
+rhythmic	3
+medium	3
+written paper	3
+relax	3
+club	3
+play guitar	3
+gym	3
+stereo	3
+instrumental	3
+hear	3
+listen pleasure	3
+theater	3
+universal language	3
+sound wave	3
+pass time	3
+sound	3
+television	3
+movies	3
+voice	3
+groove	3
+make person happy	3
+sing song	3
+general term	3
+universal	3
+written note	3
+general	3
+listen music	3
+rap	3
+concert hall	3
+information	3
+pretty	3
+like song	3
+creative activity	3
+note	3
+speaker	3
+best	3
+heal	3
+night club	3
+play device	3
+theatre	3
+enjoyment	3
+chart	3
+band play	3
+form think	3
+form entertainment	3
+emotional response	3
+quiet mind	3
+rock roll	3
+subjective	3
+singer	3
+audio	3
+noun	3
+express feeling	3
+expression	3
+make music	3
+artistic	3
+movie	3
+pleasure	3
+evoke emotion	3
+make feel good	3
+therefore	3
+because	3
+together	3
+four	3
+think	3
+live long	3
+make better world	3
+sleep night	3
+and	3
+phenomenon	3
+feel	3
+influence	3
+decoration	3
+result	3
+event	3
+special	3
+source	3
+make change	3
+cause	3
+singular	3
+reason	3
+verb	3
+belongings	3
+change	3
+implement	3
+outcome	3
+side	3
+single	3
+lawyer	3
+rich	3
+two person	3
+legality	3
+end argument	3
+spouse	3
+wife	3
+freedom	3
+marry	3
+marriage	3
+locker	3
+storage place	3
+storage	3
+dress room	3
+door	3
+safe	3
+metal box	3
+box	3
+locker room	3
+storage container	3
+place	3
+wand	3
+twig	3
+magic	3
+wank	3
+ejaculation	3
+strong	3
+expensive	3
+want	3
+wish	3
+desirable	3
+must	3
+travel	3
+money	3
+get lose	3
+go trip	3
+go elsewhere	3
+buy ticket	3
+arrive destination	3
+take picture	3
+go home	3
+want know	3
+visit friend	3
+learn world	3
+move around	3
+wave hello	3
+take bus	3
+make reservation	3
+decide want go	3
+car home	3
+arrival	3
+return home	3
+live life	3
+choose destination	3
+make arrangement	3
+explore	3
+pack clothe	3
+go place	3
+see new place	3
+pack	3
+see world	3
+adventure	3
+buy souvenir	3
+vacation	3
+ride airplane	3
+go abroad	3
+careful	3
+ship home	3
+gasoline	3
+learn	3
+see different	3
+experience different culture	3
+go airport	3
+visit parent	3
+go back home	3
+plan	3
+pack bag	3
+remember	3
+come back home	3
+better life	3
+right	3
+know	3
+morality	3
+tulip	3
+pink	3
+elegant	3
+christmas tree	3
+stop smoke	3
+adjective	3
+shape	3
+after exercise	3
+person be	3
+look good	3
+attractive	3
+feel good	3
+very	3
+practice	3
+eat well	3
+physical condition	3
+condition	3
+wellness	3
+clothe	3
+health	3
+adapt	3
+compliment	3
+active	3
+healthy	3
+body type	3
+feel better	3
+size	3
+push up	3
+lot	3
+show off	3
+good health	3
+run fast	3
+impress other person	3
+trim	3
+look better	3
+feel good yourself	3
+muscular	3
+physical	3
+belong	3
+able	3
+eat right	3
+clothe style	3
+lay	3
+well	3
+feel satisfy	3
+live long healthy life	3
+post note	3
+reminder	3
+make right	3
+process	3
+set	3
+screw	3
+put together	3
+mend	3
+stable	3
+correct	3
+make better	3
+repair shop	3
+join	3
+prepare	3
+solution	3
+solve	3
+mechanic	3
+act	3
+fig	3
+corridor	3
+passage	3
+connect	3
+unplug	3
+halt	3
+watch sport	3
+play pool	3
+money spend	3
+pray	3
+order beer	3
+lucky	3
+bar	3
+preach	3
+absolutely	3
+sex	3
+network	3
+person nothing better	3
+make friend	3
+play card	3
+life	3
+else	3
+woman breast	3
+ride	3
+cash	3
+nice person	3
+other person	3
+meet other person	3
+order drink	3
+find interest	3
+old child	3
+prepare supper	3
+tell time	3
+shoulder responsibility	3
+dress themselves	3
+ceremony	3
+ground	3
+magnify glass	3
+see far away	3
+great invention	3
+see star	3
+pilot airplane	3
+smirk	3
+lie brick	3
+tradesman	3
+build home	3
+see through	3
+estimate	3
+how much	3
+evaluate	3
+eskimo	3
+swim pool	3
+pool	3
+sort clothe	3
+clothe clean	3
+spend money	3
+clean clothe	3
+cleanliness	3
+meet girl	3
+dry	3
+laundry	3
+dry clothe	3
+clean	3
+quarter	3
+meet woman	3
+long island	3
+luggage compartment	3
+handle	3
+store item	3
+carry object	3
+carry	3
+carry clothe	3
+carry book	3
+carry item	3
+tartar control toothpaste	3
+medicine cabinet	3
+wal-mart	3
+go movie theatre	3
+smile	3
+server	3
+order pizza	3
+master	3
+control	3
+pro	3
+authority	3
+owner	3
+power	3
+expert	3
+guru	3
+winner	3
+lord	3
+apprentice	3
+leader	3
+achieve	3
+boss	3
+rank	3
+teacher	3
+scholar	3
+genesis	3
+power screwdriver	3
+home improvement	3
+hardware store	3
+make hole	3
+busy	3
+feeling	3
+important human	3
+assertiveness	3
+trait	3
+self-confidence	3
+behavior	3
+crowd cheer	3
+win	3
+team win	3
+know how play baseball	3
+babe ruth	3
+hero	3
+skill	3
+swing bat	3
+run basis	3
+play baseball game	3
+point	3
+person cheer	3
+win baseball game	3
+person run	3
+score point	3
+personal satisfaction	3
+start run	3
+team win game	3
+sexy	3
+celebrate	3
+extreme elation	3
+success	3
+slide	3
+go another place same city cheaply	3
+ride bus	3
+plus	3
+tell joke	3
+go bathroom	3
+feel relief	3
+need pee	3
+mess clean up	3
+close door	3
+find restroom	3
+full bladder	3
+drink lot water	3
+sit	3
+find toilet	3
+go toilet	3
+splash	3
+fluid	3
+private place	3
+liquid	3
+feel relieve	3
+aim	3
+everyone	3
+relief	3
+avoid accident	3
+dozen	3
+count	3
+fish market	3
+patient person	3
+much	3
+say excuse	3
+sense	3
+near nose	3
+skin	3
+open	3
+verbal communication	3
+breath	3
+body organ	3
+big	3
+facial organ	3
+survival	3
+yell	3
+kiss	3
+foot	3
+orifice	3
+organ	3
+tooth	3
+mastication	3
+facial feature	3
+record song	3
+become famous	3
+male female	3
+clear throat	3
+soprano	3
+create music	3
+use microphone	3
+vocal	3
+release energy	3
+speech	3
+movie title	3
+maintain good health	3
+rest	3
+letter	3
+man name	3
+heap	3
+nickname	3
+roll	3
+status	3
+lot money	3
+much money	3
+wealth	3
+social class	3
+high class	3
+wealthy person	3
+social status	3
+own lot	3
+wealthy	3
+amount money	3
+fortune	3
+invest	3
+foodstuff	3
+asian	3
+cheap food	3
+cook before eaten	3
+yummy	3
+wed	3
+white color	3
+eatable	3
+wedding	3
+common	3
+kernel	3
+japanese	3
+opaque	3
+wheat	3
+cereal crop	3
+friend wed	3
+food grain	3
+staple	3
+crop	3
+flavour	3
+carbohydrate	3
+seed	3
+tasty	3
+grain	3
+grown food	3
+food item	3
+shop	3
+hold object	3
+carry grocery	3
+airport	3
+stuff	3
+put stuff	3
+hold	3
+pretzel	3
+hockey game	3
+sew	3
+square	3
+section	3
+cover	3
+improvement	3
+clothe repair	3
+colorful	3
+discipline	3
+parent	3
+teach	3
+extend	3
+continue	3
+elongation	3
+long	3
+reach out	3
+expansion	3
+elongate	3
+make big	3
+reach	3
+beyond	3
+stretch out	3
+grow long	3
+concept	3
+god creation	3
+live environment	3
+outdoor	3
+divine	3
+animal plant	3
+powerful man	3
+environment	3
+peaceful	3
+lovely	3
+around	3
+mother father	3
+peaceful relax	3
+itself	3
+surround	3
+important	3
+green	3
+everywhere	3
+customer service	3
+organization	3
+wallet	3
+convenience	3
+shorten hair	3
+copy	3
+take	3
+computer term	3
+slice meat	3
+hair	3
+trim hair	3
+graze	3
+paste	3
+motion	3
+done	3
+use scissor	3
+tell	3
+laser	3
+open wind	3
+scissor	3
+wind	3
+learn experience	3
+find out	3
+education	3
+keep child occupy	3
+out	3
+amuse child	3
+feed animal	3
+take child	3
+something to do	3
+put walk shoe	3
+look map	3
+child	3
+see animal	3
+use car	3
+obey rule	3
+drive home	3
+wear comfortable shoe	3
+entertain child	3
+extent	3
+rule	3
+government	3
+synagogue	3
+good smell	3
+hippie	3
+smell good	3
+restaurant	3
+tavern	3
+make person laugh	3
+think funny	3
+please	3
+wit	3
+comedian	3
+imitation	3
+laugh	3
+popularity	3
+make joke	3
+outgo personality	3
+humor	3
+center attention	3
+feel joy	3
+entertain others	3
+feel happy	3
+person like	3
+good time	3
+give pleasure	3
+mind	3
+happy person	3
+sense humor	3
+become popular	3
+make other person happy	3
+stage	3
+become happy	3
+laughter	3
+person buy	3
+joke	3
+come back	3
+get happy	3
+person relax	3
+funny	3
+tell funny joke	3
+play instrument	3
+blonde	3
+hair colore	3
+color	3
+colour	3
+woman	3
+smart	3
+truthful	3
+take oath	3
+own	3
+buy food	3
+get grocery	3
+buy newspaper	3
+structure	3
+construction site	3
+puerto rico	3
+union	3
+band together	3
+represent	3
+holy matrimony	3
+work group	3
+come together	3
+group	3
+democracy	3
+title	3
+algebra	3
+unite	3
+law	3
+negotiate contract	3
+intersection	3
+workplace	3
+extra	3
+almost	3
+some	3
+cost	3
+measure	3
+comparative	3
+thank	3
+adverb	3
+addition	3
+amount	3
+increase	3
+enough	3
+too	3
+tv channel	3
+comparison	3
+measurement	3
+volume	3
+plenty	3
+abundance	3
+relative	3
+many	3
+much much	3
+large amount	3
+modifier	3
+quantity	3
+land ground	3
+go outside	3
+dribble	3
+make noise	3
+run water	3
+popular vacation destination	3
+tourism	3
+dave	3
+spin	3
+bridge	3
+greet card	3
+similar	3
+employ	3
+job offer	3
+worker	3
+pay service	3
+hire	3
+stay healthy	3
+test strength	3
+healthy activity	3
+table	3
+insert	3
+turn	3
+pot roast	3
+oven	3
+buy coffee	3
+pull	3
+dessert	3
+chop wood	3
+whole	3
+ice cream	3
+after lunch	3
+after dinner	3
+meal time	3
+strong desire	3
+japanese person	3
+tip	3
+sandwich	3
+express how funny	3
+cow food	3
+straw	3
+make	3
+natural	3
+farm crop	3
+organic	3
+beloved	3
+sport goods store	3
+shade sun	3
+fly	3
+something	3
+brim	3
+head wear	3
+head protection	3
+status symbol	3
+uniform	3
+protect head	3
+head cover	3
+prevent sunburn	3
+hat shop	3
+form clothe	3
+protect eye sun	3
+head gear	3
+stylish	3
+soft	3
+just fun	3
+necessary	3
+outline	3
+protect sun	3
+cast	3
+block sun	3
+graphite pencil	3
+sketch	3
+draw	3
+take note	3
+barber shop	3
+salon	3
+part hair	3
+hair salon	3
+beauty salon	3
+long narrow	3
+barbershop	3
+attorney	3
+large group	3
+push together	3
+large mass	3
+group gather	3
+open area	3
+number person	3
+game	3
+small group	3
+clown	3
+people	3
+small place	3
+much than	3
+dense	3
+bunch person	3
+market	3
+plural	3
+public	3
+football game	3
+assembly	3
+gather person	3
+arena	3
+big group	3
+person gather	3
+public place	3
+group person	3
+football stadium	3
+four person	3
+organize	3
+laugh clown	3
+multiple person	3
+festival	3
+three	3
+mass person	3
+human group	3
+person group	3
+public gather	3
+human mass	3
+collection person	3
+person together	3
+large person	3
+same before	3
+cluster	3
+large number	3
+gathering	3
+huge	3
+multitude	3
+two	3
+previous	3
+gather	3
+jewel	3
+collective noun	3
+mass	3
+heavy	3
+jewellery	3
+royal	3
+queen	3
+top head	3
+diamond	3
+prince	3
+top	3
+ornament	3
+tow	3
+headdress	3
+kingly	3
+regal	3
+monarch	3
+king queen	3
+adornment	3
+symbol	3
+monarchy	3
+accessory	3
+royalty	3
+precious	3
+jewelry	3
+throne	3
+king	3
+symbol authority	3
+castle	3
+shiny	3
+make money	3
+believe	3
+gain information	3
+impress person	3
+share information	3
+meet others	3
+hook up	3
+get information	3
+good mental health	3
+grace	3
+raise money	3
+new information	3
+lover	3
+understand	3
+human contact	3
+friend	3
+shake hand	3
+post notice	3
+advertise product	3
+advertisment	3
+rear end	3
+at the	3
+relation	3
+behind	3
+location	3
+direction	3
+quark	3
+floor	3
+position	3
+beneath	3
+born	3
+live well	3
+exist	3
+happyness	3
+hapiness	3
+eat drink	3
+make love	3
+go hike	3
+given	3
+gain experience	3
+purpose	3
+grow	3
+introspection	3
+useful	3
+get marry	3
+valuable	3
+stay alive	3
+amusement	3
+help person	3
+experience	3
+activity	3
+acquire knowledge	3
+learn new	3
+hang up clothe	3
+tidy room	3
+organize document	3
+store information	3
+picnic	3
+palace	3
+sunbathe	3
+wave clip	3
+good band	3
+honeymoon	3
+make clothe	3
+clothe store	3
+tailor shop	3
+make cloth	3
+flexible	3
+fabric store	3
+curtain	3
+cover furniture	3
+altitude	3
+elevation	3
+height	3
+high	3
+airplane	3
+small river	3
+find country	3
+wax dental floss	3
+floss tooth	3
+dentist	3
+clean between tooth	3
+chemist	3
+burn trash	3
+competition	3
+old west	3
+western	3
+honor	3
+eat sushi	3
+board ship	3
+board airplane	3
+order food	3
+board	3
+bus	3
+plane	3
+board bus	3
+board boat	3
+minibar	3
+beer	3
+store food	3
+stay home	3
+part play	3
+stage play	3
+part	3
+broadway play	3
+play part	3
+film	3
+part movie	3
+circular motion	3
+bakery item	3
+pastry	3
+wrap	3
+breakfast food	3
+bake treat	3
+bakery	3
+bagel	3
+type bread	3
+somersault	3
+round bread	3
+movement	3
+wheel	3
+appetizer	3
+hotdog bun	3
+rock music	3
+rotation	3
+money clip	3
+biscuit	3
+music genre	3
+bun	3
+rotate movement	3
+small circle	3
+bow string	3
+ointment	3
+contraception	3
+prevent pregnancy	3
+pharmacy	3
+birth control	3
+drug store	3
+drugstore	3
+yellowstone	3
+show up time	3
+variable	3
+program	3
+whip cream	3
+decision	3
+choice	3
+clothe store change room	3
+privacy	3
+try new clothe	3
+adjust clothe	3
+bicycle shop	3
+secure	3
+hold dog	3
+haul	3
+link	3
+feel great	3
+study hard	3
+work hard	3
+feel proud	3
+excel	3
+listen teacher	3
+please parent	3
+good work	3
+learn lesson	3
+diligent	3
+study	3
+think critically	3
+reward	3
+smoke cigar	3
+booze	3
+fall asleep	3
+smoke cigarette	3
+ethanol	3
+forget problem	3
+erection	3
+eat peanut	3
+sit outside	3
+find office	3
+man-made	3
+physical object	3
+wooden	3
+head committee	3
+auditorium	3
+sit down	3
+rest area	3
+seat	3
+comfortable sit	3
+three leg	3
+stool	3
+make out plastic	3
+sit table	3
+find build	3
+leg	3
+inanimate object	3
+roller	3
+in it	3
+sit seat	3
+confession	3
+cost nothing	3
+soft hard	3
+site	3
+rest leg	3
+movie theatre	3
+find desk	3
+sit chair	3
+sir	3
+object	3
+internet cafe	3
+help relax	3
+use outside	3
+curve	3
+furnish	3
+ballet	3
+jerk	3
+out gay man	3
+one	3
+time keeper	3
+between	3
+timekeep	3
+watch	3
+short	3
+time keep	3
+interval	3
+hello	3
+length	3
+cute	3
+real estate	3
+terrain	3
+knoll	3
+grassy area	3
+tiny particle	3
+mote	3
+dot	3
+walk upon	3
+play area	3
+heaven	3
+level	3
+above	3
+foundation	3
+base	3
+football play	3
+land earth	3
+on the	3
+soil earth	3
+trail	3
+plant tree	3
+solid	3
+solid surface	3
+open space	3
+floor cover	3
+on it	3
+grind	3
+honour	3
+code	3
+chivalry	3
+abstract	3
+merit	3
+bridesmaid	3
+recognition	3
+prestige	3
+valor	3
+noble	3
+courage	3
+virtue	3
+on person	3
+medal	3
+dignity	3
+wed vow	3
+glory	3
+characteristic	3
+high esteem	3
+samurai	3
+with person	3
+praise	3
+knight	3
+distinction	3
+address	3
+reside	3
+mail delivery	3
+salutation	3
+zip	3
+house location	3
+live place	3
+destination	3
+send	3
+label	3
+email	3
+envelop	3
+delivery	3
+phone	3
+post	3
+identity	3
+street name	3
+house place	3
+residence	3
+zip code	3
+person live	3
+name street	3
+enroll	3
+queue	3
+public servant	3
+arctic	3
+go bathroom first	3
+enjoy film	3
+currency	3
+purchase	3
+form money	3
+purchase food	3
+free	3
+parachute	3
+only mammal	3
+fur	3
+dream	3
+form gamble	3
+learn foreign language	3
+travel abroad	3
+use screwdriver	3
+turn screw	3
+pretty woman	3
+pulley	3
+conscious	3
+awake	3
+fashion	3
+mango	3
+salsa	3
+out house	3
+jim	3
+baseball team	3
+new computer	3
+person name	3
+keep clean	3
+christmas present	3
+bow	3
+learn patience	3
+go library	3
+take turn	3
+wait patiently	3
+examine	3
+individual	3
+keep place	3
+wait turn	3
+get front	3
+sit sofa	3
+go theater	3
+move forward	3
+tap foot	3
+advance	3
+search	3
+line up	3
+daydream	3
+civility	3
+go post office	3
+any ocean	3
+sea	3
+boat	3
+occupation	3
+catch catfish	3
+catch shark	3
+fish trout	3
+fish compliment	3
+fish lake	3
+fourth	3
+cent	3
+american money	3
+currency system	3
+receipt	3
+pay cashier	3
+proof purchase	3
+proof	3
+hold onto	3
+avoid fall	3
+under bridge	3
+release tension	3
+might laugh	3
+others laugh	3
+chuckle	3
+hear joke	3
+start laugh	3
+make laugh	3
+laugh loudly	3
+hear story	3
+act out	3
+laugh out loud	3
+other person laugh	3
+tell others	3
+hairdresser	3
+keep food	3
+buy grocery	3
+shop grocery	3
+welcome	3
+shoe	3
+drink water	3
+make strong	3
+get shape	3
+self-fulfillment	3
+find car	3
+gordon	3
+furby	3
+toy	3
+computer chip	3
+strong feel	3
+bring happiness	3
+a way of	3
+appeal	3
+consider beautiful	3
+watch baseball game	3
+pour liquid	3
+unique	3
+play volleyball	3
+think future	3
+balance checkbook	3
+read much	3
+before	3
+order menu	3
+solo	3
+gain knowledge	3
+write check	3
+unity	3
+spring action	3
+care child	3
+high level	3
+see star night	3
+eat chicken	3
+five dollar	3
+celebrate birthday	3
+recycle paper	3
+recur	3
+monthly	3
+take vitamin	3
+eat better	3
+live long time	3
+reduce stress	3
+long life	3
+live long life	3
+weigh	3
+monday	3
+write program	3
+requirement	3
+mental exercise	3
+design	3
+make live	3
+learn new language	3
+express idea	3
+achieve goal	3
+knowledge	3
+save time	3
+creativity	3
+make coffee	3
+need done	3
+create new	3
+type keyboard	3
+save	3
+draw diagram	3
+learn computer language	3
+express yourself	3
+program language	3
+learn program language	3
+think logically	3
+write code	3
+accomplishment	3
+design software	3
+process datum	3
+meet need	3
+program computer	3
+suspension bridge	3
+safety device	3
+safety	3
+lean against	3
+scarf	3
+brain	3
+cure	3
+nurse home	3
+feel well	3
+spatula	3
+machine metal	3
+coliseum	3
+rome	3
+large structure	3
+sanctuary	3
+animal place	3
+animal enclosure	3
+print newspaper	3
+mechanical	3
+savings account	3
+count money	3
+money buy	3
+receive money	3
+acquire wealth	3
+perform service	3
+get money	3
+pay child support	3
+finish job	3
+receive paycheck	3
+hard work	3
+good job	3
+spend	3
+wed reception	3
+find another person	3
+rub	3
+scientific term	3
+put screw	3
+unscrew	3
+many game	3
+pay cash	3
+vision	3
+religion	3
+eye function	3
+new idea	3
+eye sense	3
+see idea become reality	3
+stick eraser	3
+erase pencil mark	3
+kilometer	3
+metric	3
+game toy	3
+drink milk	3
+not hungry any	3
+invite dinner	3
+say grace	3
+full	3
+sit down table	3
+set table	3
+talk family	3
+full stomach	3
+become full	3
+plan meal	3
+sit down chair	3
+cocktail	3
+nourishment	3
+spend time	3
+little hungry	3
+decorate	3
+alphabet	3
+dynamic	3
+music store	3
+classical music	3
+opus house	3
+feed	3
+eat pizza	3
+fee child	3
+feel content	3
+snack	3
+decide eat	3
+eat sandwich	3
+fill stomach	3
+make feel better	3
+eat snack	3
+feel satisfaction	3
+keep healthy	3
+lose weight	3
+ingest food	3
+compass direction	3
+many type	3
+bell	3
+wild cat	3
+transportation	3
+some thing	3
+limit	3
+infinite	3
+finite	3
+elementary particle	3
+late	3
+after	3
+once	3
+latter	3
+past	3
+employee	3
+president	3
+present	3
+scarlet	3
+gone	3
+bright red	3
+print paper	3
+fold	3
+educate	3
+lawn	3
+archive	3
+media	3
+readable	3
+research	3
+local	3
+read story	3
+product	3
+motivate	3
+inform person	3
+deliver	3
+rug	3
+report event	3
+print medium	3
+ink paper	3
+document	3
+lock	3
+column	3
+daily	3
+spread news	3
+collect	3
+inform	3
+under carpet	3
+daily news	3
+spoken language	3
+make shop list	3
+sharpen	3
+most child	3
+blank stare	3
+shave	3
+power switch	3
+travel kit	3
+sign	3
+convey idea	3
+sell	3
+soccer game	3
+dimension	3
+honesty	3
+read bible	3
+seek understand	3
+deep thinker	3
+research subject	3
+scientist	3
+expand knowledge	3
+think outside box	3
+effort	3
+advance knowledge	3
+diligence	3
+know happen	3
+open mind	3
+make live better	3
+conclusion	3
+know truth	3
+say aha	3
+ask nicely	3
+find answer	3
+discover	3
+gather datum	3
+learn fact	3
+investigate fact	3
+look fact	3
+find fact	3
+become enlighten	3
+thinker	3
+investigate	3
+become inform	3
+peace mind	3
+increase knowledge	3
+know fact	3
+liberate	3
+movie screen	3
+drive-in movie	3
+taste sour	3
+teach open mind	3
+rover	3
+play stringe instrument	3
+bluegrass band	3
+remember childhood	3
+folk music	3
+music shop	3
+go baseball game	3
+popular japan	3
+objective	3
+opinion	3
+prefer	3
+society	3
+three dimension	3
+round shape	3
+everything	3
+really small	3
+inhabit	3
+beautiful place	3
+grow food	3
+wide	3
+hope peace	3
+imagination	3
+orbit sun	3
+place live	3
+big place	3
+cover water	3
+open eye	3
+shutter	3
+window treatment	3
+window cover	3
+close window	3
+cover window	3
+house roof	3
+disneyland	3
+find earth	3
+cave	3
+cavity	3
+fill	3
+arrow	3
+robin hood	3
+indian	3
+shaft	3
+target practice	3
+archery	3
+hit target	3
+leadership	3
+animal flesh	3
+long version	3
+chamber music	3
+full air	3
+balloon	3
+foam	3
+with	3
+give flower	3
+pie	3
+bring	3
+door handle	3
+towards	3
+release	3
+grunt	3
+rope	3
+enter exit	3
+grab	3
+speed	3
+go fast	3
+fast	3
+quickly	3
+quick movement	3
+quickness	3
+movement verb	3
+move quickly	3
+like movie	3
+work box office	3
+become clean	3
+watcher	3
+watch others	3
+plant grow	3
+dairy product	3
+dairy	3
+cone	3
+yoga	3
+meditation	3
+form exercise	3
+midget	3
+pornography	3
+sticker	3
+rise	3
+rise plant	3
+planet solar system	3
+string quartet	3
+backup	3
+ask money	3
+holiday shop	3
+strong emotion	3
+change person greatly	3
+wide street	3
+cyclist	3
+baton	3
+twirl	3
+girl	3
+fair	3
+mediator	3
+start over	3
+listen carefully	3
+growth	3
+go around	3
+arbitrator	3
+agree disagree	3
+settle down	3
+negotiate	3
+sentimental	3
+clear up	3
+victory	3
+go over	3
+extinguish fire	3
+sea bed	3
+granular	3
+grit	3
+bead	3
+swimsuit	3
+small pebble	3
+ground material	3
+seashore	3
+ground cover	3
+construction	3
+matter	3
+also	3
+yellow color	3
+surface earth	3
+hourglass	3
+beach	3
+make glass	3
+small stone	3
+find beach	3
+concrete	3
+sane	3
+narrow	3
+bend knee	3
+just	3
+find seat	3
+sigh relief	3
+find chair	3
+bend	3
+find place sit	3
+get rest	3
+bend leg	3
+rest foot	3
+sit floor	3
+let go	3
+little effort	3
+over	3
+memory	3
+recent	3
+then	3
+ago	3
+history	3
+throw football	3
+go ahead	3
+option	3
+try	3
+physical action	3
+exchange	3
+freeway	3
+answer	3
+when person	3
+permission	3
+hand over	3
+clue	3
+next	3
+enter	3
+catch football	3
+verbosity	3
+race	3
+permit	3
+investment	3
+double money	3
+quicken	3
+get fast	3
+computer program	3
+gauge	3
+device measure time	3
+measure device	3
+item	3
+tower	3
+circular	3
+chime	3
+dial	3
+mechanical device	3
+timekeeper	3
+check time	3
+know time	3
+show time	3
+set alarm	3
+meet famous person	3
+enough food	3
+capacity	3
+fill up	3
+sate	3
+complete	3
+hash	3
+personal	3
+know how	3
+captain ship	3
+resume	3
+wisdom	3
+gain	3
+time test	3
+learn knowledge	3
+invite friend	3
+catch baseball	3
+throw ball	3
+pitch	3
+traffic sign	3
+follower	3
+yo yo	3
+two side	3
+entryway	3
+walk through	3
+wood panel	3
+rectangle	3
+knob	3
+enter build	3
+doorbell	3
+front	3
+hollow	3
+closure	3
+knock	3
+turn knob	3
+build part	3
+enter room	3
+rectangular shape	3
+find church	3
+fixture	3
+threshold	3
+build open	3
+door knob	3
+shut	3
+barrier	3
+protection	3
+panel	3
+protect	3
+hinge	3
+connect room	3
+open close	3
+house open	3
+go inside	3
+aperture	3
+four side	3
+enter classroom	3
+exit build	3
+home entrance	3
+rectangular	3
+wooden structure	3
+tall	3
+hardware	3
+control access	3
+house front	3
+slam	3
+house part	3
+front back	3
+gate	3
+go through	3
+separate room	3
+entrance room	3
+find shower	3
+portal	3
+arch	3
+part car	3
+entry	3
+fuel	3
+jet fuel	3
+tight	3
+way	3
+stretchy	3
+nomad	3
+tribe	3
+traveling person	3
+brownian motion	3
+punish criminal	3
+look eye	3
+deliberate	3
+justice	3
+jury	3
+flip coin	3
+judgement	3
+judge	3
+bang gavel	3
+improve	3
+reflect	3
+trial	3
+serious	3
+knowledgeable	3
+insight	3
+obtain knowledge	3
+graduate school	3
+pay attention	3
+expand horizon	3
+comprehend	3
+get smart	3
+increase intelligence	3
+cogitate	3
+cognition	3
+remember information	3
+intelligence	3
+gain new knowledge	3
+life like	3
+absorb information	3
+add knowledge	3
+become educate	3
+accomplish	3
+become intelligent	3
+new	3
+lifestyle change	3
+information gather	3
+concentrate	3
+need know	3
+intelligent	3
+intellegence	3
+expand mind	3
+become knowledgeable	3
+know information	3
+new knowledge	3
+lesson	3
+better yourself	3
+get knowledge	3
+learn material	3
+observe	3
+accumulate knowledge	3
+preparation	3
+motivation	3
+become smart	3
+act smart	3
+know much	3
+get good job	3
+human experience	3
+grow up	3
+brain activity	3
+want learn	3
+express individuality	3
+power gasoline	3
+put shoe	3
+put sock	3
+eat table	3
+bend over	3
+find	3
+wiggle	3
+maintain balance	3
+doze off	3
+become rest	3
+balance	3
+brett	3
+actor	3
+rosebud	3
+baby flower	3
+pda	3
+cheap	3
+tablet	3
+pen	3
+many purpose	3
+write book	3
+make paper airplane	3
+crisp	3
+four corner	3
+book write	3
+transmit information	3
+write text	3
+stationary	3
+write instrument	3
+leaf	3
+melt	3
+many use	3
+drawn	3
+glossy	3
+cover stone	3
+card	3
+discuss issue	3
+keep track expense	3
+write material	3
+flat thin	3
+inbox	3
+write down idea	3
+write message	3
+stationery	3
+invention	3
+wrap present	3
+recyclable	3
+tissue	3
+porous	3
+solid fuel	3
+tree make	3
+record information	3
+pad	3
+notepad	3
+one of the thing	3
+frequently	3
+white sheet	3
+human intelligence	3
+group object	3
+inherit	3
+thick liquid	3
+flavor	3
+generic	3
+liquid food	3
+savoury	3
+substance	3
+colleague	3
+written down	3
+procreate	3
+kiss partner	3
+remove clothe	3
+lot sex	3
+intercourse	3
+mate	3
+multiply	3
+cum	3
+find partner	3
+fall love	3
+form	3
+life form	3
+procreation	3
+baby	3
+evolution	3
+pregnant	3
+copulate	3
+twin	3
+reproduce	3
+find mate	3
+become expert	3
+decorate room	3
+bell ring	3
+person answer	3
+mission	3
+surgery	3
+yes	3
+math function	3
+business	3
+doctor work	3
+noun form	3
+board game	3
+cut open	3
+kid game	3
+synonym	3
+procedure	3
+fresh air exercise	3
+make look good	3
+strong muscle	3
+stay fit	3
+use muscle	3
+eat egg	3
+use body	3
+energetic	3
+flirt	3
+cosmetic	3
+look up	3
+scientific	3
+lab	3
+reveal truth	3
+flow water	3
+waterfall	3
+definition	3
+precise	3
+logic	3
+decorative	3
+last long	3
+porpoise	3
+play fetch	3
+black man	3
+better	3
+jump high	3
+arlington	3
+saint	3
+pope	3
+football team	3
+religious icon	3
+angel	3
+religious person	3
+mary	3
+christian	3
+holy man	3
+good person	3
+religious significance	3
+honore person	3
+religious official	3
+religious figure	3
+santum	3
+allow	3
+look nice	3
+improve appearance	3
+change appearance	3
+maintenance	3
+change color	3
+protect house	3
+get paycheck	3
+house look better	3
+prime	3
+stir paint	3
+change colour	3
+remove dirt	3
+protect surface	3
+make pretty	3
+climb ladder	3
+husband	3
+water fountain	3
+customer	3
+stock market	3
+sale	3
+vend	3
+make sale	3
+make purchase	3
+persuasion	3
+self	3
+inclusion	3
+preposition	3
+conjunction	3
+another	3
+include	3
+organism	3
+leave alone	3
+target	3
+catch rain	3
+beer container	3
+save life	3
+store music	3
+compass	3
+navigation	3
+driven	3
+go store	3
+not forget	3
+find out need	3
+grocery shop	3
+put pocket	3
+go shop	3
+clear think	3
+find pen paper	3
+call mother	3
+check	3
+think need	3
+sharpen pencil	3
+go grocery shop	3
+need buy	3
+go park	3
+wear shoe	3
+enjoy sport	3
+project	3
+task	3
+near conclusion	3
+near completion	3
+water lawn	3
+factory	3
+red white blue	3
+order	3
+omega	3
+final	3
+connection	3
+conduct electricity	3
+wire	3
+electrical circuit	3
+company	3
+another person	3
+school end	3
+end class	3
+person attention	3
+signal	3
+cathedral	3
+liberty	3
+toll	3
+ring	3
+philadelphia	3
+percussion	3
+call	3
+jingle	3
+christmas song	3
+bell tower	3
+peal	3
+taco	3
+box match	3
+musical	3
+belt	3
+pant	3
+trousers	3
+clothe accessory	3
+satire	3
+comedy	3
+humour	3
+end sentence	3
+extravagant	3
+reach tentative agreement	3
+deal	3
+diplomacy	3
+resolve conflict	3
+negotiator	3
+resolve dispute	3
+settlement	3
+handshake	3
+make progress	3
+mutual understand	3
+reconsider	3
+agreement	3
+celebration	3
+consider option	3
+agree	3
+a lot	3
+settle	3
+reasonable	3
+moderation	3
+monk	3
+budget	3
+person can	3
+income	3
+allowance	3
+manage money	3
+economy	3
+appreciate	3
+adore	3
+protection weather	3
+learn current event	3
+keep up current event	3
+learn information	3
+get inform	3
+go online	3
+use internet	3
+drink coffee	3
+know happen world	3
+background	3
+check weather	3
+see happen	3
+turn page	3
+learn read	3
+arousal	3
+vow	3
+oath	3
+promise	3
+bright color	3
+pop corn	3
+highlighter pen	3
+highlight	3
+cuddle	3
+snuggle	3
+glassware	3
+reap	3
+gather crop	3
+sow	3
+harvest	3
+horseradish	3
+open window	3
+use calculator	3
+better grade	3
+learn new subject	3
+take test	3
+will learn	3
+get degree	3
+demonstrate knowledge	3
+answer phone	3
+gymnastics	3
+matriculate	3
+get grade	3
+experiment	3
+set goal	3
+choose seat	3
+learn new information	3
+interpret	3
+sign up class	3
+obtain degree	3
+make outline	3
+get education	3
+enroll school	3
+pass exam	3
+commitment	3
+pop quiz	3
+apply	3
+play band	3
+please teacher	3
+learn school	3
+good education	3
+sit desk	3
+enroll class	3
+listen tape	3
+learn new skill	3
+wear uniform	3
+learn subject	3
+better understand	3
+listen lecture	3
+go college	3
+turn light	3
+climb stair	3
+pay tuition	3
+summarize	3
+inspiration	3
+take seat	3
+calculate quickly	3
+big breadbox	3
+person work	3
+lease	3
+enjoy company friend	3
+use hand	3
+give party	3
+read label	3
+clean hand	3
+eat potato chip	3
+eat chip	3
+munch	3
+strength	3
+dip	3
+hairdresser chair	3
+beauty shop	3
+beauty parlor	3
+concealer	3
+make up	3
+harry potter	3
+melbourne	3
+new think	3
+focus	3
+help solve problem	3
+expertise	3
+make plan	3
+artificial intelligence	3
+determine need	3
+make profit	3
+efficiency	3
+learn program	3
+help others	3
+big paycheck	3
+compute	3
+business account	3
+weather prediction	3
+make world better place	3
+eureka	3
+become rich	3
+produce value	3
+understand problem	3
+improve world	3
+consult expert	3
+into	3
+introduction	3
+put	3
+toward	3
+inside	3
+katie	3
+feel excite	3
+sock	3
+piece clothe	3
+striped	3
+warm foot	3
+tube	3
+foot wear	3
+drawers	3
+footwear	3
+keep warm	3
+sock drawer	3
+keep foot warm	3
+sheath	3
+stock	3
+chess rook	3
+play chess	3
+chess game	3
+chess	3
+significant	3
+perform action	3
+bath toy	3
+get close	3
+desire knowledge	3
+become arouse	3
+find will partner	3
+find woman	3
+appetite	3
+man woman	3
+attraction	3
+pleasurable	3
+couple	3
+foreplay	3
+pleasant thought	3
+spirit	3
+partner	3
+create new life	3
+enjoy sex	3
+domination	3
+make out	3
+private	3
+produce child	3
+good food	3
+tall play basketball	3
+advantage	3
+speak mind	3
+exchange idea	3
+fact right	3
+persuade	3
+send email	3
+teach new	3
+explain	3
+transfer knowledge	3
+educate others	3
+show picture	3
+gesture hand	3
+get hear	3
+share idea	3
+tell secret	3
+offer opinion	3
+grandson learn	3
+make unusual face	3
+use language	3
+teach others	3
+give information	3
+give direction	3
+feel smart	3
+teach student	3
+response	3
+share knowledge	3
+gesture	3
+need glass	3
+conservative	3
+garden yard	3
+test tube	3
+laboratory	3
+well dress	3
+celebrate occasion	3
+gossip	3
+meet person opposite sex	3
+socialization	3
+see friend	3
+condom	3
+free time	3
+wear clothe	3
+want meet person	3
+invite	3
+dress appropriately	3
+get hammer	3
+bake cake	3
+say hi	3
+celebrate holiday	3
+bring present	3
+get ready	3
+take off coat	3
+get sex	3
+grow crop	3
+geographical feature	3
+estate	3
+urban	3
+build house	3
+border	3
+plot	3
+area	3
+acre	3
+enjoy nature	3
+acreage	3
+territory	3
+region	3
+property	3
+cookie	3
+reliable	3
+TRUE	3
+cobalt	3
+record television show	3
+television station	3
+harbor	3
+replay	3
+bank vault	3
+store money	3
+iron shirt	3
+horse movie	3
+give hug	3
+bromine	3
+corner two street	3
+survey	3
+collect information	3
+maker	3
+creator	3
+whiskey	3
+person make	3
+state usa	3
+attitude	3
+self esteem	3
+sequence	3
+come up	3
+follow	3
+proceed	3
+beside	3
+forward	3
+one much	3
+to do	3
+come	3
+write note	3
+crossword puzzle	3
+grow tree	3
+cylindrical	3
+mark paper	3
+mechanical pencil	3
+mark piece paper	3
+hot chick	3
+even score	3
+baseball term	3
+sleep soundly	3
+infant	3
+sleep bed	3
+arrive time	3
+innocent	3
+wave hand	3
+arrive early	3
+little child	3
+soft skin	3
+bring joy	3
+birth	3
+new person	3
+lady	3
+small boy	3
+doll	3
+expressive	3
+cradle	3
+nurse	3
+womb	3
+giggle	3
+cherub	3
+rest night	3
+use toilet	3
+interact	3
+sleep long time	3
+name dog	3
+small child	3
+young child	3
+little kid	3
+prune	3
+wet themselves	3
+rattle	3
+young kid	3
+mom dad	3
+small adult	3
+learn walk	3
+boy girl	3
+daycare	3
+start family	3
+order dinner	3
+find restaurant	3
+take number	3
+find shop	3
+seller	3
+overpay	3
+pay meal	3
+order meal	3
+buyer	3
+order french fry	3
+consumer	3
+wedge	3
+wedge door	3
+ware	3
+recipient	3
+round object	3
+spoon	3
+hold food	3
+eat off	3
+vessel	3
+round white	3
+food place	3
+food container	3
+put food	3
+circular shape	3
+flatter	3
+find kitchen	3
+serve	3
+flag	3
+holder	3
+again	3
+december	3
+cake	3
+circular object	3
+have	3
+flatness	3
+dinner table	3
+spoon fork	3
+tupperware	3
+kitchen cupboard	3
+person have	3
+bicycle store	3
+clasp	3
+pick	3
+hip	3
+latex glove	3
+movie genre	3
+bible	3
+plato	3
+all thing	3
+form energy	3
+make out atom	3
+testimony	3
+evidence	3
+witness	3
+mozart music	3
+musical composition	3
+write poetry	3
+manufacture plant	3
+make life easy	3
+companionship	3
+tv show	3
+control computer	3
+action movie	3
+need oil	3
+believe god	3
+sense sound	3
+sign love	3
+kitchen tool	3
+flipper	3
+pancake	3
+use cook	3
+gain money	3
+fairness	3
+keep peace	3
+become lawyer	3
+judge jury	3
+obey law	3
+pay ticket	3
+tell truth	3
+listen heart	3
+honest	3
+officer	3
+become judge	3
+perfect	3
+anagram	3
+absolute	3
+super	3
+ideal	3
+greatness	3
+precision	3
+exact	3
+excellence	3
+day job	3
+salty	3
+travel fast	3
+brush	3
+white house	3
+insect	3
+sun itself	3
+realize	3
+notice	3
+to get	3
+recognize	3
+become aware	3
+epiphany	3
+figure out	3
+awareness	3
+stadium stand	3
+watch game	3
+ballpark	3
+watch entertainment	3
+observer	3
+state name	3
+state fact	3
+sign document	3
+store paper	3
+store file	3
+will entertain	3
+telephone ring	3
+see commercial	3
+learn news	3
+find tv	3
+eat popcorn	3
+change channel	3
+no effort	3
+wish entertain	3
+entertainment learn	3
+turn channel	3
+television set	3
+switch television	3
+enjoy entertainment	3
+meditate	3
+learn entertainment	3
+vegetate	3
+electric power	3
+hyundai	3
+manufacturer	3
+chilly	3
+spicy	3
+distance measurement	3
+distinguish	3
+selection	3
+famous	3
+suggest	3
+picture	3
+panorama	3
+movie set	3
+vista	3
+attract attention	3
+play theater	3
+make point	3
+set stage	3
+scent	3
+perfume	3
+floral	3
+fragrance	3
+nice smell	3
+aroma	3
+work person	3
+intestine	3
+school bus	3
+bright yellow	3
+live city	3
+love yourself	3
+manor	3
+good idea	3
+sip	3
+ripe	3
+tart	3
+delicious	3
+fun ride	3
+thanksgiving	3
+holiday	3
+watch play	3
+find ball	3
+teddy bear	3
+study exam	3
+knowledge subject	3
+turn exam	3
+want pass class	3
+mark	3
+read direction	3
+prove knowledge	3
+gain qualification	3
+receive grade	3
+write essay	3
+pass test	3
+pass grade	3
+study material	3
+complete course	3
+prove learn	3
+go class	3
+enough sleep	3
+take class	3
+graduation	3
+pass fail	3
+study lot	3
+earn degree	3
+revise	3
+old game	3
+jay	3
+air traffic controller	3
+near mouth	3
+bone	3
+put water	3
+lid	3
+hold inside	3
+can	3
+hold brain	3
+retire	3
+preserve	3
+push hard	3
+make fruit	3
+stick together	3
+adhesive	3
+stick paper	3
+measurement tool	3
+hold together	3
+place somewhere	3
+mask	3
+fastener	3
+molasses	3
+thick	3
+rapper	3
+anything	3
+gallery open	3
+pronoun	3
+grammar	3
+part speech	3
+person person	3
+speech part	3
+family picture	3
+see film	3
+nuclear	3
+use telephone	3
+talk far away	3
+cheer team	3
+eat hot dog	3
+good fun	3
+watch baseball	3
+sit stand	3
+drink coke	3
+sport fan	3
+catch fly ball	3
+like sport	3
+purchase ticket	3
+sit sun	3
+hang out friend	3
+pay money	3
+money ticket	3
+hang door	3
+respond	3
+archeologist	3
+learn history	3
+discuss friend	3
+change plan	3
+learn culture	3
+study history	3
+broaden horizon	3
+exhibition	3
+satisfy curiosity	3
+form opinion	3
+appreciation	3
+take note class	3
+understand culture	3
+dig	3
+leave museum	3
+learn other culture	3
+college degree	3
+combine	3
+professor	3
+mailman	3
+sort mail	3
+cook rice	3
+compost	3
+bid	3
+light weight	3
+rush work	3
+find subway stop	3
+carry briefcase	3
+hurry work	3
+laugh joke	3
+friendly fire	3
+hair become short	3
+curl	3
+hair wash	3
+make appointment	3
+get haircut	3
+get perm	3
+hair get short	3
+personal groom	3
+appointment	3
+new style	3
+special occasion	3
+hair cut	3
+look neat	3
+go hair salon	3
+brush hair	3
+look pretty	3
+hair long	3
+talk hairdresser	3
+phase	3
+neighborhood map	3
+visualize	3
+learn place	3
+orientation	3
+city hall	3
+find address	3
+thomas jefferson	3
+president unite state	3
+noble man	3
+account	3
+finance	3
+check book	3
+term	3
+switch	3
+command	3
+literature	3
+toy ball	3
+want join	3
+decide want	3
+find money	3
+id card	3
+like beer	3
+give money	3
+web	3
+www	3
+world wide	3
+net	3
+wee	3
+wear tuxedo	3
+guest	3
+bride groom	3
+matrimony	3
+social event	3
+marriage ceremony	3
+event type	3
+dry yourself	3
+get cold	3
+dry off	3
+play water	3
+towel	3
+practise	3
+help learn	3
+street sign	3
+street corner	3
+elect official	3
+george w	3
+arachnid	3
+wood structure	3
+become	3
+develop	3
+appearance	3
+to be	3
+shenzhen	3
+impress girl	3
+cold head	3
+look smart	3
+money pay	3
+short hair	3
+go barber	3
+go barbershop	3
+look attractive	3
+yourself	3
+change style	3
+look different	3
+window shop	3
+ask price	3
+visit barber	3
+neatness	3
+new look	3
+look yourself mirror	3
+must pay	3
+hair short	3
+good body	3
+talent	3
+flip	3
+flexibility	3
+jump around	3
+olympic sport	3
+poker hand	3
+clean toilet	3
+fountain pen	3
+antiquate	3
+fill ink	3
+classy	3
+christ	3
+romance	3
+great love	3
+love affection	3
+biology	3
+subject study	3
+heavy air	3
+documentary	3
+seat many person	3
+oval shape	3
+cross guard	3
+mint	3
+question	3
+math relate	3
+predicament	3
+challenge	3
+check mail	3
+real	3
+february	3
+echo	3
+say	3
+two syllable	3
+commit memory	3
+cycle	3
+instruction	3
+twice	3
+encore	3
+camera film	3
+go market	3
+win trophy	3
+practice skill	3
+contest	3
+exhilirate	3
+teamwork	3
+try win	3
+loose	3
+sense accomplishment	3
+winner loser	3
+might win	3
+try best	3
+win lose	3
+use skill	3
+unlock door	3
+nursery	3
+integrity	3
+self respect	3
+character trait	3
+worth	3
+not cash	3
+item value	3
+value	3
+physical phenomenon	3
+go dmv	3
+dispense water	3
+panda	3
+black white	3
+toy soldier	3
+toybox	3
+model	3
+important message	3
+absolution	3
+sound like	3
+iron clothe	3
+story	3
+scheme	3
+farm land	3
+dry clean	3
+ride subway	3
+human life	3
+music hall	3
+pluck string	3
+produce music	3
+music room	3
+arm part	3
+provide	3
+bring food	3
+support	3
+supply	3
+support family	3
+give help	3
+offer	3
+take care	3
+charity	3
+toolsh	3
+reach high shelf	3
+birth control pill	3
+vibrate	3
+ancient rome	3
+geometric figure	3
+tunnel	3
+support roof	3
+architecture	3
+architectural structure	3
+production	3
+creation	3
+big deal	3
+ton	3
+assembly line	3
+hollywood	3
+manufacture	3
+factory output	3
+produce	3
+output	3
+make stuff	3
+stay awake	3
+sweetness	3
+use bathroom	3
+tea	3
+sweet taste	3
+serve hot	3
+java	3
+refresh	3
+go bed	3
+coffer	3
+money hold	3
+treasure chest	3
+feel sense accomplishment	3
+entrepreneur	3
+feel accomplishment	3
+determine	3
+make happen	3
+sense pride	3
+fame	3
+human race survive	3
+activist	3
+share others	3
+attain goal	3
+receive reward	3
+make model	3
+feel pride	3
+determination	3
+gratification	3
+grin	3
+prototype	3
+patent	3
+clap	3
+sense fulfillment	3
+popular music	3
+exercise equipment	3
+fondue	3
+leftovers	3
+lollipop	3
+bridge river	3
+good meal	3
+impress date	3
+raisin	3
+one and	3
+any	3
+one or	3
+instead	3
+have much	3
+others	3
+same again	3
+other	3
+clarify	3
+coercion	3
+go high	3
+play friend	3
+win bet	3
+deck card	3
+keep score	3
+go on-line	3
+win money	3
+find play	3
+win loose	3
+buy market	3
+shuffle card	3
+pass card	3
+find other player	3
+find other person play	3
+john	3
+like candy	3
+pay rend	3
+ship	3
+sail boat	3
+hit baseball bat	3
+buy store	3
+kind food	3
+morning food	3
+typically	3
+buy airplane ticket	3
+electric	3
+mystic	3
+wizard	3
+magician	3
+weather forecast	3
+commonly	3
+go colorado	3
+know everything	3
+pinch	3
+mit	3
+watery	3
+change lifestyle	3
+reduce pollution	3
+reserve	3
+government agreement	3
+retain	3
+keep	3
+leave over	3
+bank	3
+sound loud	3
+polygon	3
+figure	3
+geometric shape	3
+geometry shape	3
+close curtain	3
+cool room	3
+step	3
+turn vcr	3
+tape television show	3
+answer telephone	3
+receptionist	3
+take message	3
+book reservation	3
+correspondence	3
+assistant	3
+book appointment	3
+office job	3
+want eat	3
+not die	3
+from here	3
+sport team	3
+proximity	3
+distant	3
+further	3
+message	3
+go far	3
+always read	3
+elsewhere	3
+here	3
+placement	3
+equal	3
+today	3
+afar	3
+nearby	3
+cooperation	3
+helpful	3
+violin bow	3
+animal fur	3
+drive train	3
+large store	3
+grasp	3
+give plug	3
+kindness	3
+flower arrangement	3
+trade	3
+reciprocal	3
+buy ticket theatre	3
+cylinder	3
+wooden duck	3
+food storage	3
+sum total	3
+total	3
+sum	3
+something of	3
+price	3
+total number	3
+measure unit	3
+hank	3
+picture frame	3
+glide	3
+put up	3
+clothe storage	3
+grip tool	3
+cup breast	3
+member	3
+grip	3
+human appendage	3
+five	3
+body extremity	3
+close book	3
+hold many	3
+fee	3
+raise	3
+human organ	3
+hold item	3
+many different	3
+pat	3
+human part	3
+wear glove	3
+hold hand	3
+cystoscope	3
+state unite state	3
+play song	3
+newton	3
+human sound	3
+vocal sound	3
+twist	3
+department	3
+moon star	3
+four wall	3
+taffy	3
+candy	3
+existence	3
+deliver baby	3
+past verb	3
+new baby	3
+come out	3
+begin	3
+birthday	3
+give birth	3
+make patchwork quilt	3
+impress boss	3
+quick look	3
+watch news	3
+join army	3
+action verb	3
+rind	3
+toll highway	3
+travel car	3
+cross river	3
+peer	3
+collage	3
+friend person	3
+price product	3
+plane land	3
+career	3
+almost fall	3
+frill	3
+ornamentation	3
+conservation	3
+save environment	3
+protect environment	3
+spoken	3
+interaction	3
+save earth	3
+maintain	3
+conserve	3
+sport car	3
+corner well	3
+maximum	3
+car model	3
+win sport event	3
+trophy	3
+prayer	3
+reflection	3
+daily activity	3
+religious	3
+skin care article	3
+smooth skin	3
+keep skin healthy	3
+business person	3
+burgoise	3
+learn tool	3
+this be	3
+questionnaire	3
+see ability	3
+evaluation	3
+problem solve	3
+prove	3
+taken	3
+study subject	3
+drill	3
+example	3
+question answer	3
+end semester	3
+tit	3
+chairperson	3
+chair meet	3
+make yourself happy	3
+go mall	3
+earn	3
+rich person	3
+christmas	3
+buy goods	3
+person money	3
+purchase book	3
+pocket watch	3
+give gift	3
+acquire	3
+necessity	3
+need earn money	3
+satisfy need	3
+idea	3
+bridge difference	3
+etiquette	3
+horseback	3
+win war	3
+engagement	3
+paddle	3
+defeat enemy	3
+gain territory	3
+conquer enemy	3
+soldier	3
+video game	3
+middle east	3
+suction	3
+function	3
+world peace	3
+person happy	3
+protect child	3
+fix problem	3
+set example	3
+better person	3
+become better person	3
+inform voter	3
+fight disease	3
+generous	3
+acceptance	3
+spirituality	3
+volunteer	3
+tell everyone	3
+live simply	3
+live peace	3
+help another person	3
+no war	3
+end war	3
+endless	3
+little hunger	3
+develop talent	3
+clean air	3
+love others	3
+whiteboard	3
+find table	3
+table manner	3
+look menu	3
+tip waiter	3
+place order	3
+social	3
+afford	3
+read menu	3
+polite	3
+pay check	3
+reservation	3
+meet old friend	3
+shoot range	3
+automatic	3
+police man	3
+holster	3
+kill pest	3
+metal detector	3
+even odds	3
+handle carefully	3
+sidewalk	3
+guy	3
+date girl	3
+dude	3
+scale wall	3
+male	3
+take easy	3
+monetary value	3
+debit	3
+money relate	3
+rate	3
+tag	3
+money involve	3
+like price	3
+profit	3
+payment amount	3
+and the	3
+contractor	3
+account term	3
+value amount	3
+risen	3
+money amount	3
+money payment	3
+money value	3
+monetary	3
+dollar cent	3
+good value	3
+price item	3
+payment	3
+monetary amount	3
+prize	3
+item worth	3
+sale price	3
+total amount	3
+bill	3
+amount pay	3
+handmaid	3
+supply answer	3
+teach child	3
+field question	3
+school child	3
+erase blackboard	3
+tell information	3
+good student	3
+school student	3
+teach read	3
+teach class	3
+head class	3
+compute sum	3
+group student	3
+instructor	3
+teach person	3
+explain idea	3
+demonstrate	3
+item sell	3
+center	3
+pillowcase	3
+under head	3
+bonus	3
+visit	3
+self defense	3
+comic book	3
+invite person	3
+rainfall	3
+ibm	3
+computer manufacturer	3
+cover ice	3
+see ocean	3
+cash drawer	3
+cash register	3
+person talk	3
+create	3
+begin pro	3
+sell item	3
+warehouse	3
+multiplication	3
+merchandise	3
+math answer	3
+goods	3
+songbook	3
+fight inflation	3
+groceries	3
+vegetable fruit	3
+fresh fruit	3
+fresh vegetable	3
+super market	3
+store vegetable	3
+grandson	3
+animal dwell	3
+hive	3
+head organ	3
+inside head	3
+make comparison	3
+greet person	3
+schedule appointment	3
+make speech	3
+avoid injury	3
+nod	3
+up down	3
+doze	3
+say yes	3
+introduce	3
+social custom	3
+tell name	3
+interview	3
+presentation	3
+bring together	3
+greet	3
+person meet	3
+and or	3
+start end	3
+helpful tool	3
+along	3
+contraction	3
+backwards	3
+tine	3
+stat	3
+timely	3
+urgency	3
+interjection	3
+sop	3
+spherical	3
+liquid unit	3
+its	3
+zone	3
+water form	3
+amount water	3
+little water	3
+let	3
+fall water	3
+woolly animal	3
+water formation	3
+lift	3
+tap	3
+water faucet	3
+this thing	3
+resolution	3
+invitation	3
+request	3
+color paint	3
+marry person	3
+round circle	3
+wed band	3
+gold silver	3
+symbolism	3
+engage	3
+make gold	3
+propose marriage	3
+proposal	3
+wed ceremony	3
+piece jewlery	3
+piece jewelry	3
+bell sound	3
+decorate yourself	3
+not object	3
+tangible	3
+carry goods	3
+carry hand	3
+pittsburgh	3
+hear news	3
+learn new fact	3
+listen news	3
+find out weather	3
+tell other person	3
+look newspaper	3
+emotional reaction	3
+understand current event	3
+update	3
+process information	3
+strong feeling	3
+eat breakfast	3
+reboot	3
+draft	3
+overnight guest	3
+equipment	3
+mountaineer	3
+kirstin	3
+country live	3
+hairpin	3
+lady hair	3
+coffe table	3
+place drink	3
+find grocery store	3
+ascend	3
+walk up	3
+rail	3
+carpet	3
+ping-pong ball	3
+good luck	3
+rewind	3
+use remote control	3
+plug	3
+read instruction manual	3
+record movie	3
+learn how	3
+view film	3
+read manual	3
+press play	3
+import	3
+watch movies	3
+go date	3
+dough	3
+create food	3
+variety	3
+bake oven	3
+yeast	3
+taste good	3
+fresh	3
+sanity	3
+jeans	3
+utility	3
+thrift store	3
+zipper	3
+rule country	3
+cleaner	3
+clean shoe	3
+get date	3
+feel confident	3
+proposition	3
+win election	3
+look best	3
+arrange hair	3
+clean skin	3
+attract opposite sex	3
+impress others	3
+vain	3
+improve self-image	3
+feel better oneself	3
+increase self-confidence	3
+shave leg	3
+try calm down	3
+waterway	3
+look up phone number	3
+photo	3
+build process	3
+construct	3
+progress	3
+ever	3
+evolve	3
+photograph	3
+make product	3
+expand	3
+inquiry	3
+inquire	3
+loaf	3
+young horse	3
+baby cow	3
+little horse	3
+bubbly	3
+package	3
+fire extinguisher	3
+shave cream	3
+desire travel	3
+grow garden	3
+plant seed	3
+make healthy	3
+wash first	3
+defrost	3
+live healthy life	3
+good nutrition	3
+go grocery store	3
+form transportation	3
+driven person	3
+maternity	3
+sit think	3
+contemplate	3
+inevitable	3
+forever	3
+certainty	3
+flame	3
+verse	3
+haiku	3
+musical term	3
+poetry	3
+prose	3
+phrase	3
+hymn	3
+poem	3
+stanza	3
+scripture	3
+female parent	3
+bible story	3
+rhyme	3
+psalm	3
+equality everyone	3
+distinctive smell	3
+athletic	3
+water activity	3
+water splash	3
+water move	3
+human motion	3
+sport activity	3
+move arm	3
+jump	3
+propulsion	3
+back stroke	3
+outdoor activity	3
+dry yourself off	3
+cross water	3
+locomotion	3
+water relate	3
+mobility	3
+learn swim	3
+athletic activity	3
+breathe air	3
+go swim pool	3
+another activity	3
+water motion	3
+move water	3
+movement water	3
+water movement	3
+fun sport	3
+human movement	3
+go lake	3
+like water	3
+compete others	3
+sincere	3
+stunt	3
+big money	3
+tarot card	3
+psychic	3
+treasure	3
+richness	3
+come true	3
+win lottery	3
+accumulate	3
+teller	3
+riches	3
+give away	3
+fort knox	3
+person will	3
+luck	3
+buy movie ticket	3
+send card	3
+learn math	3
+truth	3
+intend	3
+babysitter	3
+mind child	3
+goal score	3
+become excite	3
+perform well	3
+wave crowd	3
+rock star	3
+earplug	3
+ear ring	3
+watch hockey game	3
+go rock concert	3
+score goal	3
+hit home run	3
+show support	3
+naive	3
+purity	3
+quality	3
+childhood	3
+formal	3
+bazaar	3
+buy sell	3
+look buy	3
+listen advice	3
+wise	3
+ideology	3
+change society	3
+system abstract think	3
+tail	3
+much sun	3
+finish	3
+menu	3
+finish line	3
+commence	3
+put pajamas	3
+business deal	3
+genuine	3
+intermission	3
+muffin	3
+crunchy	3
+love person	3
+person know	3
+get together	3
+look over	3
+hug	3
+ask name	3
+social skill	3
+interest conversation	3
+go club	3
+stay school	3
+learn science	3
+pool party	3
+swin	3
+swim water	3
+learn weakness	3
+tidyness	3
+sanitary	3
+whistle happy tune	3
+time consume	3
+tidy up	3
+housewife	3
+wear helmet	3
+eye up down	3
+declutter	3
+time yourself	3
+kill spider	3
+find lose item	3
+company come	3
+comfortable house	3
+clean bathroom	3
+sweep	3
+common sense	3
+clean apartment	3
+hum	3
+clean kitchen	3
+clean mess	3
+keep house clean	3
+clean sink	3
+much fun	3
+burn calorie	3
+dial telephone	3
+big home	3
+play indoors	3
+fun game	3
+hold meet	3
+popular game	3
+game skill	3
+swim underwater	3
+shine	3
+reflect light	3
+light source	3
+schedule	3
+april	3
+years	3
+jesus christ	3
+eternal	3
+cowboy boot	3
+high heel	3
+handmade	3
+practical	3
+embroidery	3
+conclude	3
+make choice	3
+select	3
+consider	3
+yes no	3
+choose	3
+make decision	3
+bookshelve	3
+locomotive	3
+powerful	3
+dissertation	3
+important good health	3
+store blanket	3
+store cloth	3
+store towel	3
+belief	3
+actress	3
+demand	3
+petition	3
+use jazz music	3
+dry towel	3
+use electricity	3
+spa	3
+gas stove	3
+jet	3
+sentence part	3
+clause	3
+grammar part	3
+idiom	3
+improve image	3
+better job	3
+increase self-esteem	3
+own benefit	3
+elect office	3
+check mirror	3
+new job	3
+check yourself mirror	3
+good dog	3
+picture taken	3
+earn respect	3
+social acceptance	3
+feel better yourself	3
+look mirror	3
+increase self esteem	3
+go church	3
+conformist attitude	3
+worship god	3
+vertical	3
+cool drink	3
+register vote	3
+blow note	3
+make metal	3
+music studio	3
+join band	3
+play tune	3
+perform music	3
+play jazz	3
+like actor	3
+go movie theater	3
+enjoy story	3
+make popcorn	3
+entertain yourself	3
+vcr	3
+quite	3
+put glass	3
+turn t.v	3
+watch credit	3
+popcorn	3
+eyesight	3
+rend	3
+leave theater	3
+experience emotion	3
+acculturation	3
+cinema	3
+fall sleep	3
+see yourself	3
+see actor	3
+see play	3
+drive theatre	3
+near tv	3
+get entertain	3
+put run shoe	3
+ceo	3
+corporation	3
+head corporation	3
+radical	3
+awesome	3
+bless	3
+spiritual	3
+pardon	3
+holy	3
+before meal	3
+wish well	3
+religious ceremony	3
+priest	3
+religious action	3
+fairy	3
+myth	3
+tale	3
+make wish	3
+princess	3
+weight measurement	3
+lightweight	3
+plan vacation	3
+contact sport	3
+abstract concept	3
+grow vegetable	3
+give water	3
+fresh produce	3
+provide food	3
+bliss	3
+enjoy eat	3
+fresh food	3
+pull weed	3
+good eat	3
+like eat	3
+vegetable grow	3
+slogan	3
+american	3
+voice opinion	3
+speak english	3
+human being	3
+good imagination	3
+smart animal	3
+colt	3
+play polo	3
+neigh	3
+run race	3
+buddy	3
+main	3
+run quickly	3
+love animal	3
+plow field	3
+carrier	3
+trailer	3
+face other	3
+stand field	3
+beautiful well useful	3
+transport	3
+find ranch	3
+race other	3
+same clue	3
+strong person	3
+carry heavy load	3	4	5	6
+cost little money	3
+compete race	3
+see eye	3
+breed	3
+wear sock	3
+tame	3
+reign	3
+majestic	3
+alike	3
+find farm	3
+pour	3
+fast person	3
+social creature	3
+mustang	3
+go stall	3
+domesticate	3
+ridden	3
+smoke pipe	3
+blossom	3
+bake goods	3
+chocolate	3
+train track	3
+train depot	3
+central	3
+play game chess	3
+eat pussy	3
+solve puzzle	3
+consonant	3
+language part	3
+three syllable	3
+vowel	3
+ride roller coaster	3
+louvre	3
+enjoy art	3
+make love spouse	3
+cavern	3
+archeology	3
+refuge	3
+eat breakfast bed	3
+eat banana	3
+live long happy life	3
+excercise	3
+prolong life	3
+smart person	3
+bath room	3
+velocity	3
+get up	3
+supreme court	3
+record keep	3
+work office	3
+strut	3
+walk style	3
+money earn	3
+find out play	3
+beach towel	3
+beach bag	3
+patriotism	3
+human emotion	3
+culture	3
+sample	3
+behaviour	3
+vicinity	3
+description	3
+know rule	3
+see far	3
+go holiday	3
+velcro	3
+jacket	3
+vault	3
+keep money	3
+safe keep	3
+safe place	3
+oversleep	3
+subatomic particle	3
+nucleus	3
+portable	3
+sit beach	3
+watch parade	3
+take beach	3
+not always	3
+play ping pong	3
+raise family	3
+child play	3
+family activity	3
+play board game	3
+gather friend	3
+digestive system	3
+organ body	3
+vital organ	3
+kidney	3
+good heart	3
+pact	3
+covenant	3
+clan	3
+treaty	3
+truce	3
+juice	3
+orange drink	3
+helper	3
+albany	3
+stay warm	3
+football coach	3
+metaphor	3
+chicken	3
+posture	3
+preacher	3
+produce egg	3
+blush	3
+chicken egg	3
+manipulate	3
+get rich	3
+statement	3
+kind	3
+fact	3
+travel quickly	3
+ruff	3
+trendy	3
+stand line	3
+fashionable	3
+famous person	3
+known	3
+well known	3
+everyone know	3
+softness	3
+stethescope	3
+doctor tool	3
+pencil art	3
+travel fast light	3
+nutrient	3
+find new	3
+study course material	3
+further education	3
+certificate	3
+advancement	3
+further career	3
+advance next level	3
+qualify	3
+know subject well	3
+study test	3
+qualification	3
+know stuff	3
+motor oil	3
+guide blind person	3
+guide blind	3
+exercise much	3
+food drink	3
+creeper	3
+ivy	3
+application	3
+many item	3
+sell stuff	3
+defense	3
+defence	3
+classification	3
+agency	3
+administration	3
+combine above	3
+business group	3
+type store	3
+branch	3
+work place	3
+institution	3
+join together	3
+official	3
+group company	3
+another name	3
+general store	3
+arithmetic	3
+grow yard	3
+find garden	3
+small tree	3
+accept	3
+offer money	3
+financial transaction	3
+goodness	3
+heat home	3
+renewable resource	3
+hold makeup	3
+condense	3
+develop skill	3
+size up	3
+good condition	3
+improve skill	3
+win medal	3
+enjoy challenge	3
+michael	3
+bungee jump high bridge	3
+go up	3
+leap	3
+move upwards	3
+upward movement	3
+invite guest	3
+undead	3
+gene	3
+salvation	3
+rescue	3
+religious belief	3
+go heaven	3
+possibility	3
+jesus	3
+religious experience	3
+person go	3
+get done	3
+gulp	3
+get work time	3
+stack	3
+fast movement	3
+technology	3
+photographer	3
+picture scene	3
+take photograph	3
+go scuba dive	3
+comrade	3
+reunion	3
+see person	3
+congregation	3
+agenda	3
+rendezvous	3
+enough money	3
+flower girl	3
+filament	3
+fare	3
+token	3
+animal live	3
+agricultural	3
+crop field	3
+plantation	3
+homestead	3
+raise crop	3
+cow home	3
+food grow	3
+produce food	3
+plant crop	3
+animal house	3
+agriculture	3
+grow stuff	3
+industry	3
+cultivation	3
+crop place	3
+grow place	3
+field crop	3
+large land	3
+raise animal	3
+establishment	3
+open land	3
+camp	3
+plant ground	3
+get food	3
+big land	3
+freedom think	3
+thunderstorm	3
+eat bean	3
+excuse yourself	3
+lift leg	3
+pyramid	3
+become doctor	3
+medical school	3
+ocean wave	3
+lot information	3
+tree fruit	3
+roast	3
+species	3
+dry fruit	3
+entranceway	3
+math term	3
+mathematical operation	3
+mathematics	3
+math operation	3
+stout	3
+ale	3
+dark beer	3
+make parent happy	3
+achievement	3
+lot study	3
+demonstrate skill	3
+educational facility	3
+place learn	3
+learn think	3
+after school	3
+playground equipment	3
+smooth surface	3
+child toy	3
+bluetooth	3
+protective gear	3
+vest	3
+knight protection	3
+play saxophone	3
+cos	3
+gauze	3
+factor	3
+catalyst	3
+saw	3
+why	3
+trade baseball card	3
+facial expression	3
+ridge	3
+backbone	3
+determine guilt	3
+canon	3
+launch	3
+ankle	3
+car travel	3
+girdle	3
+underwear	3
+tote bag	3
+carry belongings	3
+matter lot	3
+paper cut	3
+hunt fox	3
+increase efficiency	3
+vet	3
+family home	3
+own house	3
+vet office	3
+small box	3
+gallery	3
+art work	3
+artwork	3
+urn	3
+keep pet	3
+go pee	3
+put foot	3
+good weather	3
+tuner	3
+receiver	3
+immigrant	3
+antler	3
+campsite	3
+pole	3
+stake	3
+shelter	3
+live space	3
+temporary house	3
+ken	3
+hockey player	3
+keg	3
+beautiful music	3
+person sing	3
+part band	3
+take music lesson	3
+hear sound	3
+sing along	3
+creative	3
+make others happy	3
+learn how play	3
+string	3
+like music	3
+pull string	3
+take lesson	3
+entertain person	3
+produce sound	3
+musical note	3
+learn play	3
+both functional decorative	3
+solution problem	3
+unlock	3
+keep safe	3
+door opener	3
+make out metal	3
+free prisoner	3
+keep secret hide place	3
+lock door	3
+keyhole	3
+use salad	3
+use machine	3
+find airport	3
+satiation	3
+polka	3
+pattern	3
+old dance	3
+monet	3
+abraham lincoln	3
+dollar	3
+fifty	3
+currency unit	3
+money change	3
+monetary unit	3
+money coin	3
+metal money	3
+small change	3
+denomination	3
+word	3
+lincoln	3
+small coin	3
+dollar change	3
+american coin	3
+money unit	3
+small currency	3
+eraser	3
+correct mistake	3
+whisper	3
+coincidence	3
+keep eye open	3
+channel surf	3
+social activity	3
+nothing better	3
+press button	3
+get news	3
+diversion	3
+adjust volume	3
+watch show	3
+unwind	3
+switch tv	3
+american express	3
+credit card	3
+open letter	3
+congress	3
+person speak	3
+magnet	3
+talk man	3
+lot fun	3
+blast	3
+fun time	3
+theme	3
+happen now	3
+cake candle	3
+banquet	3
+learn person	3
+feast	3
+person dance	3
+watch football	3
+celebrate event	3
+happy event	3
+social gather	3
+pub	3
+hospitable	3
+music dance	3
+bash	3
+social occasion	3
+birthday wed	3
+eat cake	3
+get present	3
+celebrate special occasion	3
+rave	3
+invite friend over	3
+celebrate wed	3
+social drink	3
+festivity	3
+hangout	3
+fun place	3
+fun activity	3
+person fun	3
+socialise	3
+dance together	3
+special event	3
+birthday cake	3
+give thank	3
+occasion	3
+smoke bowl	3
+birthday treat	3
+democratic	3
+saturday	3
+strengthful	3
+toothbrush	3
+floss	3
+dais	3
+move wind	3
+aircraft	3
+city street	3
+mandatory	3
+importance	3
+require	3
+vital	3
+optional	3
+essential	3
+brightness	3
+gather information	3
+place study	3
+literate	3
+learner	3
+fine person	3
+government build	3
+borrow book	3
+collection	3
+gather place	3
+librarian	3
+educational place	3
+discover fact	3
+hold book	3
+all	3
+domicile	3
+window door	3
+spacious	3
+dwell place	3
+house person	3
+good place	3
+weather storm	3
+return	3
+familiar	3
+nice house	3
+live area	3
+familiarity	3
+sleep place	3
+another house	3
+neighbor	3
+sweet	3
+live house	3
+habitation	3
+pentagon	3
+many room	3
+comfy	3
+asset	3
+domestic dwell	3
+mine	3
+family member	3
+family live	3
+lodge	3
+protection element	3
+large small	3
+mom house	3
+peaceful place	3
+live quarter	3
+possession	3
+resident	3
+line place	3
+restful	3
+after third	3
+own space	3
+stay	3
+hearth	3
+house yard	3
+the	3
+yours	3
+broad	3
+slim	3
+vast	3
+lumber	3
+perception	3
+nightclub	3
+toast	3
+laundry detergent	3
+increase money	3
+benefit	3
+add	3
+lass	3
+augment	3
+ahead	3
+receive	3
+learn music	3
+keep beat	3
+citizen	3
+change subjective consciousness	3
+celestial body	3
+heavenly body	3
+beautiful look	3
+celebrity	3
+first aid kit	3
+stand still	3
+remain	3
+tin aluminum	3
+atheism	3
+matchbox	3
+illumination	3
+hold steady	3
+chemical reaction	3
+spark	3
+good environment	3
+positive attitude	3
+social life	3
+learn language	3
+communicate family	3
+employment	3
+get hire	3
+pay well	3
+look presentable	3
+question ask	3
+bright	3
+represent idea	3
+certain	3
+enjoy movie	3
+movie watch	3
+film critic	3
+relieve boredom	3
+eye open	3
+cultural experience	3
+entertainment education	3
+might entertain	3
+buy popcorn	3
+merlin	3
+intrigue	3
+good human	3
+book hotel room	3
+time relax	3
+make hotel reservation	3
+look forward	3
+go vacation	3
+take holiday	3
+vacation time	3
+schedule time	3
+talk companion	3
+break work	3
+decide go first	3
+plan meet	3
+fantasize	3
+book flight	3
+survive	3
+protect king	3
+sleep area	3
+assign	3
+tidy	3
+eve	3
+provide shelter	3
+want learn new	3
+faithfulness	3
+faithful	3
+loyal	3
+travel place another	3
+find road	3
+use book	3
+relationship	3
+multiple purpose	3
+good teacher	3
+aide	3
+offer help	3
+good child	3
+cheeseburger	3
+make beautiful music	3
+pumpkin pie	3
+music make	3
+observation	3
+alcoholic beverage	3
+alcoholic drink	3
+teacher student	3
+drinkable	3
+green colour	3
+consumable	3
+vial	3
+sometimes green	3
+wear hat	3
+person hand	3
+sit eat	3
+palliative	3
+biodegradable	3
+earl	3
+kingdom	3
+duke	3
+royal title	3
+wage	3
+job pay	3
+work money	3
+eat cheese	3
+lotion	3
+moisturize skin	3
+ask menu	3
+nice meal	3
+good reputation	3
+hunger go away	3
+smell food	3
+enjoy view	3
+order hamburger	3
+go restroom	3
+check wallet	3
+drink tea	3
+eat pie	3
+use restroom	3
+delicious food	3
+money bank	3
+family relationship term	3
+keep bathroom dry	3
+transparent	3
+translucent	3
+collectible	3
+wear robe	3
+aircraft roadway	3
+fly away	3
+land plane	3
+basic	3
+expect guest	3
+shelter weather	3
+walker	3
+meet goal	3
+bank machine	3
+keep rhythm	3
+band room	3
+have some	3
+aesthetics	3
+go outdoors	3
+able see	3
+pour water	3
+blow out match	3
+burn fuel	3
+good manner	3
+politeness	3
+good behavior	3
+proper	3
+manner	3
+make bow	3
+lady underwear	3
+imperial	3
+social rank	3
+blue blood	3
+nobility	3
+style	3
+contestant	3
+win prize	3
+hope win	3
+bank account	3
+buy stock	3
+index	3
+invest money	3
+plan ahead	3
+plan retirement	3
+get excite	3
+trade stock	3
+give out	3
+barter	3
+bargain	3
+good price	3
+arrangement	3
+card game	3
+game show	3
+broker	3
+transaction	3
+business agreement	3
+hand out	3
+good buy	3
+business transaction	3
+name planet	3
+hunt food	3
+headlight	3
+doe	3
+cherish	3
+stage production	3
+wait room	3
+newsstand	3
+read human	3
+make out paper	3
+middle day	3
+letter slot	3
+listen cd	3
+part whole	3
+chess bishop	3
+chess tournament	3
+batman	3
+superhero	3
+good everyone	3
+analysis	3
+new insight	3
+personal enjoyment	3
+great understand	3
+describe	3
+study carefully	3
+want understand	3
+make list	3
+go place place	3
+brandy	3
+adult drink	3
+good lover	3
+whisker	3
+graft	3
+practice lot	3
+part team	3
+coordination	3
+learn rule	3
+buy ball	3
+run first base	3
+entertaintment	3
+join team	3
+exercise entertainment	3
+get along	3
+stand around	3
+pleasant experience	3
+upper	3
+winter	3
+keep body warm	3
+defend yourself	3
+put mask	3
+eat together	3
+glass case	3
+retention	3
+contain	3
+special person	3
+quiet child	3
+kin	3
+daddy	3
+male parent	3
+lecture	3
+hold child	3
+spend time child	3
+nurture	3
+mother child	3
+lotus	3
+no edge	3
+ball shape	3
+orb	3
+look clock	3
+use gas	3
+soon	3
+speed ticket	3
+arrive	3
+steer car	3
+buy car	3
+stop stop sign	3
+arrive work	3
+promotion	3
+steer	3
+set alarm clock	3
+crate	3
+carton	3
+keep stuff	3
+three dimensional	3
+ship container	3
+six side	3
+hold stuff	3
+store stuff	3
+hold cupcake	3
+depth	3
+storage device	3
+bob	3
+make sport	3
+postman	3
+firefighter	3
+sing choir	3
+machine tool	3
+forward e-mail	3
+hard use	3
+word process	3
+easy use	3
+pack lunch	3
+catch bass	3
+need relax	3
+drink soda	3
+licence	3
+fish pole	3
+maize	3
+have to	3
+prepare exam	3
+buy book	3
+bring book	3
+up morning	3
+attend	3
+tuition	3
+put uniform	3
+open book	3
+learn mathematics	3
+moccasin	3
+slipper	3
+place bet	3
+testicle	3
+beauty	3
+jelly bean	3
+tank	3
+involuntary	3
+pull off road	3
+play video game	3
+commit	3
+person place	3
+verb adjective	3
+subject	3
+middle	3
+row seat	3
+wicker	3
+hold grocery	3
+carry laundry	3
+sort	3
+carry stuff	3
+hold small item	3
+hold flower	3
+carry food	3
+woven	3
+lsd	3
+run long time	3
+case build	3
+donut shop	3
+guard bank	3
+guard prisoner	3
+policy	3
+save live	3
+meet friends	3
+eat salad	3
+not hungry anymore	3
+good mood	3
+work break	3
+get line	3
+not feel hungry	3
+find bank	3
+end book	3
+ornate	3
+come pair	3
+elizabeth	3
+clergy	3
+floppy	3
+light colore	3
+bus table	3
+seat guest	3
+first	3
+second base	3
+blue ribbon	3
+ordinal	3
+michael jordan	3
+basketball team	3
+many different way	3
+make cheese	3
+meme	3
+memo	3
+learn quickly	3
+diane	3
+abroad	3
+designer	3
+decorator	3
+bad good	3
+commercial	3
+entertain audience	3
+delight audience	3
+promote	3
+ultimate	3
+chocolate bar	3
+hypothesis	3
+step forward	3
+retrieve	3
+to have	3
+obtain	3
+say thankyou	3
+have something	3
+help out	3
+ownership	3
+possess	3
+show appreciation	3
+fetch	3
+versatile	3
+facet	3
+expensive stone	3
+find ground	3
+shape hair	3
+toothpaste	3
+many human	3
+sunrise	3
+sun rise	3
+good day	3
+light sky	3
+in the	3
+sun up	3
+general verb	3
+bicycle part	3
+theater box	3
+make comfortable	3
+keep warm night	3
+seam	3
+sew term	3
+stitch	3
+fasten	3
+super hero	3
+send message	3
+exchange information	3
+vote	3
+receive email	3
+write back	3
+enter address	3
+online	3
+reply	3
+get reply	3
+send information	3
+receive information	3
+put bid	3
+find out information	3
+stay touch friend	3
+write e-mail	3
+distribute information	3
+sufficient	3
+among	3
+be with	3
+spread idea	3
+take vacation	3
+cash check	3
+ego boost	3
+copyright	3
+gain wealth	3
+publish	3
+monetary gain	3
+accolade	3
+award	3
+get famous	3
+autograph	3
+take money	3
+hand motion	3
+start new day	3
+vibration	3
+sonic	3
+human sense	3
+travel space	3
+audible	3
+frequency	3
+detect	3
+ear activity	3
+vocal cord	3
+loud soft	3
+hear voice	3
+sensory input	3
+decibel	3
+electromagnetic wave	3
+five sense	3
+music tone	3
+essential life	3
+step out	3
+hang clothe	3
+corner prey	3
+companion	3
+self protection	3
+butter toast	3
+open package	3
+butter bread	3
+fish boat	3
+fillet	3
+cut cheese	3
+cut vegetable	3
+eat food off plate	3
+cut paper	3
+spread butter	3
+chop vegetable	3
+make mark	3
+raincoat	3
+hardwood floor	3
+computer part	3
+clip	3
+know subject	3
+photo album	3
+store photo	3
+food flavor	3
+wear mask	3
+use system abstract think	3
+upgrade	3
+put liquid	3
+good eyesight	3
+speed up	3	5
+use logic	3	5
+twirl around	3
+deduce	3
+learn much	3
+locate	3	5
+read cover	3
+search internet	3
+solve mystery	3	5
+visit library	3
+ask expert	3	5
+inflate	3
+use telescope	3	5
+check price	3	5
+experience new	3	5
+curiosity	3	5
+try understand	3
+long term	3
+home depot	3
+talk telephone	3
+open refrigerator	3	5
+donut	3
+sell ticket	3
+munchkin	3
+advice	3
+recall	3
+part ceremony	3
+sacred	3
+tradition	3
+pamper	3
+view film home	3
+luxury	3
+physical sensation	3
+okay	3
+cozy	3
+good feel	3
+reassurance	3
+want marry	3	4
+drive highway	3
+book read	3	5
+fiction	3	5
+look picture	3
+interest subject	3	5
+learn book	3
+might learn	3
+use imagination	3	5
+recommend	3
+learn how read	3
+learn new word	3	5
+take book	3
+want relax	3
+educate yourself	3
+increase understand	3
+use mind	3
+like read	3
+wish learn	3
+buy wood	3
+cause effect	3
+efficient	3
+semi-truck	3
+see light	3	5
+stop crime	3
+sit jury	3
+get water	3
+pinnacle	3
+acme	3
+peak	3	5
+sit theater	3
+tom	3
+father child	3
+confessional	3
+seat person	3
+laze	3
+graph	3
+illustration	3
+diagram	3
+graphical representation	3
+astrology	3
+flattery	3	5
+smithsonian institution	3
+fossil	3
+musuem	3
+edifice	3
+elect	3
+give verdict	3
+build block	3
+basic unit	3
+mobile phone	3
+hold place	3
+tiny animal	3	5
+tiny organism	3	5
+mobile	3
+express	3
+show feeling	3
+federal	3
+postage	3
+speedy	3
+quick	3
+determine health	3
+pulse	3
+lifeguard	3
+medical equipment	3
+check breathe	3
+ask permission	3
+mouthwash	3
+post letter	3
+receive mail	3	5
+send mail	3
+receive letter	3	5
+faith god	3
+obey god	3
+dance joy	3	5
+belief god	3
+spread love	3
+trust god	3
+good place eat	3
+meet place	3
+open night	3
+strike ball	3	5
+national	3
+international	3
+suede	3
+mathematical skill	3	5
+fine	3
+apex	3	5
+singularity	3
+hand gesture	3
+indication	3
+mountain top	3	6
+direct	3
+finger action	3
+geometric	3
+direct person	3
+hand action	3
+bottom line	3	5
+short line	3
+origin	3
+full stop	3
+sport score	3	5
+explanation	3
+shard	3
+sentence end	3
+punctuation	3
+reason why	3
+geometric object	3
+small dot	3
+coordinate	3
+fit room	3
+queen england	3
+cream cheese	3
+major	3
+washington d.c	3
+run president	3
+candidate	3
+election	3
+lower tax	3
+reputation	3
+make law	3
+govern country	3
+elect person	3
+give speech	3	6
+consider good luck	3
+buy shoe	3
+perpetrator	3
+development	3
+brand name	3
+american flag	3
+shirt	3
+banner	3
+feel different	3
+go diet	3
+run place	3
+desireable	3
+attribute	3
+block	3
+store liquid	3
+kitchen cabinet	3
+drink juice	3
+measure liquid	3
+count finger	3
+calculator	3
+find total	3	5
+cue	3
+blowjob	3
+beetle song	3
+light room	3
+romantic dinner	3	5
+create mood	3	5
+find home	3
+gain speed	3	5
+intelligent person	3	5
+winter sport	3	5
+high pay job	3	5
+necessary life	3
+sweet treat	3	5
+knack	3	5
+dexterity	3
+tree house	3
+go uphill	3	5
+recreational activity	3
+hand foot	3
+assent	3
+go mountain	3	5
+see view	3
+gain ground	3
+attend opus	3
+debbie	3
+naked woman	3
+take risk	3	6
+take chance	3	5
+art show	3	5
+enormous	3
+cider	3
+doughnut	3
+apple juice	3
+personality	3
+keep food cool	3
+outside area	3
+measure distance	3
+behind house	3
+free mind	3
+wear protection	3
+put protective gear	3
+crochet	3
+immortality	3
+play rule	3
+win hand	3
+make good decision	3
+deal card	3	5
+card deck	3
+stay alert	3	6
+widen	3
+posse	3	5
+vocal chord	3
+fairy tale	3	5
+incentive	3
+autumn leave	3
+remittance	3
+pay debt	3
+invoice	3
+compensation	3
+exchange goods	3
+money exchange	3
+salary	3
+host	3
+aid	3
+treatable	3
+special day	3
+special time	3
+special happen	3	5
+party time	3	5
+special moment	3
+hamlet	3
+shakespeare play	3
+old friend	3	5
+govern nation	3	5
+unlimited	3	5
+gather intelligence	3
+cover snow	3
+stork	3
+perfection	3
+put tape vcr	3
+director	3
+set vcr	3
+racket	3
+sport equipment	3	4
+team sport	3
+look out window	3
+asleep	3
+make pot coffee	3
+broccoli	3
+deep sadness	3
+scream real loud	3
+say good bye	3
+speak foreign language	3	5
+fabric shop	3	4	6
+make quilt	3	4
+tense	3	4	5	6
+architect	3
+laborer	3
+install window	3
+make building	3
+construction worker	3
+build cathedral	3
+excise	3	4
+hitler	3
+make enemy	3
+declare war	3
+bully	3
+buy weapon	3
+warmonger	3
+person kill	3
+prepare army	3
+arm yourself	3
+find enemy	3
+ought	3
+compare	3	4
+similarity	3	4
+fuzz	3
+hair brush	3
+take dump	3	5
+go out public	3	5
+attentive	3
+join club	3
+army officer	3
+buy present	3	6
+lunch break	3	5
+live country	3	5	6
+like flower	3
+give birth child	3	4
+sew kit	3
+soda	3	5
+continuation	3
+professional athlete	3
+deafness	3	4
+enjoy oneself	3
+take friend	3
+listen good music	3	5
+sit dark	3
+enjoy play	3	5
+ready	3
+firm	3
+large business	3
+large company	3
+business firm	3
+big business	3	5
+detail	3	5
+clean car	3
+like orange	3	6
+cheque	3	5
+cheque book	3	5	6
+pocket size notebook	3	5
+make note	3
+different type	3	4
+student study	3	5
+academy	3	5
+many child	3	6
+learn evolution	3	4	5
+alone	3
+straightforward	3	6
+to the	3	5
+fold up	3
+rainy day	3
+block sunlight	3
+red green	3
+dark light	3
+turquoise	3
+yellow green	3
+water sky	3
+cyan	3
+like sea	3
+aqua	3
+keep secret	3
+under cover	3
+reveal	3
+conceal	3	4
+avoid detection	3
+type gun	3
+july fourth	3	4
+statue	3
+icon	3
+enjoy day	3
+midway	3
+composition	3
+sharp nail	3
+long car	3
+superlative	3
+superior	3	4
+best ever	3
+exceptional	3
+high standard	3
+better good	3
+well done	3	5
+brilliant	3
+broken car	3
+grenade	3
+explosive device	3
+infantry	3
+damage	3
+bomb	3
+hemoglobin	3
+fight other	3	4
+religious event	3	4
+welt	3
+pile	3
+alex	3
+chile	3	6
+hideout	3
+independence	3
+revolution	3
+openness	3
+type container	3
+better cold	3	4
+good drink	3
+researcher	3
+fantasy	3
+copper wire	3
+imaginative	3	5
+potential energy	3	4
+connect city	3
+travel over water	3	5
+connector	3
+cross road	3
+beautiful sunset	3	4
+water passage	3	5
+clean nose	3	5
+junk food	3
+burger king	3
+dangerous person	3	5
+religious man	3
+bail	3	6
+myself	3	5
+happy occasion	3
+reception	3	5
+store tool	3	5
+build computer	3
+person cry	3	4	5
+high blood pressure	3
+dangerous human	3	5
+coffeehouse	3
+wipe away tear	3	4
+play harp	3
+ring doorbell	3
+mum	3
+ice skate	3
+realization	3	4	5
+novelty	3	5
+national event	3	4
+cnn	3
+freshness	3
+read paper	3	4	5
+relevant	3	5
+novel	3	5
+bulletin	3	5
+find problem	3
+expenditure	3	4
+price high	3	4
+good parent	3	5
+anatoly	3
+happen person	3	5
+buddhism	3
+buddha	3
+land feature	3
+water mass	3	5
+take cruise	3
+cause mental illness	3	5
+round fruit	3
+dance club	3
+clean dish	3
+presidential	3
+surround ocean	3
+skylight	3
+see out	3
+cup hand	3	5
+lazy person	3
+xray machine	3	4
+hazard	3	4	6
+vaccination	3
+injection	3
+convert energy	3
+rush job	3
+vanilla	3
+scrabble	3
+disturb	3
+convey message	3	5
+comic	3	5
+buy tool	3
+take care child	3	5
+make effort	3	5
+independent	3
+learn skill	3
+work team	3
+commerce	3
+duty	3
+work yourself	3	4	5
+take day off	3	4
+game chance	3
+market product	3
+make eat	3
+visitor	3	4
+logo	3	5
+pay employee	3
+support mother culture	3
+presence	3	5
+abbreviate co	3	5
+branch out	3
+money make	3	5
+fire employee	3	5
+partnership	3
+business plan	3	5
+capitalism	3
+place work	3	5
+enterprise	3
+ususally	3
+postcard	3	5
+wall hang	3
+portrait	3	5
+like paint	3	5
+like art	3	5
+image	3
+wall decoration	3	5
+documentation	3
+family photo	3
+sunday afternoon	3	5
+rough sport	3	5	6
+play grass	3
+athletic event	3	5
+american sport	3
+type game	3
+passtime	3
+popular unite state	3
+popular sport	3
+rough game	3	5	6
+popular sport america	3
+baby cat	3
+long thin	3
+sport store	3
+metal cylinder	3
+layer	3
+indicator	3
+measure tool	3
+gain skill	3	5
+slant	3	5
+need make money	3	5
+food group	3
+trend	3	5
+movement towards	3
+fad	3
+elusive	3	5
+dinner party	3
+host party	3
+show care	3	5
+drive around	3
+sing dance	3
+put costume	3	5
+take movie	3
+hump leg	3
+share secret	3	5
+use talent	3
+show like	3	5
+make smile	3
+coven	3
+pagan	3
+flash card	3
+boast	3
+play game together	3
+communicate other person	3	5
+say name	3
+charisma	3
+know other	3
+friends	3
+have something to do	3	5
+sociable	3
+contact	3
+make contact	3
+bond	3
+ballroom	3
+valentine day	3	5
+propose	3	5
+advance career	3
+bird watch	3	5
+viewfinder	3
+expensive hobby	3
+bigot	3
+mast	3
+machine transportation	3	5
+keep cool	3
+fifth	3	5
+balcony	3
+reaper	3
+rise up	3	5
+blue collar	3
+plant food	3
+field grow	3
+own land	3
+farm vegetable	3
+water crop	3
+corn wheat	3
+shoe horse	3
+fee animal	3
+smell nice	3
+smell better	3
+cleanness	3
+masterbate	3
+disrobe	3
+personal cleanliness	3
+warm room	3	5
+relax muscle	3
+feel clean	3
+movie theater	3
+farewell	3	4
+side road	3
+wed cake	3
+person party	3
+game action	3	5
+alternate	3	5
+game part	3
+rotate	3
+ninety degree	3
+maneuver	3
+make move	3	5
+change direction	3	5
+car action	3	6
+blow air	3
+move action	3
+angle	3
+chance	3	5
+car movement	3	6
+revolve	3
+leave hand	3	4
+sun shine	3
+pass knowledge	3
+get social contact	3
+understand topic	3
+themselves	3
+start talk	3	5
+splooge	3
+need information	3
+might fun	3
+donation	3
+donate	3
+latex	3
+toy marble	3
+affair	3
+reach advantage	3
+water feature	3
+teach school	3
+use school	3
+joker	3
+voluntary	3
+join military	3
+seek revenge	3	6
+feeling guilt	3	4
+conceal evidence	3
+send prison	3
+accord	3
+oil tanker	3
+load	3
+stillness	3
+read carefully	3
+make deal	3
+insurance	3
+hire hitman	3
+bind agreement	3
+legal document	3
+menstruation	3
+artery	3
+win contest	3
+enjoy music	3
+tap toe	3
+check traffic	3
+hear song	3
+become relax	3
+put radio	3
+catch up news	3
+ring ear	3
+prescription medication	3
+north south	3
+fairy story	3
+soul	3
+fly high	3
+drop bomb	3
+fly helicopter	3
+fly plane	3
+carry vessel	3
+court trial	3
+litigation	3
+satchel	3
+hold money	3
+mental	3
+brief	3
+court action	3
+carry paper	3
+carry document	3
+latch	3
+upper lower	3
+baggage	3
+legal proceed	3
+great joy	3
+dollar bill	3
+pay goods	3
+purchase item	3
+paper money	3
+betrayal	3
+extra money	3
+buy gas	3
+participant	3
+continue story	3
+finish book	3
+unattractive	3
+make movie	3
+oxycontin	3
+pigeon	3
+type art	3
+piece art	3
+honore	3
+lincoln memorial	3
+tribute	3
+art object	3
+idol	3
+sculpture	3
+greek	3
+landmark	3
+weep	3
+cry hard	3
+pitcher	3
+appear smart	3
+read music	3
+callus	3
+appreciate music	3
+person listen	3
+lovely music	3
+love music	3
+music lover	3
+tune instrument	3
+lot practice	3
+dedication	3
+polish	3
+shiny surface	3
+ethnicity	3
+paint nail	3
+remove paint	3
+shine sun	3
+use clean	3
+sail sea	3
+take deep breath	3
+shout top voice	3
+nerve	3
+modesty	3
+dry hair	3
+wipe	3
+spire	3
+look out	3
+receive signal	3
+cost fortune	3
+big game	3
+open gift	3
+say thank	3
+mind state	3
+ocean tide	3
+crescent	3
+small earth	3
+long away	3
+around earth	3
+radiant	3
+round orb	3
+night sun	3
+night vision	3
+do anything	3
+craft	3
+grain sand	3
+native american	3
+doctor's office	3
+plunger	3
+lecture hall	3
+none	3
+competitiveness	3
+extermination	3
+genocide	3
+kill bug	3
+emergency ward	3
+vegetable field	3
+green garden	3
+green stuff	3
+stain clothe	3
+golf course	3
+lawn green	3
+mow lawn	3
+usual green	3
+cold outside	3
+flavorful	3
+use mouth	3
+savor	3
+yum yum	3
+sweet sour	3
+bud	3
+send jail	3
+immunity	3
+tedium	3
+want buy	3
+walk drive	3
+that person	3
+buy stuff	3
+write list	3
+lose wallet	3
+find park space	3
+buy bread	3
+purchase grocery	3
+buy milk	3
+buy need	3
+mean transport	3
+semicircle	3
+directory	3
+embassy	3
+store document	3
+healthful	3
+clear mind	3
+calm mind	3
+glimpse	3
+temporary home	3
+place person live	3
+enter courtroom	3
+determine guilt innocence	3
+accuse	3
+call witness	3
+use brake	3
+list	3
+make up element	3
+sleep sometimes	3
+settle dispute	3
+person love	3
+love family	3
+garden vegetable	3
+swallow semen	3
+follow instruction	3
+remember date	3
+deduction	3
+file complaint	3
+dance well	3
+ours	3
+duh	3
+warm house	3
+sol	3
+dry wet clothe	3
+amount nothing	3
+pulpit	3
+orate	3
+lectern	3
+chapel	3
+ovary	3
+restore	3
+faith	3
+forgiven	3
+live forever	3
+confess sin	3
+adopt child	3
+terrible event	3
+solitude	3
+insignia	3
+symbolic	3
+poll	3
+pledge	3
+emblem	3
+touch ground	3
+drape	3
+make out fabric	3
+make fabric	3
+flab	3
+hair care article	3
+enjoy life	3
+preparedness	3
+chase dog	3
+newspaper article	3
+rather	3
+but	3
+contrary	3
+than	3
+newscaster	3
+wear makeup	3
+funny joke	3
+all right	3
+affirmation	3
+interest job	3
+find out truth	3
+feel awe	3
+make new	3
+clever	3
+read science book	3
+girl boy	3
+observe nature	3
+write notebook	3
+conduct experiment	3
+science book	3
+expedition	3
+quest	3
+home build	3
+moat	3
+defensive	3
+fort	3
+stronghold	3
+fortification	3
+squash bug	3
+a way	3
+like street	3
+checkbook holder	3
+excite game	3
+ball game	3
+ball sport	3
+circle prey	3
+spot prey	3
+use gun	3
+bone chicken	3
+point out	3
+solve equation	3
+mastercard	3
+mass measure	3
+measure pound	3
+heavy object	3
+weight machine	3
+how big	3
+measurement unit	3
+unit measure	3
+heaviness	3
+improve vision	3
+spectacle	3
+cloud mind	3
+many useful	3
+stainless steel	3
+dale	3
+grassy	3
+elevate	3
+geographic feature	3
+crest	3
+land form	3
+landscape feature	3
+land formation	3
+high land	3
+dollar sign	3
+x-ray machine	3
+come house	3
+arrive late	3
+bigotry	3
+lime	3
+reflect image	3
+bus terminal	3
+arrive home	3
+journey far	3
+near destination	3
+make wine	3
+intimate	3
+go kiss	3
+feel love	3
+marry kid	3
+saga	3
+end happily	3
+begin end	3
+break news	3
+bed time	3
+never end	3
+roman	3
+relate	3
+small book	3
+near end	3
+curb	3
+like car	3
+fly through air	3
+transport person	3
+cool air	3
+windy	3
+unusual	3
+sell buy	3
+high temperature	3
+find mall	3
+stock merchandise	3
+sell book	3
+card type	3
+govern peasant	3
+live castle	3
+country leader	3
+state head	3
+emperor	3
+royal leader	3
+gentle	3
+thoughtful	3
+niceness	3
+rochester	3
+produce musical sound	3
+strum	3
+country band	3
+new orlean	3
+math class	3
+make drawing	3
+measure angle	3
+right angle	3
+stop activity	3
+shortness breath	3
+precaution	3
+caution	3
+transit card	3
+transit	3
+get train	3
+star movie	3
+bottom shoe	3
+subway pass	3
+wallet purse	3
+bandit	3
+box office	3
+damsel	3
+sugary	3
+learn computer	3
+physic	3
+make sure	3
+rational	3
+obligation	3
+economics	3
+threat	3
+mosquito bite	3
+weather nice	3
+take clothe	3
+sense joy	3
+enjoy fresh air	3
+dress occasion	3
+look night sky	3
+lock front door	3
+karate	3
+foot action	3
+fallen angel	3
+enough eat	3
+own car	3
+dog pet	3
+irrational	3
+wart	3
+crowd room	3
+attempt	3
+goal	3
+great time	3
+happine	3
+ear work	3
+machinery	3
+heavy weight	3
+surround water	3
+land area	3
+cultural	3
+large area	3
+divide country	3
+passenger terminal	3
+equestrian sport	3
+monastery	3
+nun	3
+domain	3
+how far	3
+land measurement	3
+wide open	3
+comment	3
+prompt	3
+seek answer	3
+conjecture	3
+rhetoric	3
+retort	3
+maternity ward	3
+dentist's office	3
+wait until turn	3
+fix computer	3
+able use	3
+find out problem	3
+geek	3
+close case	3
+buy new	3
+table chair	3
+gossipe	3
+admission	3
+enter area	3
+count person	3
+good review	3
+alias	3
+proper name	3
+juicy	3
+eaten raw	3
+cease fire	3
+stay calm	3
+paradise	3
+strive	3
+wear necklace	3
+date woman	3
+martian	3
+boy	3
+heavy paper	3
+miner	3
+fiat	3
+use jewelry	3
+cpu	3
+encompass	3
+enlist	3
+exclusion	3
+rubber ducky	3
+sexual	3	6
+certification	3
+circle part	3
+protractor	3
+measure heat	3
+temperature measurement	3
+graduation ceremony	3
+temp	3
+temperature measure	3
+deed	3
+heat measure	3
+scroll	3
+kangaroo	3
+spherical shape	3
+electrical unit	3
+outlet	3
+electric car	3
+cheerleader	3
+lottery	3
+catch fly	3
+hop	3
+freak out	3
+good night sleep	3
+turn head cough	3
+wear clean underwear	3
+profound	3
+cure illness	3
+think sick	3
+make doctor appointment	3
+schedule appointment doctor	3
+find out healthy	3
+check up	3
+roller coaster ride	3
+away crime	3
+connie	3
+become cultured	3
+learn new idea	3
+new experience	3
+sight see	3
+visa	3
+sightsee	3
+wear short	3
+get out breath	3
+wear comfortable clothe	3
+heavy breathe	3
+feel fit	3
+tie shoe	3
+ambition	3
+stress relief	3
+lower stress	3
+wear run shoe	3
+put jog shoe	3
+warm down	3
+bring dog	3
+help sleep	3
+breathe fast	3
+stretch muscle	3
+put sneaker	3
+run shoe	3
+put tennis shoe	3
+limber up	3
+better shape	3
+expend energy	3
+see neighbor	3
+wear good shoe	3
+good shoe	3
+might tire	3
+become physically fit	3
+fitter	3
+wear proper clothe	3
+live apartment	3
+write novel	3
+address envelope	3
+ribbon	3
+type letter	3
+tack	3
+push pin	3
+cork	3
+catch wind	3
+minnow	3
+many fruit	3
+antioxidant	3
+soundstage	3
+movie studio	3
+film studio	3
+record music	3
+banknote	3
+day off	3
+annual celebration	3
+prisoner war camp	3
+right-wing	3
+send signal	3
+random	3	5
+greek god	3
+neat	3
+steam engine	3
+gnaw	3
+nibble	3	5
+mysterious	3
+tidbit	3
+good intention	3
+keep go	3
+hairstyle	3
+bind together	3
+field ball	3
+question start	3
+refresh memory	3
+increase heartrate	3
+babysit	3
+better cardiovascular health	3
+start sweat	3
+exercise muscle	3
+breathe deeply	3
+clog	3
+spring leak	3
+carry water	3
+cat purr	3
+blue steel	3
+plasma	3
+longevity	3
+utter	3
+feel afraid	3
+cape	3
+human condition	3
+feat	3
+remote	3
+geometrical shape	3
+fricative	3
+ridicule	3
+can do	3
+almond	3
+ecstasy	3
+happy feel	3
+happy emotion	3
+ode	3
+ecstatic	3
+pleasant emotion	3
+increase income	3
+run errand	3
+drill hole	3
+earn paycheck	3
+go crazy	3
+look job	3
+joe	3
+think ahead	3
+male name	3
+streach	3
+become wind	3
+get place	3
+move leg	3
+great exercise	3
+lower blood pressure	3
+listen music headphones	3
+shin splint	3
+lifeboat	3
+consider consequense	3
+make right decision	3
+family tree	3
+gather evidence	3
+puberty	3
+perhaps	3
+study book	3
+lucid	3
+world religion	3
+cheque book holder	3
+own person	3
+labor	3
+labour	3	4
+associate	3
+news reporter	3
+communicator	3	5
+high iq	3
+new movie	3
+human truthful	3
+trustworthy	3
+time limit	3
+clutch	3
+use keyboard	3
+create program	3
+perform task	3
+sunday	3
+religious service	3
+religious place	3
+christianity	3
+religious purpose	3
+worshiper	3
+temple	3
+listen sermon	3
+worship house	3
+altar	3
+religious build	3
+every town	3
+place worship	3
+remind	3
+steeple	3
+worship place	3
+meatloaf	3
+goo	3
+attach	3
+texture	3
+creamy	3
+flour water	3
+mixture	3
+computer command	3
+spreadable	3
+candy machine	3
+ferris wheel	3
+outset	3
+nice day	3
+stormy	3	5
+prediction	3
+change quickly	3
+cloud sky	3
+system	3
+look beautiful	3
+cold hot	3
+hot day	3
+predict	3
+verbal	3
+verbal contract	3
+guarantee	3
+combine sound	3
+oat	3
+assurance	3
+wreck	3
+concussion	3
+stop move	3
+drink drive	3
+zoology	3
+study animal	3
+egalitarian society	3
+transfer	3
+initiation	3
+fraternity	3
+actor actress	3
+appoint	3
+calendar event	3
+nominate	3
+fish food	3
+type food	3
+alexa	3
+good trait	3
+pajamas	3
+put ice	3
+bake food	3
+bake product	3
+tasty food	3
+brownie	3
+cupcake	3
+sweets	3
+nice eat	3
+birthday present	3
+show emotion	3
+cup tea	3
+pudding	3
+bake good	3
+birthday candle	3
+round pastry	3
+soft sweet	3
+treat	3
+frost	3
+mix	3
+chocolate desert	3
+food bake	3
+birthday party	3
+sweet food	3
+maroon	3
+burgundy	3
+pay purchase	3
+billfold	3
+mention	3
+small cat	3
+rhapsody	3
+music type	3
+fall out bed	3
+coma	3
+warm color	3
+prefix	3
+cool house	3
+computer company	3
+congratulation	3	5
+win award	3	5
+beautiful woman	3	5
+play fiddle	3
+math process	3
+conquer	3
+subtract	3	5
+take off shoe	3	5
+massage	3
+lie back	3
+work pile up	3
+feel pain	3
+physical pain	3	5
+inflict pain	3	5
+hockey stick	3	5
+cut edge	3
+census	3
+dispense	3
+bind book	3
+glaze	3	5
+play cd	3	5
+crush ice	3
+see wood	3	5
+pop popcorn	3
+gear	3
+play dead	3
+double	3
+physical injury	3
+sour cream	3
+gape	3	5
+boo boo	3	5
+breeze	3
+fill glass	3
+red rise	3
+champagne	3
+rarely	3
+find friend	3
+play team	3	5
+competetive	3	5
+high value	3	5
+coin collection	3
+jewelery store	3
+person communicate	3
+your	3
+make sweater	3	5
+make gift	3	5
+capital	3	5
+washington dc	3
+school division	3
+hear speech	3
+stop listen	3	5
+may learn	3
+ignore distraction	3
+wear dress	3
+complement	3
+written communication	3	5
+spell	3	5
+handwritten	3
+written message	3
+snail mail	3	5
+syllable	3	5
+sink ship	3	5
+explosive	3
+drop airplane	3
+disposal	3
+choose option	3
+uncommon	3
+become old	3	5
+go department store	3	5
+try again	3
+flunk	3	5
+most good	3	5
+go university	3
+choose subject	3
+buy textbook	3
+somalia	3
+booty	3	5
+find treasure	3	5
+look after	3	5
+spoil	3
+keep alive	3
+vitality	3
+raise up	3
+hoist	3
+bring up	3	5
+british	3	5
+play tag	3	5
+trade card	3
+head home	3
+drive crazy	3
+experience fear	3
+walk school	3	5
+fall well	3	5
+bicycle school	3
+thank parent	3	5
+spread wing	3
+smell smoke	3
+kindergarden	3
+honor parent	3
+play hide seek	3	5
+unwant	3	5
+throw fit	3
+talk themselves	3
+multiple	3	5
+adopt	3	5
+eat spaghetti	3
+fix breakfast	3
+play jack	3
+eat sweet	3
+grown	3
+battle illness	3
+either	3
+need go bathroom	3	5
+go amusement park	3	5
+borrow book library	3	5
+wet bed	3
+catch butterfly	3
+medical office	3
+watch sunset	3
+pick lock	3	5
+dust mite	3	5
+work well	3
+better others	3	5
+capable	3
+disney	3
+original	3
+for	3
+from	3	5
+against	3	5
+water area	3	5
+small lake	3
+mayor	3
+wonderful feel	3
+bobby pin	3
+peso	3	5
+bothersome insect	3	5
+roach	3
+star war	3
+voter	3
+political system	3	5
+unite country	3	5
+political unit	3
+government system	3	5
+computer science	3
+pawn	3
+use game chess	3
+snowball	3
+mourn	3
+break neck	3	5
+repair umbrella	3	5
+prevent	3	5
+forest fire	3
+erotic	3
+keep promise	3	5
+godliness	3
+fast water	3
+water stream	3
+ocean movement	3
+like river	3	5
+actual	3	5
+baby born	3	6
+amour	3
+care deeply	3
+responsibility	3	5
+obituary	3	5
+character child book	3	5
+black dot	3
+occurrence	3
+boyfriend	3
+hurt back	3	5
+chop down tree	3
+workaholic	3
+take out	3
+million	3
+intuition	3	5
+elect president	3	5
+computer application	3
+unclear	3
+late time	3	5
+person not work	3	5
+further knowledge	3
+make time	3
+both	3
+prioritize	3
+dangerous sport	3
+puck	3
+type sport	3	5
+fast sport	3	5
+meet girl dream	3
+learn how swim	3
+go dive	3	5
+common emotion	3	5
+hygeine	3
+teens	3	5
+clothe washer	3
+espresso	3
+out place	3
+someone's bathroom	3
+time off	3	5
+getaway	3	5
+mouth action	3	6
+compel	3
+peer pressure	3
+change behaviour	3	5
+exit sign	3	5
+feed child	3	5
+peel potato	3
+book ticket	3
+lack energy	3
+make rich rich	3	5
+pollute environment	3
+make goods	3
+charade	3
+bold	3
+emote	3	5
+store film	3	5
+give change	3
+call name	3
+courtesy	3	5
+take order	3	5
+indeed	3
+consent	3
+jibe	3
+share opinion	3
+government branch	3
+neuter	3
+upkeep	3	5
+criterion	3
+theory	3	5
+circumstance	3	5
+page doctor	3	6
+care patient	3
+medical professional	3
+drug use	3	5
+memory loss	3	5
+first-aid kit	3	5
+petroleum	3
+loss life	3
+not think	3
+college course	3	5
+method	3
+logical	3
+gorgeous	3
+volume measurement	3
+liquid measurement	3	5
+four quarter	3	5
+cover wall	3
+much need	3
+keep file	3	5
+descriptive term	3	5
+tighten	3
+consider evidence	3
+empathize	3
+look evidence	3
+fiance	3
+therapy	3	5
+traveling place another	3
+type shoe	3
+good taste food	3
+three four	3
+singular form	3	5
+six	3	5
+protect foot	3	6
+last lifetime	3
+bad karma	3
+make feel bad	3	5
+go see shrink	3	5
+poke pin	3	6
+ballerina	3
+break up	3
+true love	3	5
+sacrifice	3	5
+use energy	3	5
+learn game	3
+leisure time	3
+reinforce	3
+lose find	3	5
+good deed	3
+lose item	3
+outer	3
+cloak	3	5
+wrap up	3	5
+make suit	3	5
+needle prick	3
+thread needle	3
+sew machine	3
+change position	3
+bourgoise	3
+touch other	3	5
+express love	3	5
+find hardware store	3
+deep blue	3	5
+feel obligate	3	5
+provide service	3
+throw object	3
+load dock	3
+lift heavy object	3
+use construction	3	5
+lift object	3	5
+cook vegetable	3	5
+rapid oxidation	3
+really	3
+destroy home	3
+wind water	3
+warm home	3
+fund	3	5
+tiny speck	3	5
+drive vehicle	3	5
+civic center	3
+make difference	3
+fortune teller	3
+overpower	3
+like see	3	5
+song title	3	5
+live human	3
+kind gesture	3	5
+find subway	3
+writer cramp	3
+think say	3
+sit computer	3
+think write	3	5
+express anger	3	5
+whatever	3
+computer operate system	3
+belly button	3	5
+pastor	3	5
+church head	3
+protestant	3
+hyper	3
+participate	3
+carry liquid	3
+follow path	3
+fruit plant	3
+supervisor	3	5
+swirl	3	5
+migraine	3	5
+summit	3
+win battle	3
+cultivate yard	3
+house land	3
+pick flower	3	5
+lot work	3	5
+tree flower	3
+edible plant	3	5
+plant yard	3
+grass area	3
+plant place	3
+person pet	3
+hear well	3	5
+aviation	3	5
+good pet	3	5
+pick berry	3
+pair pant	3
+good listener	3
+strong relationship	3	6
+bad hair day	3
+brain tumor	3	5
+sit still	3	5
+religious fanatic	3
+clon	3
+duplicate	3
+pass gene	3	5
+person want	3	5
+home improvement store	3
+jeer	3	5
+taunt	3
+go build	3
+streamer	3
+jazz club	3
+like play	3
+feel hunger	3	5
+category	3	5
+sense environment	3	5
+live organism	3
+fauna	3
+car crash	3	5
+question authority	3
+cylindrical shape	3
+accessorize outfit	3
+hold coin	3
+pastime	3	5
+python	3	5
+sexual arousal	3	6
+love another person	3
+sexual stimulation	3
+embrace	3	5
+lack time	3	5
+use dictionary	3	5
+write word	3
+vigorous activity	3
+good man	3
+record store	3	5
+belong person	3
+feel awake	3
+look book	3
+remember fact	3
+like tin	3	5
+make car	3	5
+hard plastic	3
+forge	3
+hard material	3	5
+mischief	3	5
+immortal	3
+human child	3
+military service	3	6
+win competition	3	5
+celebrate anniversary	3
+wed ring	3
+symbol love	3	4
+dance music	3
+star trek	3	5
+view art	3	5
+go art museum	3	5
+look art	3	5
+enjoy moment	3	5
+computer software	3	5
+remove dirt body	3
+not smell bad	3
+wash away dirt	3
+disinfect	3
+ensure proper hygiene	3
+hygene	3
+science laboratory	3
+accuracy	3
+purchase gift	3	5
+bouncy	3	5
+playroom	3
+play object	3
+symmetrical	3
+roll away	3
+tiger wood	3
+learn happen	3
+come decision	3
+find out fact	3	4	5
+yellow blue	3
+spectrum	3
+black green	3	6
+common noun	3
+green orange	3
+blue yellow	3
+hue tint	3
+vibrant	3
+military order	3	6
+giver	3	5
+edict	3
+give order	3	5
+glut	3
+sit rest	3
+eye contact	3
+sexually transmit disease	3	4	6
+replacement	3
+substitute	3
+take wallet	3
+case joint	3
+philosophy	3
+get around	3
+car bus	3
+trucking	3
+henchman	3
+lackey	3
+up front	3
+play place	3
+make presentation	3
+all the	3
+present play	3
+family reunion	3
+female relative	3
+female human	3
+member family	3
+schoolyard	3	4
+home owner	3
+build building	3
+list number	3
+add up column number	3
+nobleman	3
+tally	3
+seagoing vessel	3	4	6
+silky	3	5
+acknowledge	3
+perceive	3
+get gift	3
+corner store	3
+spice life	3
+tee	3
+money maker	3
+arbiter	3
+mail package	3
+ship package	3
+few person	3	6
+bed cover	3
+keep person warm	3
+home plate	3
+available	3
+get qualification	3
+check health	3
+credit	3	6
+over head	3
+gaseous	3
+habit form	3
+back airplane	3
+traveling long distance	3
+service car	3
+throb	3
+fudge	3
+chocolate treat	3
+chocolate dessert	3
+human language	3	5
+secondary colour	3	5
+noun verb	3
+remission	3
+self satisfaction	3
+oil paint	3
+beauty world	3
+express feel	3
+art supply	3
+bird group	3
+herd sheep	3
+forth	3
+go forward	3
+put order	3
+create order	3
+neat tidy	3
+orderly	3
+keep order	3
+decision make	3
+buy kosher food	3
+nut bolt	3
+conduct	3
+obey	3
+good habit	3
+good etiquette	3
+expensive food	3
+feel comfortable	3
+feel warm	3
+foster kid	3
+head ball	3
+take action	3
+play fire	3
+spare time	3
+lemonade	3
+old book	3
+strap	3
+gentleman	3
+courteous	3
+piano play	3
+car type	3
+peace agreement	3
+rollercoaster	3	6
+softly	3
+hindu	3
+bse	3
+apple pie	3
+santum clause	3
+spin thread	3
+two woman	3
+part plant	3
+physician	3
+medical doctor	3
+study physic	3
+chord	3
+say word	3
+record studio	3
+communication method	3
+mouth sound	3
+vocalization	3
+medical build	3
+track	3
+prevent accident	3
+nourish	3
+wear raincoat	3
+cannabis	3
+transformer	3
+change shape	3
+yoyo	3
+amaze friend	3
+fresh water	3
+antique	3
+patina	3
+thousand dollar	3
+old object	3
+inn	3
+anime	3
+mantle	3
+brad pitt	3
+funny look	3
+no suffix	3
+generosity	3
+vatican	3
+manure	3
+secret agent	3
+see sky	3
+look sky	3
+prosper	3
+welcome guest	3
+put paper	3
+organize paper	3
+keep paper	3
+fulcrum	3
+pick tooth	3
+delicious fruit	3
+jello	3
+green black	3
+green fruit	3
+green color	3
+drink container	3
+science lab	3
+uprise	3
+arrive conclusion	3
+interest topic	3
+snow ski	3
+boll	3
+long lifespan	3
+constant	3
+swap	3
+pocket money	3
+dim	3
+alter	3
+clean hair	3
+experience life	3
+eat live	3
+old age	3
+single person	3
+enter door	3
+oil hinge	3
+review book	3
+go shop mall	3
+dress success	3
+want fit	3
+need new clothe	3
+lot flower	3
+reach star	3
+sometimes computer	3
+locate information	3
+candy cane	3
+flourish	3
+recollection	3
+go back time	3
+use memory	3
+keep word	3
+say aloud	3
+commemorate event	3
+find sea	3
+confirmation	3
+forfeit	3
+look great	3
+make good impression	3
+conformity	3
+ethic	3
+see thru	3
+clear solid	3
+look glass	3
+look through	3
+room part	3
+find hospice	3
+microsoft	3
+stop walk	3
+give blood	3	6
+fall ice	3
+percentage	3
+only woman	3
+hierarchy	3
+no life	3
+obedient	3
+peon	3
+aristocrat	3
+free slave	3
+serf	3
+chauffeur	3
+group together	3
+big huge	3
+infinity	3
+emptiness	3	6
+pace	3
+blackness	3	6
+empty room	3	6
+eternity	3
+computer key	3
+white-out	3
+catch bus	3
+length width	3
+small big	3
+small large	3
+shear	3
+shepherd	3
+like sleep	3
+give present	3
+give comfort	3
+call friend phone	3
+laugh himself	3
+move house	3
+listen problem	3
+let win	3
+welcome friend	3
+rely	3
+back up	3
+bird pet	3
+wave friend	3
+pal	3
+needle person	3
+friendly person	3
+captain boat	3
+courier	3
+bird mouth	3
+bushel	3
+heavenly	3
+make assumption	3
+surf internet	3
+get result	3	5
+not green	3
+appear beautiful	3
+horizon	3
+clean object	3
+hold milk	3
+study person	3
+small bug	3
+enlightment	3	5
+watch carefully	3
+well test	3
+fond memory	3
+marry man	3
+milk drink	3
+definite	3
+moreover	3
+besides	3
+need go somewhere	3
+go somewhere else	3
+fill gas tank	3
+beautiful day	3
+sexually	3
+sense satisfaction	3
+good look	3
+good hygene	3
+wear clean clothe	3
+record event	3
+completion	3
+end point	3
+healthy eat	3
+tasty good	3
+nutritious	3
+edible human	3
+show movie	3
+sensual	3
+hand movement	3
+feel action	3
+handy	3
+sense organ	3
+dangerous drive	3	6
+treatment	3	6
+choose book	3
+active verb	3
+new perspective	3
+comprehension	3
+learn universe	3
+page through book	3
+obtain information	3
+drink cup tea	3
+move eye	3
+female person	3
+age gracefully	3
+walk along beach	3
+sophisticate	3
+park bench	3
+cut up	3
+cut down	3
+operator	3
+page person	3
+disneyworld	3
+life preserver	3
+airplane engine	3
+garden shed	3
+give hint	3
+elaborate	3
+define	3
+bicycle work	3
+lakewood	3
+two-dimensional	3
+almost always	3
+delicate	3
+elder	3
+to person	3
+eat dessert	3
+raise flag	3
+marine	3	6
+army man	3	6
+endure	3
+clarity	3
+observant	3
+say eureka	3
+resolve	3
+skate ice	3
+suit up	3
+piece together	3
+underware	3
+payment counter	3
+make payment	3
+eastern brown snake	3
+relieve pain	3
+human fuel	3
+set down	3
+keep body healthy	3
+stop hungry	3
+obtain food	3
+necessary live	3
+not starve	3
+consume	3
+stay still	3
+watch bird	3
+bus ride	3
+microphone boom	3
+tv studio	3
+hitch	3
+everlasting	3
+fast car	3	6
+robert	3
+like food	3
+mouth activity	3
+barf	3
+liquid substance	3
+stop drink	3
+potable liquid	3
+ingest	3
+person do	3
+eat action	3
+eat liquid	3
+haddock	3
+sport ball	3
+ballgame	3
+headquarters	3
+golf	3
+sun set	3	4
+obedience	3
+store ice cream	3
+cool engine	3
+honeycomb	3
+bee home	3
+bee hive	3	6
+bee house	3
+every live	3
+lock cabinet	3
+winchester	3
+please eye	3
+movie theater seat	3
+stardom	3
+glamour	3
+power drill	3
+alternative	3
+otherwise	3
+membership	3
+carat	3
+government job	3	5
+delight child	3
+show off other person	3
+avoid pain	3
+gratuity	3
+board room	3
+reach destination	3
+athletics	3
+act quickly	3
+like run	3
+human activity	3
+agility	3
+go fast walk	3
+a very	3
+quick motion	3
+somewhere fast	3
+fast walk	3
+back forth	3
+hand wash	3
+find floor	3
+piece material	3
+destiny	3
+allotment	3
+paper clip	3
+paper fastener	3
+personal pronoun	3
+stretch leg	3
+arise	3
+belief system	3	5
+take breath	3
+show respect	3
+get tire leg	3
+able run	3
+set key	3
+good friend	3
+grown field	3
+type material	3
+weave	3
+material type	3
+cultivate	3
+agricultural product	3
+keep track	3
+sell popcorn	3
+view movie	3
+depart	3
+baron	3
+see advertisement	3
+cover fur	3
+lower floor	3
+scientific method	3
+rosary	3
+catholic	3
+fullness	3
+prepare breakfast	3
+choose eat	3
+cotton candy	3
+cruise	3
+good music	3
+review material	3
+raise self esteem	3
+gain understand	3
+clear head	3
+review note	3
+sober	3
+gain insight	3
+time effort	3
+goof off	3
+significance	3
+hesitate	3
+neurotic	3
+flight terminal	3
+snorkel	3
+ticket booth	3
+cover sand	3
+change law	3
+open front door	3
+keep job	3
+set clock	3
+plan day	3
+increase net worth	3
+like job	3
+clock out	3
+desire money	3
+victory defeat	3	4
+highway road	3
+drive destination	3
+love parent	3
+obey parent	3
+chase ball	3
+gather team	3
+form team	3
+aviator	3
+defend	3	6
+go after	3	6
+two tee	3
+exchange money	3
+feel important	3
+must eat	3
+sachet	3
+become parent	3
+out focus	3
+sleep couch	3
+comfortable place sleep	3
+horizontal surface	3
+lye	3
+daisy	3
+social insect	3
+gush	3
+buy land	3
+physical strength	3
+good view	3
+rock climb	3
+organizational skill	3
+lead team	3
+take charge	3
+change world	3
+run business	3
+clinton	3
+every	3
+fiberglass	3
+toothbrush head	3
+creationism	3
+satisfy sweet tooth	3
+like taste	3
+open container	3
+except	3
+each	3
+money wallet	3
+person age	3
+gym equipment	3
+quiet down	3
+fee yourself	3
+get large	3
+get big	3
+warm-blooded	3
+cold blood	3
+launch complex	3
+regulation	3
+road sign	3
+margin	3
+wrap around	3
+licorice	3
+dance move	3
+dance type	3
+comic strip	3
+shoelace	3
+tie together	3
+salad dress	3
+inter	3
+make sign	3
+cindy	3
+green grass	3
+share thought	3
+enter information	3
+enter datum	3
+enter datum computer	3
+move finger	3
+print word	3
+press key	3
+written text	3
+stir pot	3
+creative person	3
+brown hamburger	3
+lend	3
+focus attention	3
+upper hand	3
+carry luggage	3
+airport terminal	3
+carry suitcase	3
+hold liquor	3
+input device	3
+pencil sharpener	3
+perfect skill	3
+garbage bag	3
+good karma	3
+good fortune	3
+end conversation	3	4
+collector	3
+decree	3
+secrecy	3
+type party	3
+paint face	3
+get reaction	3
+amuse yourself	3
+organic substance	3
+mister	3
+vanity case	3
+happy together	3
+picture family	3
+fiery	3
+gain respect	3
+make yourself feel better	3
+become depress	3
+science term	3
+seamstress	3
+press shirt	3
+part family	3
+altruistic	3
+good feeling	3
+good plan	3
+resistance	3
+end world	3
+supreme	3
+eight side	3
+pause	3
+telegraph	3
+octagon	3
+yield	3
+red octagon	3
+toyota	3
+ford	3
+old folk home	3
+use crayon	3
+make sketch	3
+no color	3
+body care	3
+marmite	3
+omnivore	3
+exception	3
+contain liquid	3
+tang	3
+orchestra pit	3
+perchance	3
+hypothetical	3
+spectacular	3
+open envelope	3
+reduce temperature	3
+tv station	3
+under garment	3
+char	3
+keeper	3
+inside brain	3
+transmit signal	3
+sensor	3
+sensory organ	3
+president clinton	3
+play saxaphone	3
+name state	3
+make steel	3
+eat meat	3
+require signature	3
+aft	3
+sapphire	3
+big boat	3
+large boat	3
+make lot money	3
+get publish	3
+express joy	3
+think creatively	3
+follicle	3
+create form	3
+tie up	3
+make ball	3
+person move	3
+ball bounce because	3
+fill air	3
+desire succeed	3
+complete thesis	3
+martini	3
+exertion	3
+a for	3
+elbow grease	3
+carry credit card	3
+money keeper	3
+convenient	3
+put money	3
+checkbook	3
+carry money	3
+money inside	3
+back pocket	3
+money storage	3
+money collector	3
+money store	3
+money place	3
+money holder	3
+watch much tv	3
+light red	3
+hardwood	3
+soft wood	3
+till	3
+parry	3
+thrust	3
+blacksmith	3
+wall cover	3
+position furniture	3
+win sport	3
+increase height	3
+get small	3
+enlarge	3
+plant big	3
+coat hanger	3
+hand signal	3
+dry paint	3
+smoothie	3
+frozen	3
+warm fuzzy feel	3
+buy flower	3
+large state	3
+money term	3
+death row	3
+gather berry	3
+pauper	3
+bookshop	3
+buy magazine	3
+rastafarian	3
+make believe	3
+cookie crumb	3
+side house	3
+provocative	3
+written language	3
+spanish	3
+linguistics	3
+italian	3
+pizzeria	3
+tote	3
+watch other person	3
+think dog	3
+talk neighbor	3
+sky scraper	3
+use farm	3
+picture person	3
+body reaction	3
+paper square	3
+support bridge	3
+victim	3
+alibi	3
+plan carefully	3
+thin herd	3
+centre	3
+median	3
+orchestra seat	3
+listener	3
+theater seat	3
+watch person	3
+watch concert	3
+balcony seat	3
+viewer	3
+action figure	3
+stuff animal	3
+girl room	3
+joan	3
+increase strength	3
+eat fruit	3
+long live	3
+strong body	3
+completely	3
+clean lady	3
+lifetime	3
+new car	3
+wheat corn	3
+play surface	3
+rubber ball	3
+recuperate	3
+pull up cover	3
+peace quiet	3
+another planet	3	6
+entertain other person	3
+person kiss	3	5
+dome arch	3
+capitol build	3
+capital build	3	5
+groan	3
+high place	3
+extend arm	3
+charge money	3
+solicitor	3
+try case	3	5
+legal person	3
+hide shell	3	5
+find america	3
+grow large	3
+thinness	3
+small thin	3
+long happy life	3	5
+eat healthy diet	3
+plenty rest	3
+live healthy lifestyle	3
+desire live	3
+stay well	3
+piggy bank	3	5
+dog fur	3
+good memory	3
+get well	3
+specialist	3
+stethoscope	3
+coal mine	3	5
+christmas gift	3	5
+mine ore	3
+punctual	3
+exercise daily	3
+brain function	3	5
+abstract think	3	5
+pray god	3
+corkscrew	3
+coat surface	3
+wet paint	3
+proper equipment	3
+perspective	3
+magnolia	3
+use brush	3
+art creation	3
+in can	3
+stand out	3
+home decoration	3	5
+exterior	3
+create picture	3
+house car	3
+make house look better	3
+create image	3
+helium balloon	3
+buy vend machine	3
+wear skirt	3	5
+thomas	3
+run jump	3
+drop ball	3
+throw frisbee	3
+gospel	3	5
+aspect	3	5
+part group	3
+hold pencil	3
+paperclip	3
+availability	3
+kathy	3
+make coat	3
+notification	3	5
+monthly payment	3
+paper currency	3
+sexuality	3
+will laugh	3
+read comic	3
+taxiway turn off	3
+sec	3	6
+control car	3
+monkey wrench	3
+fee cat	3
+pet dog	3	5
+pep	3
+per	3
+feature	3	5
+part face	3
+facial	3
+steam locomotive	3
+golfer	3
+champion	3	5
+not eat	3
+heal injury	3
+much person	3
+raven	3
+close deal	3
+red rose	3	5
+downhill ski	3
+hangar	3
+person think	3	5
+take home	3
+auto mechanic	3
+see picture	3
+web surf	3
+check email	3
+click link	3
+software company	3	5
+stop sign	3
+franc	3
+find location	3	5
+understand idea	3	5
+get high education	3
+bring friend	3
+select topic	3
+lecturer	3
+sleep back	3
+jump over	3
+make child laugh	3
+dome	3
+ebb	3
+win case	3
+hairdressing salon	3
+jewelery	3
+woman closet	3	5
+go picnic	3
+carry lunch	3
+prosperity	3
+good credit	3
+make home	3
+talk spouse	3
+make offer	3
+nice place live	3
+savings	3
+good investment	3
+simplicity	3
+conserve energy	3
+overcoat	3
+show tooth	3
+juggler	3
+circus performer	3	5
+axle	3
+good deal	3
+like cost	3
+money save	3
+santum clau	3
+play snow	3
+go down hill	3
+put warm clothe	3
+radio studio	3
+find out wrong	3
+slow heart beat	3
+thanksgiving dinner	3
+violin case	3
+breakfast bed	3
+facism	3
+large ship	3	5
+see work	3
+carry wallet	3
+discount	3	5
+leave tip	3
+steal car	3	6
+spend much money	3
+charge credit card	3
+bald head	3	5
+go town	3
+small flower	3
+enter contest	3	6
+parent child	3
+hiker	3
+ambassador	3
+trolley	3
+cable car	3
+tram	3
+gay person	3
+sex same gender	3	5
+most	3
+read credit	3
+car stereo	3
+plane ticket	3	5
+sperm	3
+personal fulfillment	3
+consideration	3
+buy home	3	5
+thermal	3
+read fine print	3	5
+use ink	3
+reliability	3
+signature	3
+connoisseur	3
+fine wine	3	5
+merge	3
+possessive	3
+finish complete	3
+finality	3
+teapot	3
+wave arm	3	4
+imperative	3
+say prayer	3
+instinct	3	6
+eat muffin	3
+car steer	3
+miracle	3	5
+berkeley philosophy	3
+deity	3
+almighty	3
+omniscient	3	5
+judge person	3
+stay young	3
+read bedtime story	3
+acrobat	3	5
+already	3
+assist	3
+evangelist	3
+fundamentalist	3
+head tail	3
+strong smell	3
+business term	3
+watch comedy	3
+waltz	3
+pacifism	3
+find want	3	5
+hardship	3	4
+receive thank	3
+provide information	3
+archaic	3	5
+sherrie	3
+mental state	3	4
+mazda	3
+large corporation	3
+watch over	3	5
+stance	3
+hair roller	3
+make grain	3
+bavarium	3
+stay up night	3
+openmind	3
+most animal	3
+humankind	3
+explore idea	3	5
+jill	3
+yellow ribbon	3
+winter time	3
+yearly celebration	3
+farm food	3
+popular food	3
+yellow fruit	3
+farm plant	3
+use decoration	3	5
+move ahead	3
+give signal	3
+hotness	3
+opposite cold	3
+hot sun	3
+cheap price	3	5
+cheap buy	3
+adorn	3	5
+die young	3
+vicodin	3
+head start	3
+hair conditioner	3
+toe nail	3
+choral	3
+musical group	3
+amendment	3
+move mouse	3
+park structure	3
+put box	3
+decompose	3
+understand plot	3
+zenith	3
+levitate	3
+pillow fight	3
+businesse	3
+earn income	3
+principle	3
+darwin	3
+big bang	3	5
+scientific statement	3	5
+axiom	3
+know come	3
+child birthday	3	5
+cake eat	3
+make mess	3
+spanish restaurant	3
+spicy food	3
+get work done	3
+job done	3
+finish task	3
+meet know	3	5
+weekend	3
+stimulation	3
+convention	3
+shack	3	5
+beach house	3	5
+particular	3
+camera store	3
+think issue	3
+sherman	3
+blue color	3
+information transfer	3
+give answer	3	6
+make easy	3	5
+set instruction	3
+tree limb	3
+foxtrot	3	5
+ballroom dance	3
+presidential election	3	5
+chair committee	3
+expensive sport	3
+ask person	3
+seldom	3
+nearly	3
+spiderman	3	5
+football player	3
+watch good movie	3
+classify ad	3
+center passage	3
+wavelength	3
+green red	3
+bland	3
+healthy live	3
+tangent	3
+move hand	3
+others understand	3
+convey information	3
+high pitch	3	6
+garden plant	3
+crystalline solid	3
+little dense water	3
+form sentence	3
+health benefit	3
+removal	3
+lifestyle	3
+name child	3
+man spacecraft	3
+man wife	3
+eat chocolate	3
+kayak	3
+date man	3
+sail around world	3	5
+water rose	3
+wear sunglasses	3
+single woman	3
+best friend	3
+run mile	3
+know want	3
+draw blueprint	3
+choir stall	3
+awaken	3
+aircraft carrier	3
+land runway	3
+walk wood	3
+yogurt	3
+moldy bread	3
+novocaine	3
+passport case	3
+dart board	3
+sideways	3
+rubbery	3
+islam	3
+environmentalist	3	5
+plenty sleep	3
+welfare	3
+eden	3
+utopia	3
+political state	3
+good movie	3
+car race	3	5
+store record	3
+athelete	3
+better himself	3
+chairman	3
+shareholder	3
+file system	3
+amusement ride	3	5
+not sick	3
+hear funny	3
+socialize friend	3
+enter theatre	3
+make selection	3
+make friend happy	3
+generousity	3
+every home	3
+make up mind	3
+gavel	3
+swift	3
+workhouse	3
+launch platform	3
+steve	3
+sunny day	3
+phone conversation	3
+baby action	3
+charge card	3
+money charge	3
+several	3
+rocker	3
+mike	3	6
+good acoustic	3
+cut line	3
+get front line	3
+hang ceiling	3
+roll over	3
+play computer	3
+mine gold	3	5
+cut ribbon	3
+stock exchange	3
+cast shadow	3	5
+perambulate	3
+checker	3
+prop up	3
+fly around	3
+next door	3
+eat peach	3
+square dance	3
+jiggle	3
+key chain	3
+internal	3
+safe deposit box	3
+under umbrella	3
+junction	3
+pop up	3	5
+read aloud	3
+electric guitar	3	5
+power electricity	3
+study language	3
+feel energize	3
+build strong muscle	3
+tyler	3
+peelable	3
+type credit card	3
+elderly	3	6
+revitalise yourself	3
+exchange gift	3
+slinkie	3	5
+think idea	3
+wood board	3
+walk exercise	3
+hang up towel	3
+committee	3
+belong club	3
+regularly	3
+increase vocabulary	3
+white water	3
+feel grateful	3
+get job done	3
+business man	3
+work done	3
+kind pet	3
+dig gold	3	5
+likely discover truth	3	5
+chess knight	3	5
+salmon	3	5
+put ink paper	3
+structural support	3
+upright	3
+build support	3
+organize information	3
+beam	3	5
+hold match	3	5
+rowboat	3
+feedback	3
+save information	3
+spell wrong	3
+create new idea	3
+christmas time	3
+dog toy	3
+slumber	3
+zigzag	3	5
+white light	3
+top dog	3
+high rank	3
+navy rank	3
+build foundation	3
+start computer	3
+career advancement	3
+build ground	3
+four leaf clover	3	5
+learn art	3
+take up time	3
+sport play	3
+elm	3
+cedar	3
+large plant	3
+wet hair	3
+weak acid	3
+group meet	3
+social group	3
+association	3
+hunt fish	3	5
+pitch tent	3
+log cabin	3
+arrest criminal	3
+call up	3
+cougar	3	5
+person enjoy	3
+large area land	3
+govern person	3
+scenery	3
+own flag	3
+britain	3	5
+big hat	3
+make sense	3
+rational think	3
+fence yard	3
+round brush	3
+capitol	3
+sleep through	3
+fbus	3
+crave	3
+need want	3
+sexual attraction	3
+small stream	3
+alimony	3
+assistance	3
+otter	3
+novelty item	3	5
+warm bed	3
+move rhythm music	3
+fingerpaint	3
+cover ground	3
+inform others	3
+short form	3
+visual aid	3
+make up person	3	5
+circulate air	3
+cool car engine	3
+magnetism	3	5
+read article	3
+think clearly	3
+croquet	3
+happy child	3
+vancouver	3
+call dog	3
+give dog exercise	3
+foot movement	3
+hand print	3	5
+country person	3
+increase energy	3	5
+beetle	3
+ladybug	3
+stroll	3
+able read	3
+run car	3
+passenger car	3
+good vision	3
+sparkle	3	5
+well light	3
+marry couple	3
+catholic church	3
+high rise	3	5
+build city	3
+condominium	3
+reflex	3	5
+gist	3
+hockey rink	3
+hummingbird	3	5
+sleep dog	3	4
+bed sleep	3
+relax mind	3
+enjoy down time	3	4
+rejuvination	3
+rejuvenation	3
+hold canvas	3
+stopwatch	3
+time runner	3
+about	3
+full circle	3
+ease pain	3
+johnny	3
+visit grandmother	3
+gamble game	3
+terry	3
+time loop	3
+theoretical	3
+big heavy	3
+church service	3
+address book	3
+electricity operate	3
+require electricity	3
+mammary gland	3
+firebomb	3
+sentient	3
+destroy evidence	3
+farecard	3
+waste life	3
+broomstick	3
+clean often	3
+wooden box	3
+heal wind	3
+send back	3
+oppose	3
+mousse	3
+hair shape gel	3
+hair gel	3
+hear beautiful music	3
+tear eye	3
+city country	3
+reduce	3
+wheat rice	3
+show up	3
+frail	3
+soft touch	3
+thumb tack	3
+e-mail	3
+spread word	3
+feel strongly	3
+get word out	3
+thumbtack	3
+outdoor sport	3
+buy candy	3
+cold drink	3
+menace	3
+mope	3
+wail	3
+bawl	3
+leave message	3
+enema	3
+case beer	3
+essential human life	3
+emac	3
+wear out shoe	3
+chior	3
+many different colour	3
+clean fish	3
+swim sea	3
+live ocean	3
+raw	3
+bouyant	3
+breathe underwater	3
+incident	3
+dividend	3
+pass law	3
+earth movement	3
+remark	3
+utterance	3
+finish college	3	4
+graduate student	3
+euro	3
+run out time	3
+strategize	3
+live good life	3
+kiss girl	3
+courageous	3
+bank money	3
+dentist chair	3
+open close mouth	3
+doctor examination room	3
+splinter	3
+wave flag	3
+comfortable chair	3
+free food	3
+sing well	3
+reply question	3
+happy family	3
+chigger	3
+lose time	3
+fragment	3
+sweet dream	3
+carry home	3
+constipation	3
+hike trail	3
+put bag	3
+pet die	3
+louse	3
+eat pasta	3
+programme	3
+poor vision	3
+sign agreement	3
+best life	3
+pay off debt	3
+give take	3
+same time	3
+proverb	3
+pour hot coffee mug	3
+eat cat food	3
+deal card player	3
+mosh pit	3
+clog artery	3
+asbestos	3
+war museum	3
+eat pudding	3
+dig grave	3
+consistency	3
+burn toast	3
+express gratitude	3
+much information	3
+time rest	3
+things	3
+predict weather	3
+name baby	3
+trust friend	3
+royal flush	3
+finish test	3
+drink sea water	3
+prepare report	3
+master skill	3
+not bore	3
+love other	3
+yacht	3
+computation	3
+prom	3
+plan wed	3
+comfortable clothe	3
+study group	3
+crowd elevator	3
+car break down	3
+death love	3
+rule world	3
+lot noise	3
+broken wrist	3
+fail class	3
+eat peanut butter	3
+sing microphone	3
+listen joke	3
+make drape	3
+call mom	3
+learn listen	3
+bicycle across town	3
+inferior	3
+temptation	3
+forget name	3
+extrovert	3
+whatever want	3
+take cold shower	3
+fancy girl	3
+janitor	3
+complain state world	3
+both word	3
+merry go round	3
+hang picture wall	3
+travel airplane	3
+therapist	3
+compose music	3
+eat rat	3
+go dentist	3
+break tooth	3
+bee sting	3
+orange juice	3
+poo	3
+underworld	3
+find mean	3
+anthrax	3
+toothache	3
+drive recklessly	3
+pester	3
+homophobic	3
+oxford	3
+master new skill	3
+speak up	3
+nuclear war	3
+healthy environment	3
+sun beach	3
+decorate home	3
+teach computer	3
+clean underwear	3
+carbon monoxide	3
+feel safe	3
+good citizen	3
+personal identification	3
+wall street	3
+drudgery	3
+taken seriously	3
+stutter	3
+box ear	3
+self confidence	3
+blown up	3
+mind store	3
+roller skate	3
+feel comfort	3
+nice weather	3
+embarass	3
+hear live music	3
+desire help	3
+run lot	3
+bad news	3
+mount ever	3
+financial security	3
+pay work	3
+betray	3
+sweet fruit	3
+flea	3
+break record	3
+miss appointment	3
+crossword	3
+oversee	3
+blog	3
+polution	3
+help another	3
+dialogue	3
+biped	3
+wind watch	3
+paint fingernail	3
+toil	3
+unstable	3
+find love	3
+run over car	3
+grade paper	3
+tofu	3
+think food	3
+life-long mate	3
+mean life	3
+nag	3
+dangerous job	3
+feel alone	3
+mosque	3
+talk other	3
+truck driver	3
+president bush	3
+good sense humor	3
+repetitive task	3
+free stuff	3
+like boy	3
+credit card bill	3
+his	3
+listen bird	3
+shine car	3
+sit rock chair	3
+turn air condition	3
+see clearly	3
+written programmer	3
+blow out candle	3
+skate rink	3
+person not	3
+dismissal	3
+ipod	3
+skip rope	3
+moldy food	3
+pick team	3
+durable	3
+enjoy meal	3
+german car	3
+decorate house	3
+live object	3
+visit relative	3
+hairy leg	3
+seed lawn	3
+nice clothe	3
+brother sister	3
+volume control	3
+experience joy	3
+bad experience	3
+reprimand	3
+listen rock music	3
+free bird	3
+natural world	3
+jame bond	3
+assert	3
+go moon	3
+drink espresso	3
+hot meal	3
+learn dance	3
+wedge door open	3
+fireman	3
+celebrate specific group dead	3
+blue sky	3
+dark alley	3
+age prematurely	3
+mite	3
+croak	3
+movie ticket	3
+tv drama	3
+tree arm	3
+pale	3
+carol	3
+water hose	3
+t-shirt	3
+person clothe	3
+check balance	3
+lead pencil	3
+curl iron	3
+impend danger	3
+eva	3
+out money	3
+capitalize	3
+assemble	3
+pocket notebook	3
+jot down note	3
+skid	3
+proper noun	3
+wristwatch	3
+use board game	3
+relocation	3
+body action	3
+new home	3
+quest knowledge	3
+park space	3
+wood plank	3
+ship boat	3
+shore boat	3
+plank	3
+legendary	3
+earth day	3
+play card game	3
+evacuation	3
+love god	3
+harsh	3
+forceful	3
+flower type	3
+explain problem	3
+hang onto	3
+put hand	3
+flat fish	3
+participate sport	3
+bloodhound	3
+thaw	3
+display information	3
+balance check account	3
+buffoon	3
+funny man	3
+outbreak	3
+unending	3
+enunciation	3
+pronounce	3
+knick-knack	3
+clipper	3
+password	3
+scotch tape	3
+lingerie	3
+drive store	3
+human chest	3
+restaurant diner	3
+black water	3
+consequence war	3
+carry blood	3
+spook	3
+buy ring	3
+polute	3
+drop blood	3
+whack	3
+mouth movement	3
+anarchism	3
+socialism	3
+relate person	3
+transparency	3
+hitman	3
+form food	3
+haste	3
+buy tv	3
+trip fall down	3
+grab ball	3
+roll stone	3
+eclectic	3
+use atm	3
+place place	3
+financial	3
+deposit	3
+bank loan	3
+sac	3
+sex toy	3
+blackberry	3
+tourniquet	3
+stop bleed	3
+curfew	3
+ice crystal	3
+two child	3
+buy credit	3
+hot dog bun	3
+bart	3
+gable	3
+damage car	3
+ail	3
+personal belong	3
+sense peace	3
+make floor	3
+hard paper	3
+much fat	3
+score touchdown	3
+wooden stick	3
+hold sign	3
+eight leg	3
+man post	3
+heck	3
+fang	3
+gore	3
+make many	3
+mathematical term	3
+seem	3
+entice	3
+neckwear	3
+read glass	3
+conveyance	3
+show off wealth	3
+sam	3
+appear suddenly	3
+junkyard	3
+personal transport	3
+fun watch	3
+kill mouse	3
+excrete	3
+sewn	3
+modal verb	3
+metal container	3
+pluck	3
+main artery	3
+good news	3
+shoplift	3
+drive upon	3
+dime store	3
+old movie	3
+tinnitus	3
+hurt ear	3
+use garden	3
+garden tool	3
+obsession	3
+irony	3
+thong	3
+dental floss	3
+bikini	3
+stream ocean	3
+birthday gift	3
+anniversary gift	3
+thoughtfulness	3
+warm feel	3
+not enough cash	3
+next house	3
+cough syrup	3
+jolt	3
+firework	3
+loot	3
+pump air	3
+candle light	3
+play hard	3
+look scenery	3
+find lake	3
+scenic	3
+friar	3
+partygoer	3
+hold point	3
+barrette	3
+chatter tooth	3
+goof	3
+royal person	3
+checkbook cover	3
+airline seat	3
+love back	3
+nice gesture	3
+dumpster dive	3
+armour	3
+put two two together	3
+yardstick	3
+white rice	3
+march rear	3
+park area	3
+economic activity	3
+sport bat	3
+prepare snack	3
+mdma	3
+human cell	3
+aunt uncle	3
+mother brother	3
+good reason	3
+research topic	3
+important event	3
+unsettle	3
+better world	3
+sleep well	3
+mental activity	3
+plea	3
+advise	3
+golf bag	3
+self discipline	3
+stay out trouble	3
+fun around	3
+find out world	3
+see ad	3
+drink cup coffee	3
+dental chair	3
+pull tooth	3
+iodine	3
+motive	3
+think process	3
+romance novel	3
+gun knife	3
+sunblock	3
+person give	3
+express appreciation	3
+hypnotic	3
+full moon	3
+camouflage	3
+eat french fry	3
+box tissue	3
+swat	3
+buy airline ticket	3
+golf club	3
+hit golf ball	3
+use game golf	3
+jeff	3
+socialist	3
+assortment	3
+tab	3
+musical symbol	3
+musical notation	3
+play match	3
+linoleum	3
+foot motion	3
+power supply	3
+fabricate	3
+larry	3
+sleep cat	3
+interview day	3
+psychopath	3
+amplitude	3
+military officer	3
+army position	3
+chant	3
+pincer	3
+sandy beach	3
+water beach	3
+air ticket	3
+mathcamp	3
+codeine	3
+forget fact	3
+share time	3
+roll dice	3
+switch off	3
+mantra	3
+car wheel	3
+air pump	3
+grass clipping	3
+release stress	3
+arrive somewhere	3
+dwain	3
+person vote	3
+willy	3
+female television connector	3
+human ear	3
+dog howl	3
+may like	3
+school year	3
+demo	3
+add number together	3
+adversity	3
+boat ship	3
+military ship	3
+sail ocean	3
+peter	3
+suburban shop mall	3
+hostage	3
+priceless	3
+cranberry	3
+mountain dew	3
+metal rod	3
+different shape	3
+side face	3
+head person	3
+add spice	3
+choke food	3
+lick finger	3
+lactose	3
+hypnotic effect	3
+relate music	3
+eric	3
+carnival ride	3
+good character	3
+impulse shop	3
+teaspoon	3
+stay out jail	3
+contact friend	3
+sew needle	3
+lunge	3
+head guy	3
+political figure	3
+lead group	3
+collect datum	3
+bono	3
+skeletal system	3
+white substance	3
+badness	3
+milan	3
+military group	3
+aboriginal	3
+build strength	3
+breathe sigh relief	3
+length measurement	3
+space travel	3
+how long	3
+frequent	3
+muzzle	3
+follow person	3
+max	3
+toss turn	3
+jump up	3
+return goods	3
+spangle	3
+clarification	3
+preservative	3
+many food	3
+steel pen	3
+abstract noun	3
+diaphragm	3
+disney movie	3
+belle	3
+kim	3
+smart dog	3
+sail sailboat	3
+smart creature	3
+run far	3
+personal attribute	3
+shrug	3
+intern	3
+atomic bomb	3
+cliche	3
+storage space	3
+exhaust pipe	3
+depend	3
+find pantry	3
+aye	3
+person smoke	3
+locate place	3
+judo	3
+mac	3
+masculine	3
+eat tasty food	3
+male person	3
+look sexy	3
+verbalize	3
+oration	3
+discourse	3
+move tongue	3
+startrek	3
+hardhat	3
+muscle ache	3
+cartoon character	3
+yo-yo	3
+forward movement	3
+derivation	3
+dog hair	3
+twiddle thumb	3
+hobbie	3
+find solution	3
+kosher	3
+least	3
+reduction	3
+tan lotion	3
+impression	3
+castor	3
+real duck	3
+pay item	3
+pickpocket	3
+trainer	3
+sneaker	3
+casual shoe	3
+timeout	3
+steel wool	3
+moviegoer	3
+corndog	3
+nip	3
+marcel	3
+hot liquid	3
+dead president	3
+currency exchange	3
+cash coin	3
+buy goods service	3
+buy diamond ring	3
+ask politely	3
+grid	3
+pioneer	3
+water vehicle	3
+stalin	3
+learn disease	3
+talk doctor	3
+important stay healthy	3
+take shirt off	3
+doctor appointment	3
+miss work	3
+x-ray	3
+toy car	3
+leadership position	3
+military position	3
+custard	3
+chris	3
+dwarf	3
+common cold	3
+put garbage	3
+george washington	3
+upper case	3
+no value	3
+forget else	3
+grasshopper	3
+perfect sphere	3
+religious tract	3
+rise water	3
+sine	3
+long tube	3
+rubber duck	3
+state matter	3
+typewriter key	3
+declare	3
+make statement	3
+proclamation	3
+positive negative	3
+majority	3
+old building	3
+kimono	3
+posh	3
+sultan	3
+support wall	3
+round top	3
+car power	3
+craven	3
+flue	3
+mediocrity	3
+brent	3
+lark	3
+shoulder bag	3
+steven	3
+columbus	3
+move liquid	3
+build endurance	3
+dissection	3
+japanese beetle	3
+rotary phone	3
+part history	3
+clean yourself up	3
+rock formation	3
+hard mineral	3
+large rock	3
+ledger	3
+military division	3
+illuminate area	3
+lantern	3
+price merchandise	3
+matt	3
+acne medication	3
+tape player	3
+put coin	3
+test mettle	3
+extreme fear	3
+homeowner	3
+wooden rod	3
+cocktail cabinet	3
+smile child	3
+ralph	3
+harpoon	3
+pretty flower	3
+find upstairs	3
+keep clothe	3
+curiousity	3
+birdwatche	3
+redness	3
+extension	3
+correct behavior	3
+dwaine	3
+scrap paper	3
+ballpoint pen	3
+inexpensive	3
+ticket window	3
+bob marley	3
+get around town	3
+gyroscope	3
+lower body temperature	3
+book bible	3
+skid mark	3
+safety pin	3
+corporal	3
+bad behavior	3
+judge decision	3
+machinist	3
+haircut scissor	3
+traveller	3
+mahogany	3
+waffle	3
+onto	3
+love art	3
+wonderful place visit	3
+foot part	3
+part foot	3
+think through	3
+stacey	3
+disposable razor	3
+botswana	3
+whiteness	3
+winter fall	3
+contagious disease	3
+lifesaver	3
+send receive information	3
+source electricity	3
+andraw	3
+clock face	3
+picket	3
+picket sign	3
+high salary	3
+approach	3
+goddess	3
+sprite	3
+chesspiece	3
+put trash	3
+quiet cry baby	3
+hold baby	3
+person stare	3
+plum	3
+memorise	3
+focus concentration	3
+remember late	3
+physical quantity	3
+gel toothpaste	3
+projector	3
+learn sport	3
+cardinal	3
+bishop	3
+church official	3
+clint	3
+green leafy	3
+traveling destination	3
+bus pass	3
+use condom	3
+not feel well	3
+cope	3
+clone	3	5
+make well	3
+icebox	3
+mormon	3
+grow pot	3
+new world	3
+make run	3
+write brush	3
+bird home	3
+same answer	3	5
+salad shaker	3
+unbelief	3
+climb hill	3
+refer	3
+record datum	3
+self adhesive label	3
+semester	3
+wrestler	3	6
+tweezer	3
+tree cover	3
+view nature	3
+dog wag tail	3
+hairdryer	3
+hockey fan	3
+brisket	3
+watch commercial	3
+water hole	3
+drink place	3
+tie score	3
+blank check	3
+sport person	3
+many yard	3
+newborn baby	3
+pass ball	3
+plunge	3
+junior	3
+return ticket	3
+become man	3
+anniversary	3
+wind thread	3
+like hill	3
+sacramento	3
+letter alphabet	3
+busy person	3
+parallelogram	3	5
+long haired man	3
+brian	3
+quake	3
+short version	3
+restaurant bill	3
+fragrant	3
+snail	3
+emancipation	3
+extortion	3
+chess queen	3
+obstruction	3
+casual	3
+geta	3
+centimetre	3
+carrie	3
+frieze	3
+severance	3
+cover wind	3
+chassis	3
+unix	3
+worn improve vision	3
+magnify	3
+old sock	3
+change government	3
+conner	3
+goal driven active entity	3
+debut	3
+sand paper	3
+church part	3
+church build	3
+stacy	3
+not lose	3
+clearance	3
+medallion	3
+true believer	3
+desire entertain	3
+self-discipline	3
+jane	3
+sense rhythm	3
+betterment	3
+swim suit	3
+slush	3
+conduct research	3
+zeus	3
+many different type	3
+disclosure	3
+phenobarbital	3
+informal	3
+music sheet	3
+elasticity	3
+company name	3
+razor blade	3
+nave	3
+stamp pad	3
+no doubt	3
+hairball	3
+dentist work	3
+think cat	3
+frilly	3
+merchant	3
+toothbrush bristle	3
+computer disk	3
+flow lake	3
+human hair	3
+pendulum	3
+centennial	3
+neutron	3
+train seat	3
+cherry tree	3
+good story	3
+chess king	3
+tracey	3
+grandparent	3
+science fiction book	3
+classroom chair	3
+go ball	3
+token slot	3
+great performance	3
+find out new	3	5
+bartender	3
+competitive spirit	3
+feel euphoria	3	5
+water molecule	3
+bequest	3
+holdall	3
+iota	3
+carve niche	3
+handset	3
+solaris	3
+ticket box	3
+tortise	3
+big stick	3
+store knowledge	3
+provision	3
+nintendo wius	3	5
+good quality	3
+fire engine	3	5	6
+peddle	3
+club chair	3
+moistener	3
+ping pong paddle	3
+person marry	3	5
+todd	3
+create comfortable environment	3
+translation	3
+subway stop	3
+ballon	3	5
+departmental highway	3
+scuba gear	3	5
+courthouse look public record	3
+shower curtain	3
+take over	3
+dictation	3
+magnitude	3
+find jar	3
+decorate yard	3
+bayonet	3
+lesbian	3	5
+grid object	3
+put out	3
+panties	3	5
+theater ticket	3
+contribution	3
+lip balm	3
+type bow	3
+guardian	3
+several type	3
+claim	3
+ridgeback	3
+norman	3	5
+across	3
+cologne	3
+adolescence	3	5
+sunbather	3
+groucho marx	3
+five dime	3
+shawna	3
+beanie baby	3
+bone contention	3
+desire entertainment	3
+gate leg table	3
+physique	3
+toy balloon	3
+french person	3	5
+carny	3
+sculpt gel	3
+jitterbug	3	5
+tablespoon	3
+tripod dolly	3
+vocal music	3
+corner grocery	3
+blowdryer	3
+forethought	3
+written word	3
+beau	3
+desire education	3
+citation	3
+novelist	3
+wed chapel	3	5
+trapezoid	3
+henry	3
+whittle	3
+danny	3
+wash mouth soap	3
+guinness	3	5
+old testament	3
+dropper	3
+torah	3	5
+tim	3
+peace sign	3
+duplex	3
+charleston	3	5
+clamp binder	3
+bar service	3
+hind	3
+jessie	3
+theater wing	3
+lawrence	3
+part tree	3
+many different kind	3
+undertake	3
+shilling	3
+treasurer	3
+preist	3
+red wine	3	5
+shamrock	3
+purpose container	3
+dwight	3
+procession	3	5
+chess pawn	3
+capoeira angola	3
+yore	3
+baby need	3
+detachment	4
+unrest	4
+quietness	4
+shamefacedness	4
+sheepishness	4
+shame	4
+self-hatred	4
+scruple	4
+qualm	4
+resignation	4
+surrender	4
+pensiveness	4
+brooding	4
+repose	4
+isolation	4
+hopelessness	4
+gravity	4
+solemnity	4
+sombreness	4
+fever	4
+embarrassment	4
+seriousness	4
+dejectedness	4
+lowness	4
+distance	4
+aloofness	4
+disinclination	4
+discouragement	4
+disheartenment	4
+despair	4
+defeatism	4
+discombobulation	4
+pity	4
+ruth	4
+pathos	4
+humiliation	4
+blues	4
+megrims	4
+apathy	4
+alienation	4
+estrangement	4
+abashment	4
+bashfulness	4
+self-deprecating	4
+discredited	4
+alienated	4
+estranged	4
+anomic	4
+disoriented	4
+uneasy	4
+apathetic	4
+abashed	4
+embarrassed	4
+broken	4
+upset	4
+cold	4
+defeated	4
+disappointed	4
+discomfited	4
+demoralised	4
+down in the mouth	4
+despairing	4
+discouraging	4
+disinclined	4
+distressing	4
+distressful	4
+awkward	4
+embarrassing	4
+humiliated	4
+feverish	4
+hopeless	4
+demeaning	4
+humbling	4
+humiliating	4
+indifferent	4
+insecure	4
+detached	4
+isolated	4
+separated	4
+set-apart	4
+lackadaisical	4
+languid	4
+languorous	4
+pensive	4
+wistful	4
+broody	4
+contemplative	4
+pondering	4
+reflective	4
+ruminative	4
+pessimistic	4
+placid	4
+quiet	4
+still	4
+abject	4
+unhopeful	4
+sheepish	4
+ashamed	4
+unconcerned	4
+unfriendly	4
+estrange	4
+alienate	4
+alien	4
+disaffect	4
+lull	4
+humiliate	4
+humble	4
+abase	4
+commiserate	4
+sympathize	4
+sympathise	4
+feel for	4
+condole with	4
+sympathize with	4
+disconcert	4
+put off	4
+get the better of	4
+defeat	4
+demoralise	4
+untune	4
+discomfit	4
+discourage	4
+indispose	4
+disincline	4
+distress	4
+embarrass	4
+abash	4
+inebriate	4
+hassle	4
+resign	4
+submit	4
+apathetically	4
+confusedly	4
+painfully	4
+seriously	4
+embarrassingly	4
+feverishly	4
+dispiritedly	4
+hopelessly	4
+humiliatingly	4
+demeaningly	4
+indifferently	4
+insecurely	4
+languorously	4
+pensively	4
+pessimistically	4
+resignedly	4
+disgracefully	4
+ingloriously	4
+ignominiously	4
+discreditably	4
+shamefully	4
+dishonorably	4
+dishonourably	4
+shamefacedly	4
+unconcernedly	4
+hospital	4
+earthquake	4
+give lecture	4
+broken arm	4
+strict	4
+severe	4
+cell	4
+complicate	4
+change mood	4
+stolen	4
+intangible	4
+doctor office	4
+nothing	4
+sleep pill	4
+crutch	4
+end	4
+mean	4
+get divorce	4
+child cry	4
+make person upset	4
+emotional distress	4
+pain	4
+lie	4
+bad feeling	4	6
+end marriage	4
+end relationship	4
+child suffer	4
+cheat spouse	4
+tear	4
+cry	4
+neediness	4
+yearn	4
+need	4
+mean transportation	4
+leave	4
+flat tire	4
+leave home	4
+wrong	4
+incorrect	4
+hard define	4
+animal skin	4
+doctor	4
+overweight	4
+disconnection	4
+waste time	4
+get waste	4
+fall	4
+loser	4
+kill yourself	4
+wait	4
+drunk	4
+headache	4
+sad person	4
+get lay	4
+tie shoelace	4
+burial	4
+death	4
+funeral	4
+dead	4
+dead body	4
+bury	4
+grave	4
+fat	4
+leave house	4
+boredom	4
+old fashion	4
+starve	4
+slave	4
+slavery	4
+not	4
+not fact	4
+error	4
+batter	4
+cremate	4
+burn	4
+pressure	4
+suffer fool	4
+not understand	4
+frown	4
+sore throat	4
+much exercise	4
+ulcer	4
+ailment	4
+sore stomach	4
+stomach pain	4
+painful	4
+rick	4
+tire	4
+immoral	4
+high calorie	4
+lose	4
+brown	4
+small	4
+plain	4
+vietnam	4
+punish child	4
+punishment	4
+far	4
+exit	4
+hard	4
+artificial	4
+cut	4
+scratch	4
+scrape	4
+hack	4
+sharp hurt	4
+division	4
+break	4
+abrasion	4
+hurt yourself	4
+slash	4
+separation	4
+bleed	4
+copy paste	4
+painful injury	4
+injury	4
+lacerate	4
+hurt	4
+draw blood	4
+wound	4
+slit	4
+scar	4
+sever	4
+chop	4
+laceration	4
+nick	4
+split	4
+gash	4
+hurtful	4
+stab	4
+booboo	4
+cause bleed	4
+halve	4
+band aid	4
+pay admission	4
+pay	4
+little money	4
+fatigue	4
+feel sad	4
+stomach ache	4
+excuse	4
+no good	4
+cut half	4
+drink poison	4
+insult	4
+cough	4
+disease	4
+lean over	4
+overprice	4
+remove	4
+run out	4
+excruciate	4
+feel remorse	4
+last	4
+sunset	4
+bad choice	4
+worn head	4
+worn foot	4
+beg	4
+absence light	4	6
+lack light	4	6
+fall floor	4
+hoard	4
+cramp	4
+move person	4
+root evil	4
+captive	4
+low down	4
+ass	4
+bum	4
+downward	4
+rear	4
+backside	4
+no choice	4
+divorce	4
+person need	4
+grow old	4
+no other choice	4
+become sad	4
+quit work	4
+die	4
+emotional pain	4
+zombie	4
+wait train	4
+ill	4
+act play	4
+uppercase bug	4
+fall down	4
+drop	4
+medicine chest	4
+fail	4
+illness	4
+forget	4
+run out booze	4
+bite dog	4
+forgetfulness	4
+lower standard	4
+hurt other person	4
+uncomfortable	4
+stand alone	4
+empty	4
+bad guy	4
+tug	4
+bumpy	4
+flood	4
+die war	4
+wait line	4
+abortion	4
+find doctor	4
+clinic	4
+forget everything	4
+tie game	4
+walk stick	4
+suspension	4
+baby cry	4
+get bore	4
+sigh	4
+sore leg	4
+become impatient	4
+tire foot	4
+delay	4
+get sore foot	4
+become tire	4
+back ache	4
+wait service	4
+patient	4
+sore foot	4
+medicine	4
+tiredness	4
+get tire	4
+exhaustion	4
+will tire	4
+feel tire	4
+become exhaust	4
+collapse	4
+sunburn	4
+choke	4
+sweat	4
+breathe heavily	4
+neglect	4
+ignore	4
+unpleasant	4
+sometimes painful	4
+lonely	4
+far away	4
+solitary	4
+sole	4
+visit doctor	4
+make appointment doctor	4
+go see doctor	4
+blood test	4
+go doctor	4
+person die	4
+flaw	4
+ask help	4
+bug	4
+misunderstand	4
+computer crash	4
+find bug	4
+old person	4
+sick person	4
+sin	4
+elderly person	4
+old lady	4
+cause death	4
+pimple	4
+zit	4
+acne	4
+spot	4
+get mug	4
+pay bill	4
+stop marry	4
+friction	4
+take apart	4
+hunger	4
+cut food	4
+heartburn	4
+indigestion	4
+food poison	4
+get sick	4
+sleepiness	4
+band-aid	4
+stop eat	4
+say goodbye	4
+FALSE	4
+waste paper	4
+jail	4
+see need	4
+sickness	4
+cold flu	4
+unwell	4
+feel ill	4
+feel bad	4
+take medicine	4
+diseased	4
+symptom	4
+suffer	4
+faint	4
+tell lie	4
+feel hurt	4
+denial	4
+commit suicide	4
+hermit	4
+bore	4
+unfair	4
+mess up	4
+blind	4
+cause pain	4
+use army	4
+military base	4
+fragile	4
+without	4
+drag	4
+drain	4
+automobile accident	4
+lose job	4
+kill themselves	4
+cloud judgement	4
+extreme boredom	4
+stubborn	4
+quit	4
+walk out	4
+give up	4
+go war	4
+detour	4
+become frustrate	4
+disagree	4
+change mind	4
+compromise	4
+hard day work	4
+bit	4
+leg tire	4
+foot hurt	4
+numbness	4
+break chair	4
+old	4
+forgotten	4
+become unconscious	4
+stop work	4
+fail work	4
+illegal	4
+keep person out	4
+dark color	4
+sensitive	4
+imprisonment	4
+doubt	4
+person go jail	4
+go prison	4
+wooden leg	4
+wish not	4
+pull out	4
+fall off	4
+backache	4
+drowsiness	4
+fall off chair	4
+strong wind	4
+cut down tree	4
+torn	4
+cut skin	4
+iraq	4
+crumble	4
+thrown out	4
+make sick	4
+moan	4
+greenhouse gas	4
+poisonous human	4
+surgeon	4
+doctor surgery	4
+operate	4
+muscle cramp	4
+perspiration	4
+lift heavy	4
+contusion	4
+see doctor	4
+sore muscle	4
+strain muscle	4
+soreness	4
+wilt	4
+sinner	4
+disaster	4
+tropical storm	4
+tornado	4
+tsunami	4
+stifle	4
+smother	4
+sore back	4
+move out	4
+person drink	4
+tarnish	4
+blemish	4
+ruin	4
+stain	4
+cause cold	4
+trouble breathe	4
+wood burn	4
+distraction	4
+look away	4
+miss	4
+heartattack	4
+eyestrain	4
+sleep drug	4
+crack	4
+hold up	4
+uncertainty	4
+burn hand	4
+critical	4
+failure	4
+sell insurance	4
+nerd	4
+worn person	4
+need rest	4
+get trouble	4
+feel lonely	4
+terrible misunderstand	4
+unreliable	4
+need fix	4
+weak	4
+romeo juliet	4
+difficult problem	4
+broken finger	4
+hard find	4
+immature	4
+cry lot	4
+helpless	4
+make face	4
+drop food	4
+not smart	4
+talk nonsense	4
+ignorant	4
+cry loudly	4
+rabies	4
+bald	4
+breakable	4
+restrict access	4
+tragedy	4
+impermanent	4
+get burn	4
+repetitive	4
+easy tear	4
+long stick	4
+sleepless night	4
+alone long time	4
+no person	4
+shortage	4
+famine	4
+lack	4
+easy break	4
+uneven	4
+turn off tv	4
+turn off television	4
+coldness	4
+feel cold	4
+jitters	4
+lot fat	4
+chew pencil	4
+lot stress	4
+pain suffer	4
+person dislike person	4
+dark colore	4
+slow traffic	4
+antagonist	4
+bite tongue	4
+destroy live	4
+bordom	4
+traffic jam	4
+leave room	4
+hidden	4
+diabetes	4
+tax	4
+off	4
+away	4
+chase	4
+lose money	4
+catch cold	4
+little hair	4
+bad luck	4
+not like	4
+leak	4
+lust	4
+vector	4
+unwant outcome	4
+cause headache	4
+dilemma	4
+obstacle	4
+bad situation	4
+quandry	4
+not good	4
+difficulty	4
+big problem	4
+difficult situation	4
+mistake	4
+obese	4
+redo	4
+lose friend	4
+try hard	4
+hurt toe	4
+err	4
+moron	4
+fall ground	4
+fall over	4
+load bear	4
+insomnia	4
+heart attack	4
+gamble money	4
+loss money	4
+bore person	4
+loose money	4
+lose game	4
+gamble	4
+fault	4
+kill self	4
+nobody	4
+go hell	4
+headstone	4
+corpse	4
+dig hole	4
+death place	4
+bury person	4
+rest place	4
+casket	4
+epitaph	4
+bury body	4
+dead person	4
+dead place	4
+monument	4
+tomb	4
+bury dead	4
+coffin	4
+hold back	4
+harmful human	4
+stress out	4
+stray	4
+absence	4
+flee	4
+vague	4
+absent	4
+goodbye	4
+old time	4
+not alive	4
+get fire	4
+suspend	4
+no man	4
+death penalty	4
+drop down	4
+suicide	4
+leave right	4
+cold day	4
+fall sky	4
+herpes	4
+crash	4
+trip fall	4
+wrongdoing	4
+homework	4
+wrong answer	4
+thermonuclear war	4
+become poor	4
+run out money	4
+poverty	4
+need eat	4
+go break	4
+bankruptcy	4
+debt	4
+feel guilty	4
+lack money	4
+go bankrupt	4
+abstraction	4
+struggle	4
+big fight	4
+feel hungry	4
+overspend	4
+become sick	4
+find pawnshop	4
+money owe	4
+amount due	4
+money loss	4
+expense	4
+lower expectation	4
+wait person	4
+negative	4
+impossible	4
+negation	4
+neither	4
+wont	4
+nor	4
+nil	4
+go down	4
+put down	4
+fallen	4
+decline	4
+let down	4
+eye tear	4
+drip	4
+small size	4
+glass break	4
+dehydration	4
+disability	4
+no sight	4
+deaf	4
+not see	4
+hole center	4
+discomfort	4
+feel depress	4
+jump out window	4
+mri	4
+medical test	4
+allergic reaction	4
+insane	4
+crazy	4
+go insane	4
+insanity	4
+mental disorder	4
+slack	4
+blow candle	4
+alcohol drink	4
+life end	4
+end life	4
+isolate	4
+useless	4
+loss	4
+bury cat	4
+make tire	4
+fall overboard	4
+earache	4
+increase heart rate	4
+water eye	4
+water ear	4
+water action	4
+wear bath suit	4
+arm movement	4
+backstroke	4
+shrine	4
+hamper	4
+run away	4
+team lose	4
+keep cage	4
+leer	4
+burn skin	4
+age skin	4
+bad health	4
+fool	4
+theft	4
+robbery	4
+feel strange	4
+allergy	4
+asthma	4
+put old clothe	4
+wear old clothe	4
+break ankle	4
+procrastinate	4
+pull muscle	4
+back pain	4
+homeless	4
+no money	4
+impoverish	4
+foolish	4
+escape reality	4
+oriental medicine	4
+broken computer	4
+sell stock	4
+weigh much	4
+massive	4
+restless	4
+heavy person	4
+die only once	4
+go away	4
+pull cart	4
+dumb	4
+pull wagon	4
+carry person	4
+dangerous health	4
+unhealthy	4
+yawn	4
+take temperature	4
+check pulse	4
+retribution	4
+passe	4
+bacterium	4
+taboo	4
+shut door	4
+shut down	4
+lose team	4
+rebel	4
+liar	4
+slander	4
+deceitful	4
+obstruct justice	4
+passive	4
+hide truth	4
+hurt feeling	4
+mistrust	4
+distrust	4
+broken heart	4
+untruth	4
+dog bite	4
+fool person	4
+make up story	4
+bad action	4
+vice	4
+deceive	4
+go back	4
+silence	4
+no noise	4
+hush	4
+no sound	4
+refuse	4
+right injustice	4
+make small	4
+compete against	4
+may lose	4
+rival	4
+alms	4
+upset stomach	4
+stomachache	4
+acid indigestion	4
+late appointment	4
+stuff face	4
+wage-slave	4
+feel sick	4
+eat excessively	4
+move away	4
+embarrasment	4
+embarassment	4
+take away	4
+minus	4
+get out	4
+if person	4
+medieval time	4
+sneer	4
+injure	4
+bad word	4
+saddness	4
+dump	4
+live alone	4
+feel terrible	4
+lonliness	4
+overlook	4
+serious accident	4
+fatal	4
+jesus crucify	4
+funeral home	4
+ash	4
+loose track time	4
+string break	4
+arthritis	4
+slash wrist	4
+frostbite	4
+small money	4
+go coma	4
+zone out	4
+addiction	4
+eye strain	4
+take aspirin	4
+wave goodbye	4
+broken glass	4
+burn heat	4
+discord	4
+needful	4
+no place	4
+increase size	4
+throw away	4
+burn finger	4
+blow out	4
+turn down	4
+break easily	4
+climb rock	4
+probe	4
+pill bottle	4
+cause illness	4
+roll downhill	4
+chest pain	4
+dry skin	4
+spend lot money	4
+severe pain	4
+feel stupid	4
+cowardice	4
+paralysis	4
+liquor store	4
+get exhaust	4
+minor injury	4
+handicap	4
+cold person	4
+jail time	4
+die painfully	4
+prepare go jail	4
+seek psychiatric help	4
+breathe hard	4
+get accident	4
+burn gasoline	4
+lie floor	4
+rigid	4
+miss bus	4
+terminal illness	4
+retirement	4
+wet clothe	4
+detention	4
+social convention	4
+medication	4
+spasm	4
+pill	4
+loss consciousness	4
+injure yourself	4
+go hospital	4
+lose conciousness	4
+con	4
+notice problem	4
+wrong place	4
+cancel	4
+obesity	4
+hear loss	4
+die out	4
+difficult concept	4
+outsider	4
+grimace	4
+disappointment	4
+ignorance	4
+carpal tunnel syndrome	4
+bad child	4
+strain	4
+look down	4
+get hit car	4
+become ill	4
+dull	4
+pierce	4
+cut finger	4
+deflate	4
+spread out	4
+use thermometer	4	6
+call help	4	5
+casualty	4	6
+residue	4
+leave behind	4
+remainder	4
+dental work	4	6
+type bear	4
+take back	4
+know story	4
+bad omen	4	5	6
+traffic accident	4	5	6
+turn car off	4
+restrain	4
+wither	4
+plant die	4
+extinct	4	5	6
+nowhere	4	5
+call doctor	4	5	6
+bye	4
+may die	4	6
+cost lot money	4	5	6
+get old	4
+lose election	4	6
+butter knife	4
+out breath	4
+lose soul	4
+change attitude	4
+homeless person	4
+ferment	4
+amount owe	4
+send money	4
+mortgage	4
+bill pay	4
+money give	4
+owe	4
+loan	4
+due	4
+give back	4
+monthly due	4
+settle bill	4
+money due	4
+repay	4
+end live	4	6
+monopoly	4
+shut off alarm clock	4
+check e-mail	4
+turn off alarm clock	4
+turn heat	4
+get out bed	4
+good sleep	4	6
+boundary	4
+catch up	4
+kinship	4
+call telephone	4
+use phone	4
+communication system	4
+send flower	4
+relay information	4
+maintain relationship	4
+break silence	4
+unbalance	4
+parallel	4
+tourist attraction	4
+stretch first	4
+past present	4
+builder	4
+sing group	4
+dog die	4	6
+mean person	4
+settle disagreement	4
+kill soldier	4
+shall	4
+amiable	4
+standard	4
+follow mother	4
+form music	4
+comb	4	5
+save world	4
+receive punishment	4
+appreciate art	4	5
+want entertain	4
+summary	4	5
+fasten two object together	4	5
+umbrella	4	5
+stay dry rain	4
+indigo	4
+favorite color	4
+violet	4
+navy	4
+cool color	4
+red yellow	4	6
+colour rainbow	4
+primary color	4
+visible	4
+put away	4
+handgun	4
+for all	4
+limousine	4
+excellent	4
+really good	4
+plentiful	4
+tool war	4
+rite	4
+protrusion	4
+mumps	4	6
+pay credit card	4
+population	4
+monitor heart rate	4
+see future	4
+tolerant	4
+good tooth	4
+low self-esteem	4
+battle disease	4
+four wheel	4
+channel selector	4
+game card	4
+dental office	4
+infrastructure	4
+husband wife	4
+meanness	4
+costly	4
+sob	4	5
+pass away	4
+riverbed	4
+pop balloon	4
+cross eye	4
+limp	4
+tie knot	4	5
+everyday	4	5
+blame	4	5
+bad quality	4	5
+high cost	4
+car part	4	6
+basketball hoop	4
+bruise	4
+see outside	4
+peacemaker	4
+make peace	4
+go job	4
+buy clothe	4
+form social interaction	4	5
+employer	4
+broken limb	4
+sprain ankle	4
+write suicide note	4	5
+broken bone	4
+hit ground	4
+skin cancer	4	6
+drought	4	6
+rash	4
+wrinkle skin	4
+loosen muscle	4
+computer virus	4	5	6
+get hurt	4	5
+around corner	4	5
+lyme disease	4
+ache	4
+spread knowledge	4
+eaten shark	4
+stop breathe	4
+strangle	4
+suffocate	4
+feel guilt	4
+prison sentence	4
+broken leg	4
+misspell	4
+may cry	4	5
+burn hot	4
+person break law	4	6
+kill deer	4
+amnesia	4
+damage body	4
+destroy property	4	6
+see psychiatrist	4
+not breathe	4	6
+smoke cigarrette	4	6
+poor eyesight	4
+burden	4
+car accident	4	6
+feel inferior	4
+hospitalize	4	5	6
+fail exam	4
+sweat lot	4
+leg cramp	4
+twist ankle	4
+feeling hurt	4
+bad time	4
+perspire	4
+turn off computer	4
+mumble	4	6
+cause stress	4	6
+mental illness	4
+nervous breakdown	4
+sore knee	4
+unconsciousness	4	6
+bump head	4
+let body recover	4
+futile	4
+not well	4
+collide	4	6
+person sad	4
+fall head	4
+force other person not want	4	6
+calorie	4
+animal eat	4	6
+wipe eye	4
+treat illness	4	5	6
+play golf	4
+decide guilt	4	6
+prosecutor	4	6
+make judgement	4	6
+go trial	4	6
+volcanic eruption	4	6
+ordinary	4
+sameness	4
+typical	4
+usual	4
+starvation	4
+infectious disease	4	6
+result injury	4
+blindness	4	6
+upset person	4
+experience pain	4
+sometimes bad	4
+divide person	4
+show empathy	4
+lose place	4
+get sleepy	4
+tire eye	4
+person fall	4
+apology	4
+mourner	4
+unpleasantness	4
+morphine	4
+cost lot	4
+shoot deer	4
+sheepskin	4
+millstone	4
+lament	4
+lose credibility	4	5
+poor health	4
+depress person	4
+spill milk	4
+lay off	4
+may injure	4	6
+knee injury	4	6
+exclude	4
+eat poison	4	6
+cripple	4
+catch mumps	4	6
+catharsis	4
+expire	4
+feel sorry	4
+not everything	4
+foot tire	4
+hand luggage	4
+torture	4
+aspirin	4
+utility room	4
+tall person	4
+two together	4
+how old	4
+usual ordinary	4
+listen orchestra	4
+criticism	4
+dolt	4
+baggage compartment	4
+cause injury	4	6
+live ripe old age	4
+remove splinter	4
+paper bill	4
+amount charge	4
+assignment	4
+help find	4
+head hurt	4	6
+annoy mom	4
+bad credit	4
+complication	4
+shed tear	4
+crash tree	4
+air grievance	4
+impairment person	4
+psychosis	4
+sleep apnea	4
+tuberculosis	4
+psychoneurosis	4
+schizophrenia	4	6
+gonorrhea	4
+see action	4
+insure	4
+although	4
+contraceptive	4
+might cry	4
+woodworking	4
+apart	4
+analgesic	4
+not use	4
+thrown away	4
+paper crumple	4
+worn face	4
+find help	4
+disorientation	4
+world hunger	4
+serious problem	4	6
+part dinner	4
+hear bad news	4	6
+unlove	4
+constitution	4
+old paper	4
+courthouse	4	6
+paranoid	4
+revenue	4
+hold every four year	4
+hardly	4
+barely	4
+stub toe	4
+compulsion	4
+uneducated	4
+penicillin	4
+ground level	4
+bandaid	4
+fall apart	4
+scarce	4
+lesser	4
+shatter	4
+shovel snow	4
+pull car	4	5
+loose end	4
+time waste	4
+seat chair	4
+two part	4
+same last	4
+switch computer	4
+accident happen	4	6
+disorganize	4
+outpost	4
+terminate	4
+family relation	4
+dead fish	4
+loss memory	4
+wicket	4
+no time	4
+siege	4
+remove shoe	4
+space between	4
+slow pace	4
+anxiety disorder	4
+look bad	4
+dullness	4
+illiteracy	4
+victim crime	4
+bad knee	4
+diarrhea	4	6
+influenza	4	6
+without money	4
+itchiness	4
+unhealthy food	4	6
+discharge	4
+cry wolf	4
+leg hurt	4
+software crash	4
+cocain	4
+postpone payment	4
+over eat	4	6
+little pollution	4
+orphan	4
+loner	4
+obsessive-compulsive disorder	4
+tire leg	4
+abduction	4	6
+urchin	4
+mere	4
+lifeless	4
+adhesive bandage	4	5	6
+turn off engine	4
+water freeze	4	6
+narrowness	4
+cash bill	4
+need oxygen burn	4	5	6
+sometimes person cry	4
+desire social interaction	4
+fight boyfriend	4	5
+bereavement	4
+frisson	5
+tingle	5
+daze	5
+stupor	5
+dazzling	5
+eye-popping	5
+fulgurant	5
+fulgurous	5
+thrilling	5
+shocking	5
+dumbstruck	5
+dumbstricken	5
+bedaze	5
+shake	5
+shake up	5
+dazzlingly	5
+sensationally	5
+periodic	5
+diverse	5
+sound out	5
+sometimes	5
+impact	5
+combination	5
+get something	5
+juggle	5
+guess	5
+educate guess	5
+probability	5
+where person	5
+vary	5
+unpredictable	5
+unexpected	5
+strange	5
+dizzy	5
+what person	5
+tricky	5
+what	5
+where	5
+happen quickly	5
+start	5
+ask question	5
+startle	5
+question everything	5
+what do	5
+try new	5
+risk	5
+huh	5
+transition	5
+surprise person	5
+imaginary	5
+conundrum	5
+trick	5
+magic trick	5
+mystery	5
+fly fish	5
+how many	5
+upside down	5
+how	5
+query	5
+blink	5
+disbelief	5
+happen anyone	5
+hold breath	5
+indecision	5
+magical	5
+secret	5
+birthday surprise	5
+dream dream	5
+supposition	5
+assumption	5
+what the	5
+look closely	5
+analyze	5
+scan	5
+determine size	5
+look clue	5
+horse shoe	5
+pirate ship	5	6
+gunshot	5	6
+dragon	5	6
+enigma	5
+stimulate mind	5	6
+take court	5	6
+handcuff	5	6
+high point	5	6
+hold trial	5	6
+pinhead	5	6
+metal bar	5	6
+microbe	5	6
+dentist office	5	6
+animal hide	5	6
+exclamation	5
+fight fire	5	6
+calculate	5
+sperm bank	5
+emit light	5
+holy place	5
+angle grinder	5
+ability	5
+up mountain	5	6
+move up	5
+find mountain	5
+see far distance	5
+up hill	5	6
+arrest police	5
+defendant	5
+profile	5
+really big	5
+spiral	5
+thought	5
+area land	5
+good balance	5
+choose game	5
+nice look	5
+fast day	5
+cause sickness	5
+crease	5
+emotional	5	6
+phone bill	5	6
+egalitarianism	5
+identical	5
+hot woman	5	6
+curly	5
+long short	5
+learn interest	5
+learn yourself	5
+guilty person	5
+face music	5
+consumerism	5
+green thumb	5
+gender	5
+produce milk	5
+become liquid	5
+brand	5
+sequel	5
+plan time	5
+interest art	5
+clothe holder	5
+jot down idea	5
+primary colour	5
+pantyhose	5
+live water	5
+display item	5
+bridge stream	5
+thruway	5
+handkerchief	5	6
+facial tissue	5
+puddle	5
+gooey	5
+ooze	5
+drink holder	5
+pointer	5
+push button	5
+smear	5
+scratch back	5
+one of	5
+warn	5
+measure length	5
+pinky	5
+however	5
+press	5
+announcement	5
+television program	5
+every day	5
+type paper	5
+reporter	5
+never	5
+spread information	5	6
+informational	5	6
+ephemeral	5
+person shape	5
+fill helium	5
+business report	5
+turn key	5
+body area	5
+big blue	5
+adjustable	5
+pore	5
+flesh	5
+make up water	5
+coaster	5
+serve coffee	5
+duchess	5
+ray	5
+state mind	5
+create document	5
+question starter	5
+who	5
+entity	5
+earnings	5
+different	5
+violent sport	5	6
+test knowledge	5
+tuxedo	5
+rancher	5
+not want stink	5
+prosthesis	5
+look scary	5	6
+unbeliever	5
+ridiculous	5
+weld	5
+generate heat	5	6
+enter marathon	5
+unemployed	5
+stop think	5
+productive	5	6
+figure skate	5
+inflate tire	5
+fill bottle	5	6
+lift car	5
+lose memory	5	6
+breezy	5
+skin injury	5	6
+difference	5
+passenger ticket	5	6
+shinny	5
+fry fish	5
+oil	5	6
+city area	5
+scrub	5
+clean cloth	5	6
+not talk	5
+dress doll	5
+hold puppy	5	6
+segment	5
+destroy building	5
+list item	5	6
+worst	5
+knowledge power	5
+high school student	5	6
+keep fresh	5
+animation	5
+opportunity	5
+person animal	5	6
+watch d	5
+beaten	5
+whine	5	6
+wind toy	5	6
+blow up balloon	5
+descendant	5
+smell flower	5	6
+play together	5
+say welcome	5
+wipe foot	5	6
+foe	5
+spring up	5
+baseball diamond	5	6
+departure	5
+present award	5	6
+sharp tooth	5
+avalanche	5	6
+bonfire	5
+person believe	5
+enter contract	5
+normal	5
+sea movement	5	6
+animal person	5
+create destroy	5	6
+check account	5
+courtship	5
+encounter	5	6
+filthy	5
+store dry goods	5
+contain food	5	6
+many product	5
+speculum	5
+ice sport	5	6
+poor person	5
+maturity	5
+complete sentence	5
+dislocation	5	6
+inhale air	5
+get oxygen	5	6
+taste food	5
+eat cereal	5
+wooden spoon	5	6
+ration	5
+behave	5
+movie star	5	6
+make musical sound	5
+legislature	5
+political body	5	6
+voice concern	5
+medical person	5	6
+fit clothe	5
+person hurt	5
+join navy	5	6
+geology	5
+woodworking tool	5
+hand tool	5	6
+find airplane	5
+human mind	5
+slacker	5
+proxy	5	6
+flip flop	5
+place camp	5	6
+feel ashamed	5
+make sad	5
+get laugh	5	6
+nativity	5
+further goal	5
+accomplish goal	5	6
+financial gain	5
+sex shop	5
+cut fabric	5
+enjoyable activity	5	6
+become wealthy	5
+open bottle	5
+raise hell	5	6
+flicker	5
+warm hand	5
+burn up	5
+elements	5	6
+palo alto	5
+become politician	5
+get angry	5	6
+sign signature	5	6
+icecream	5
+trace	5
+pay grocery	5	6
+good joke	5
+case house	5
+food source	5	6
+many feather	5
+ell	5
+tennis term	5
+roller-coaster	5
+casserole	5	6
+blare	5
+annoy neighbor	5	6
+use sport	5
+ark	5
+generic name	5
+jewish	5
+pen ink	5	6
+care person	5
+fresh breath	5	6
+know how spell	5
+coin slot	5
+buy soda	5	6
+work area	5
+use search engine	5
+search information	5	6
+creationist	5
+kit	5
+prescription	5	6
+complex organ	5
+electric current	5	6
+machine part	5
+low blood pressure	5	6
+udder	5
+abrupt	5
+suddenly	5
+sudden	5
+common practice	5
+not physical object	5
+wow	5
+bare	5
+obtain ticket	5
+get in	5
+grow impatient	5
+get turn	5
+remember event	5
+bib	5
+receptacle	5
+morse code	5
+lock box	5
+person watch	5
+good taste	5
+hybrid	5
+phone ring	5
+take off glass	5
+get change	5
+drop off	5
+jump off cliff	5	6
+goose bump	5	6
+control room	5
+dig up	5
+dryad	5
+hint	5
+each one	5
+script	5
+look information	5
+scope out information	5
+mind boggle	5
+tremor	5	6
+tell many person	5
+live dangerously	5	6
+polarize	5
+lower price	5
+angry mob	5	6
+drag race	5
+prophet	5
+might	5
+reckon	5
+calendar date	5
+round trip ticket	5
+gift box	5
+blow away	5
+cross bridge	5
+revolutionary	5
+like electricity	5
+mine diamond	5
+boom	5
+bright flash	5
+walk through door	5
+desire information	5
+look like	5
+military action	5
+fast computer	5
+discover new place	5
+keep key	5	6
+dynamite explosion	5	6
+chainsaw	5	6
+firetruck	5	6
+find downtown	5	6
+fuselage	5	6
+ibuprofen	5	6
+forceps	5	6
+machine gun	5	6
+solicitude	6
+solicitousness	6
+sinking	6
+sinking feeling	6
+uneasiness	6
+uncomfortableness	6
+misgiving	6
+meekness	6
+jitteriness	6
+jumpiness	6
+nervousness	6
+restiveness	6
+insecurity	6
+shiver	6
+quiver	6
+shudder	6
+electricity	6
+edginess	6
+trouble	6
+mortification	6
+buck fever	6
+anxiousness	6
+anxiety	6
+angst	6
+self-conscious	6
+nail-biting	6
+nervous	6
+worried	6
+concerned	6
+confusing	6
+confused	6
+troubling	6
+worrisome	6
+worrying	6
+edgy	6
+high-strung	6
+highly strung	6
+jittery	6
+jumpy	6
+nervy	6
+overstrung	6
+uptight	6
+electrifying	6
+mortifying	6
+mortified	6
+fretful	6
+solicitous	6
+mortify	6
+confuse	6
+hover	6
+loom	6
+bulk large	6
+worryingly	6
+distressingly	6
+distressfully	6
+solicitously	6
+subway	6
+buy condom	6
+dictatorship	6
+controversy	6
+elevator	6
+perform stage	6
+addictive	6
+anguish	6
+contact lawyer	6
+hire attorney	6
+stress	6
+hire lawyer	6
+police station	6
+dangerous	6
+needle	6
+problem	6
+free sex	6
+cemetery	6
+underground	6
+liquid gas	6
+poisonous	6
+military	6
+arrest	6
+help	6
+scary movie	6
+loud cry	6
+horror movie	6
+shriek	6
+knife	6
+blood	6
+use knife	6
+tyranny	6
+anarchy	6
+civil war	6
+protect yourself	6
+harm	6
+dry mouth	6
+furnace	6
+hide	6
+dark area	6
+darkness	6
+no light	6
+slippery	6
+cause cancer	6
+accident	6
+medical procedure	6
+operation	6
+mythical creature	6
+trauma	6
+crazy person	6
+afraid death	6
+cut knife	6
+global thermonuclear war	6
+virus	6
+electric razor	6
+investigation	6
+person not know	6
+under ground	6
+under house	6
+sharp weapon	6
+weapon	6
+hunt	6
+projectile	6
+sharpness	6
+ocean floor	6
+bottom sea	6
+pirate	6
+scalpel	6
+use weapon	6
+lethal	6
+arson	6
+unsafe	6
+sound alarm	6
+emergency room	6
+medical instrument	6
+hide identity	6
+emergency	6
+ambulance	6
+radioactive	6
+criminal	6
+court	6
+courtroom	6
+put jail	6
+police	6
+cop	6
+venomous	6
+report crime	6
+army rank	6
+military rank	6
+ready troop	6
+feel nervous	6
+black out	6
+carry gun	6
+lawsuit	6
+walk through wall	6
+shotgun	6
+break law	6
+lose control	6
+broken law	6
+go courtroom	6
+don	6
+sword	6
+tension	6
+enemy	6
+opponent	6
+fire	6
+warrior	6
+fighter	6
+scare person	6
+hell	6
+go court	6
+burial place	6
+army	6
+attacker	6
+storm fortress	6
+bite nail	6
+use hunt	6
+deadly	6
+noose	6
+execution	6
+execute	6
+capital punishment	6
+death sentence	6
+dark outside	6
+after sundown	6
+final exam	6
+murder weapon	6
+battlefield	6
+bloodshed	6
+axe	6
+shoot bullet	6
+arm man	6
+cannon	6
+crime scene	6
+artillery	6
+pistol	6
+police car	6
+shoot person	6
+use war	6
+revolver	6
+ammunition	6
+shoot target	6
+shoot weapon	6
+fire bullet	6
+arsenal	6
+kill people	6
+firearm	6
+big person	6
+armory	6
+fire arm	6
+gun store	6
+murder	6
+rifle	6
+gun shop	6
+assault	6
+bullet	6
+shooter	6
+dangerous weapon	6
+arm force	6
+cry help	6
+curse	6
+electrocution	6
+dictator	6
+interrogation	6
+battleship	6
+battlegroup	6
+big gun	6
+nuclear weapon	6
+homicide	6
+drown	6
+stroke	6
+terminal disease	6
+hear crowd go mad	6
+endanger	6
+nocturnal	6
+criminal activity	6
+against law	6
+army unit	6
+opium	6
+illegal drug	6
+opiate	6
+danger	6
+not human	6
+get lung cancer	6
+feel scare	6
+heart rate increase	6
+underground area	6
+terrorist	6
+porcupine	6
+blackmail	6
+ship sink	6
+choke death	6
+result death	6
+lawer	6
+destruction	6
+blackout	6
+shoot cannon	6
+missile	6
+fire gun	6
+see lawyer	6
+cancer	6
+lung cancer	6
+nightmare	6
+bad dream	6
+war zone	6
+terrorist home	6
+destroy target	6
+make terrorist attack	6
+much big human	6
+create smoke	6
+catch fire	6
+explosion	6
+set fire	6
+stalk	6
+kidnap	6
+lava	6
+house fire	6
+hallucination	6
+poison	6
+kill human	6
+arsenic	6
+scorpion	6
+toxic	6
+bad drug	6
+hazardous	6
+killer	6
+harmful	6
+kill live	6
+troop	6
+house burn down	6
+huge fire	6
+burn down house	6
+stab death	6
+hide body	6
+sharp object	6
+sharpen knife	6
+choose victim	6
+murder another person	6
+attack	6
+end person life	6
+murderer	6
+evil person	6
+blade	6
+find victim	6
+get rid enemy	6
+tackle	6
+head injury	6
+arm themselves	6
+arm weapon	6
+plan attack	6
+grasp hand	6
+jump out	6
+arsonist	6
+burn house	6
+sharp edge	6
+blade weapon	6
+machete	6
+claw	6
+collision	6
+stare off space	6
+close eye	6
+cooty	6
+razor	6
+cut tool	6
+groin	6
+knife sharp	6
+verdict	6
+sharp corner	6
+check doctor	6
+cut wood	6
+wick	6
+blown	6
+entire	6
+all of	6
+totality	6
+up high	6
+fall death	6
+need help	6
+loss breath	6
+blister	6
+upwards	6
+loss awareness	6
+death destruction	6
+lose balance	6
+homeless shelter	6
+nowhere live	6
+mortar	6
+blow up	6
+armoury	6
+break leg	6
+roll down hill	6
+mortal	6
+lose lot money	6
+say sorry	6
+help verb	6
+epidemic	6
+medical problem	6
+smallpox	6
+medical condition	6
+chicken pox	6
+measles	6
+ill health	6
+health problem	6
+flu	6
+disorder	6
+drink glass	6
+simile	6
+girl woman	6
+laud	6
+destroy build	6
+can learn	6
+buy present others	6
+eat orange	6
+many shade	6
+put helmet	6
+panendoscope	6
+build structure	6
+pass information	6
+medical record	6
+metal stick	6
+haunt house	6
+buy gun	6
+escape fire	6
+prey	6
+mass hysteria	6
+no sun	6
+syringe	6
+terrify	6
+breathlessness	6
+calamity	6
+demon	6
+vaccine	6
+may break fingernail	6
+short circuit	6
+acid	6
+dog chase	6
+phobia	6
+big monster	6
+burglary	6
+run out breath	6
+small cut	6
+injure person	6
+ask many question	6
+listen story	6
+support cause	6
+accomplish task	6
+risky	6
+concede	6
+something from person	6
+lower body	6
+man clothe	6
+close together	6
+clergyman	6
+offer solace	6
+competence	6
+iliteracy	6
+vein	6
+gunpowder	6
+decide case	6
+get nervous	6
+dizziness	6
+medical examination	6
+grizzly	6
+box ring	6
+satan	6
+hale	6
+empty place	6
+gas oil	6
+lighter air	6
+medic	6
+medical care	6
+fight battle	6
+storm castle	6
+cholesterol	6
+eddy	6
+vestibule	6
+strong drink	6
+static electricity	6
+retreat	6
+terrorize	6
+control person	6
+lose battle	6
+compress air	6
+carpel tunnel syndrome	6
+red skin	6
+touch fire	6
+keep safe place	6
+body ache	6
+doctor visit	6
+work much	6
+incarceration	6
+extreme	6
+gas electric	6
+perform surgery	6
+gift adult	6
+make mark paper	6
+imprison	6
+warning	6
+stop watch	6
+roar	6
+contradiction	6
+load gun	6
+rebellion	6
+hypodermic needle	6
+walk across street	6
+hole slot	6
+best opponent	6
+emergency brake	6
+electrical connection	6
+deadline	6
+rapid	6
+swim lake	6
+pump blood	6
+middle road	6
+fall down flight stair	6
+limit time	6
+crossroad	6
+sink water	6
+warn sign	6
+examination table	6
+support structure	6
+dagger	6
+trip acid	6
+find direction	6
+cleaver	6
+exhalation	6
+jeopardy	6
+shift gear	6
+lifebelt	6
+fear death	6
+high octane	6
+mad cow disease	6
+increase body temperature	6
+cigarette smoke	6
+dynamite	6
+aerial bomb	6
+glutton	6
+nuclear bomb	6
+harden criminal	6
+cannonball	6
+elephant sit chest	6
+madman	6
+flare	6
+barb	6
